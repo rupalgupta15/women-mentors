@@ -1,0 +1,1532 @@
+{
+    "994973367265525760": {
+        "id": 994973367265525760,
+        "id_str": "994973367265525760",
+        "name": "Frontend Mentor",
+        "screen_name": "frontendmentor",
+        "location": "100% Online",
+        "description": "Improve your HTML, CSS and JavaScipt while using a real-world workflow. Our challenges provide designs, starter code, project brief and a front-end style guide.",
+        "url": "https://t.co/9kqv7Vpy2s",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9kqv7Vpy2s",
+                        "expanded_url": "https://www.frontendmentor.io/",
+                        "display_url": "frontendmentor.io",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1871,
+        "friends_count": 279,
+        "listed_count": 18,
+        "created_at": "Fri May 11 16:11:51 +0000 2018",
+        "favourites_count": 602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 560,
+        "lang": "en",
+        "status": {
+            "created_at": "Fri Jun 28 23:33:20 +0000 2019",
+            "id": 1144750658333134851,
+            "id_str": "1144750658333134851",
+            "text": "RT @djordjee_st: Another great challenge by @frontendmentor, this time using an API! Had a lot of fun creating this as I used my favorite J\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "djordjee_st",
+                        "name": "Djordje Stevanovic",
+                        "id": 775763167,
+                        "id_str": "775763167",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "frontendmentor",
+                        "name": "Frontend Mentor",
+                        "id": 994973367265525760,
+                        "id_str": "994973367265525760",
+                        "indices": [
+                            44,
+                            59
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 28 21:14:28 +0000 2019",
+                "id": 1144715712960876544,
+                "id_str": "1144715712960876544",
+                "text": "Another great challenge by @frontendmentor, this time using an API! Had a lot of fun creating this as I used my fav\u2026 https://t.co/n96kP30vAu",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "frontendmentor",
+                            "name": "Frontend Mentor",
+                            "id": 994973367265525760,
+                            "id_str": "994973367265525760",
+                            "indices": [
+                                27,
+                                42
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/n96kP30vAu",
+                            "expanded_url": "https://twitter.com/i/web/status/1144715712960876544",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994973367265525760/1538570798",
+        "profile_link_color": "3E54A4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "4924248694": {
+        "id": 4924248694,
+        "id_str": "4924248694",
+        "name": "Mr Frontend Mentor",
+        "screen_name": "frontendmr",
+        "location": "The web",
+        "description": "Mentoring junior developers to get their first job! #javascript #frontend #css #webdevelopment #learning #codenewbie #100daysofcode",
+        "url": "https://t.co/VCLBSWxgbK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/VCLBSWxgbK",
+                        "expanded_url": "https://mrfrontend.org",
+                        "display_url": "mrfrontend.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 550,
+        "friends_count": 382,
+        "listed_count": 269,
+        "created_at": "Wed Feb 17 15:27:58 +0000 2016",
+        "favourites_count": 779,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2342,
+        "lang": "nl",
+        "status": {
+            "created_at": "Fri Jun 28 20:37:47 +0000 2019",
+            "id": 1144706480161079301,
+            "id_str": "1144706480161079301",
+            "text": "@villamin_c \u2018create-react-app\u2019 so you can put it on your Github. Then you can also put all your quote data in a jso\u2026 https://t.co/HT9H6vqvqV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "villamin_c",
+                        "name": "Christian Villamin",
+                        "id": 1132468440227205120,
+                        "id_str": "1132468440227205120",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/HT9H6vqvqV",
+                        "expanded_url": "https://twitter.com/i/web/status/1144706480161079301",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1144706065076035588,
+            "in_reply_to_status_id_str": "1144706065076035588",
+            "in_reply_to_user_id": 4924248694,
+            "in_reply_to_user_id_str": "4924248694",
+            "in_reply_to_screen_name": "frontendmr",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718862116883668992/y15lFW2h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718862116883668992/y15lFW2h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4924248694/1561326324",
+        "profile_link_color": "E02267",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "35470229": {
+        "id": 35470229,
+        "id_str": "35470229",
+        "name": "Filipa Lacerda",
+        "screen_name": "FilipaLacerda",
+        "location": "Aveiro, Portugal",
+        "description": "Senior Frontend Engineer @gitlab  \u2022 @vuejs enthusiast \u2022 speaker \u2022 frontend mentor",
+        "url": "https://t.co/4Az1Uq7ZyK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4Az1Uq7ZyK",
+                        "expanded_url": "https://filipa.gitlab.io/",
+                        "display_url": "filipa.gitlab.io",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1615,
+        "friends_count": 662,
+        "listed_count": 49,
+        "created_at": "Sun Apr 26 14:04:47 +0000 2009",
+        "favourites_count": 899,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1507,
+        "lang": "en",
+        "status": {
+            "created_at": "Wed Jun 19 16:06:01 +0000 2019",
+            "id": 1141376600241594368,
+            "id_str": "1141376600241594368",
+            "text": "RT @posva: Excited to say that I have a Sponsorship page on @github now! \ud83c\udf89\n\ud83d\udc49 https://t.co/IsnoqTmsjU\nAny donation is helping me out build a\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "posva",
+                        "name": "Eduardo.\ud835\ude9f\ud835\ude9e\ud835\ude8e",
+                        "id": 181723645,
+                        "id_str": "181723645",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "github",
+                        "name": "GitHub",
+                        "id": 13334762,
+                        "id_str": "13334762",
+                        "indices": [
+                            60,
+                            67
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/IsnoqTmsjU",
+                        "expanded_url": "https://github.com/users/posva/sponsorship",
+                        "display_url": "github.com/users/posva/sp\u2026",
+                        "indices": [
+                            77,
+                            100
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jun 18 22:07:45 +0000 2019",
+                "id": 1141105243100291072,
+                "id_str": "1141105243100291072",
+                "text": "Excited to say that I have a Sponsorship page on @github now! \ud83c\udf89\n\ud83d\udc49 https://t.co/IsnoqTmsjU\nAny donation is helping m\u2026 https://t.co/eYuW4GJLEv",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "github",
+                            "name": "GitHub",
+                            "id": 13334762,
+                            "id_str": "13334762",
+                            "indices": [
+                                49,
+                                56
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/IsnoqTmsjU",
+                            "expanded_url": "https://github.com/users/posva/sponsorship",
+                            "display_url": "github.com/users/posva/sp\u2026",
+                            "indices": [
+                                66,
+                                89
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/eYuW4GJLEv",
+                            "expanded_url": "https://twitter.com/i/web/status/1141105243100291072",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 43,
+                "favorite_count": 145,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 43,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083756616502132736/oRsTYFnk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083756616502132736/oRsTYFnk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35470229/1467641987",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "229573270": {
+        "id": 229573270,
+        "id_str": "229573270",
+        "name": "Jeff Lau",
+        "screen_name": "_jefflau",
+        "location": "Taipei City, Taiwan",
+        "description": "Javascripter. Climber. Developer at @ensdomains. Co-founder of @wearekickback. Frontend mentor. Distilling the complicated in simple ways",
+        "url": "https://t.co/7iVCPc2V2L",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7iVCPc2V2L",
+                        "expanded_url": "http://jefflau.dev",
+                        "display_url": "jefflau.dev",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 943,
+        "friends_count": 327,
+        "listed_count": 75,
+        "created_at": "Wed Dec 22 19:13:47 +0000 2010",
+        "favourites_count": 3160,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7138,
+        "lang": "en",
+        "status": {
+            "created_at": "Fri Jun 28 09:33:12 +0000 2019",
+            "id": 1144539234482524160,
+            "id_str": "1144539234482524160",
+            "text": "Taiwan publishes world's first STO laws\n\nhttps://t.co/nxAcqYgA8a",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/nxAcqYgA8a",
+                        "expanded_url": "https://wccftech.com/taiwan-publishes-worlds-first-sto-laws/",
+                        "display_url": "wccftech.com/taiwan-publish\u2026",
+                        "indices": [
+                            41,
+                            64
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E6F7F4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102055855309160448/H32e7Mpb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102055855309160448/H32e7Mpb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229573270/1560242181",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "16339134": {
+        "id": 16339134,
+        "id_str": "16339134",
+        "name": "Pavan Podila",
+        "screen_name": "pavanpodila",
+        "location": "Bengaluru, India",
+        "description": "\u2764\ufe0f Frontend. Mentor, Speaker, Author, #GDE (Web). React, Flutter, macOS/iOS. Creator of MobX.dart, @QuickLensApp\n\nSr. Dir. Technology @PublicisSapient",
+        "url": "https://t.co/XhRYalMKHz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XhRYalMKHz",
+                        "expanded_url": "https://blog.pixelingene.com",
+                        "display_url": "blog.pixelingene.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1420,
+        "friends_count": 917,
+        "listed_count": 94,
+        "created_at": "Wed Sep 17 23:26:25 +0000 2008",
+        "favourites_count": 2093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3200,
+        "lang": "en",
+        "status": {
+            "created_at": "Fri Jun 28 17:36:32 +0000 2019",
+            "id": 1144660867079790592,
+            "id_str": "1144660867079790592",
+            "text": "@MaikuB84 it's good as is",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MaikuB84",
+                        "name": "Michael Bui",
+                        "id": 172966542,
+                        "id_str": "172966542",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1144519470351712256,
+            "in_reply_to_status_id_str": "1144519470351712256",
+            "in_reply_to_user_id": 172966542,
+            "in_reply_to_user_id_str": "172966542",
+            "in_reply_to_screen_name": "MaikuB84",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140816691208699905/xz7BqrhL_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140816691208699905/xz7BqrhL_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16339134/1518407881",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "585713975": {
+        "id": 585713975,
+        "id_str": "585713975",
+        "name": "Vanessa  Marely",
+        "screen_name": "vanessamarely",
+        "location": "",
+        "description": "Frontend Developer \ud83d\udc69\u200d\ud83d\udcbb - System Engineer - Designer \ud83d\udc69\u200d\ud83c\udfa8 - Dog/Cat Lover \ud83d\udc36\ud83d\udc31 - Co-Organizer  @gdgmed - @shecodesangular - #frontend Mentor\ud83d\udc69\u200d\ud83c\udfeb and Speaker",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 854,
+        "friends_count": 776,
+        "listed_count": 15,
+        "created_at": "Sun May 20 14:36:41 +0000 2012",
+        "favourites_count": 1226,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1201,
+        "lang": "es",
+        "status": {
+            "created_at": "Fri Jun 28 02:09:36 +0000 2019",
+            "id": 1144427599176851456,
+            "id_str": "1144427599176851456",
+            "text": "RT @vuevixensCO: Faltan solo 2 d\u00edas para la primer edici\u00f3n de \ud83e\udd8a Vue Vixens Medellin y queremos presentarte el equipo de mentores \ud83d\udcaa",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "vuevixensCO",
+                        "name": "Vue Vixens CO \ud83e\udd8a",
+                        "id": 1083053600195166208,
+                        "id_str": "1083053600195166208",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 27 18:56:42 +0000 2019",
+                "id": 1144318656530325505,
+                "id_str": "1144318656530325505",
+                "text": "Faltan solo 2 d\u00edas para la primer edici\u00f3n de \ud83e\udd8a Vue Vixens Medellin y queremos presentarte el equipo de mentores \ud83d\udcaa",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 20,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1086818848874135552/YpGK114Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086818848874135552/YpGK114Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585713975/1542045836",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "271871022": {
+        "id": 271871022,
+        "id_str": "271871022",
+        "name": "Debbie O'Brien",
+        "screen_name": "debs_obrien",
+        "location": "Palma, Spain",
+        "description": "Frontend Tech Lead @AgencyPatterson, teacher @vueSchool_io, Writer @tryUltimate. Mentor @OpenClassrooms and @treehouse. @webpack contributor. Speaker.",
+        "url": "https://t.co/hVOlIhLUbv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hVOlIhLUbv",
+                        "expanded_url": "https://github.com/debs-obrien",
+                        "display_url": "github.com/debs-obrien",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1114,
+        "friends_count": 858,
+        "listed_count": 16,
+        "created_at": "Fri Mar 25 10:29:36 +0000 2011",
+        "favourites_count": 2670,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1339,
+        "lang": "en",
+        "status": {
+            "created_at": "Fri Jun 28 21:23:29 +0000 2019",
+            "id": 1144717983253745664,
+            "id_str": "1144717983253745664",
+            "text": "@afontcu_ @gustojs @MayaShavin @VueAndMe Yes; me and you could definitely work together on this one. I\u2019m working on\u2026 https://t.co/TWAREJOQ5h",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "afontcu_",
+                        "name": "afontcu @ AOS19",
+                        "id": 913851783046422528,
+                        "id_str": "913851783046422528",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "gustojs",
+                        "name": "VueAndGusto",
+                        "id": 830171539999952896,
+                        "id_str": "830171539999952896",
+                        "indices": [
+                            10,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "MayaShavin",
+                        "name": "Maya Shavin \ud83c\uddee\ud83c\uddf1\ud83c\udfe1 \ud83c\udf52\ud83c\udf52",
+                        "id": 50981316,
+                        "id_str": "50981316",
+                        "indices": [
+                            19,
+                            30
+                        ]
+                    },
+                    {
+                        "screen_name": "VueAndMe",
+                        "name": "VueAndMe",
+                        "id": 1144230370289868800,
+                        "id_str": "1144230370289868800",
+                        "indices": [
+                            31,
+                            40
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/TWAREJOQ5h",
+                        "expanded_url": "https://twitter.com/i/web/status/1144717983253745664",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1144717611193774080,
+            "in_reply_to_status_id_str": "1144717611193774080",
+            "in_reply_to_user_id": 913851783046422528,
+            "in_reply_to_user_id_str": "913851783046422528",
+            "in_reply_to_screen_name": "afontcu_",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976556373440856064/GcKG1rUN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976556373440856064/GcKG1rUN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271871022/1556131605",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "1699999614": {
+        "id": 1699999614,
+        "id_str": "1699999614",
+        "name": "Taras Mankovski",
+        "screen_name": "tarasm",
+        "location": "Toronto, Canada",
+        "description": "Senior Frontend Engineer and developer mentor @TheFrontside. Building Microstates https://t.co/fXovrulfuX",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/fXovrulfuX",
+                        "expanded_url": "https://github.com/microstates/microstates.js",
+                        "display_url": "github.com/microstates/mi\u2026",
+                        "indices": [
+                            82,
+                            105
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 4704,
+        "friends_count": 154,
+        "listed_count": 273,
+        "created_at": "Sun Aug 25 19:56:12 +0000 2013",
+        "favourites_count": 3977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12143,
+        "lang": "en",
+        "status": {
+            "created_at": "Sun Jun 23 23:22:07 +0000 2019",
+            "id": 1142935899505876993,
+            "id_str": "1142935899505876993",
+            "text": "@alexlafroscia @mattegreer If you manage the domain through cloudflare then you\u2019ll get these stats from them",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "alexlafroscia",
+                        "name": "Alex LaFroscia",
+                        "id": 133564736,
+                        "id_str": "133564736",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "mattegreer",
+                        "name": "Matt Greer",
+                        "id": 973003309890981889,
+                        "id_str": "973003309890981889",
+                        "indices": [
+                            15,
+                            26
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1142847774922141697,
+            "in_reply_to_status_id_str": "1142847774922141697",
+            "in_reply_to_user_id": 133564736,
+            "in_reply_to_user_id_str": "133564736",
+            "in_reply_to_screen_name": "alexlafroscia",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850014558420819968/KP5Dpcfo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850014558420819968/KP5Dpcfo_normal.jpg",
+        "profile_link_color": "DF542F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "42576192": {
+        "id": 42576192,
+        "id_str": "42576192",
+        "name": "Martin Bing",
+        "screen_name": "MartinBing",
+        "location": "Berlin, Germany",
+        "description": "Team Lead (MATE Team) - Frontend & Mobile Architect (CSM, CAL 1) @Webtrekk \nMaking sure design + data tell the same story, mentor & instructor @Thinkful.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 203,
+        "friends_count": 160,
+        "listed_count": 38,
+        "created_at": "Tue May 26 06:09:25 +0000 2009",
+        "favourites_count": 654,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 860,
+        "lang": "en",
+        "status": {
+            "created_at": "Sun May 26 12:52:27 +0000 2019",
+            "id": 1132630575045652480,
+            "id_str": "1132630575045652480",
+            "text": "Erinnerst du dich noch, wann du dich f\u00fcr Twitter registriert hast? Ich erinnere mich noch! #MeinTwitterJubil\u00e4um https://t.co/EVO61lbOsg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MeinTwitterJubil\u00e4um",
+                        "indices": [
+                            91,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1132630564283006977,
+                        "id_str": "1132630564283006977",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
+                        "url": "https://t.co/EVO61lbOsg",
+                        "display_url": "pic.twitter.com/EVO61lbOsg",
+                        "expanded_url": "https://twitter.com/MartinBing/status/1132630575045652480/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1132630564283006977,
+                        "id_str": "1132630564283006977",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
+                        "url": "https://t.co/EVO61lbOsg",
+                        "display_url": "pic.twitter.com/EVO61lbOsg",
+                        "expanded_url": "https://twitter.com/MartinBing/status/1132630575045652480/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "2a8a74486cd0d519",
+                "url": "https://api.twitter.com/1.1/geo/id/2a8a74486cd0d519.json",
+                "place_type": "city",
+                "name": "Antwerp",
+                "full_name": "Antwerp, Belgium",
+                "country_code": "BE",
+                "country": "Belgium",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                4.2180843,
+                                51.1434643
+                            ],
+                            [
+                                4.4982962,
+                                51.1434643
+                            ],
+                            [
+                                4.4982962,
+                                51.3776487
+                            ],
+                            [
+                                4.2180843,
+                                51.3776487
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "de"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491846164946251777/Hmy2lLYH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491846164946251777/Hmy2lLYH_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42576192/1356465125",
+        "profile_link_color": "27AE60",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "33880645": {
+        "id": 33880645,
+        "id_str": "33880645",
+        "name": "Scott Showalter",
+        "screen_name": "scott_showalter",
+        "location": "Northwest Ohio",
+        "description": "Innovator at heart. Lean UX Practitioner & Lead, Interaction Designer, Frontend Architect, Mentor, Nescient Thought Leader, Wordsmith, Character Limit Exhauster",
+        "url": "http://t.co/BRjqepjsI9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/BRjqepjsI9",
+                        "expanded_url": "http://www.scottshowalter.com",
+                        "display_url": "scottshowalter.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 202,
+        "friends_count": 171,
+        "listed_count": 53,
+        "created_at": "Tue Apr 21 11:54:07 +0000 2009",
+        "favourites_count": 748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2464,
+        "lang": "en",
+        "status": {
+            "created_at": "Sun Aug 27 15:40:27 +0000 2017",
+            "id": 901831784517787652,
+            "id_str": "901831784517787652",
+            "text": "\"It's extremely easy to understand an individual's problems by holding a 1:1 with them.\" @mattbarcomb",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mattbarcomb",
+                        "name": "Matt Barcomb",
+                        "id": 32163649,
+                        "id_str": "32163649",
+                        "indices": [
+                            89,
+                            101
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 901724563565936640,
+            "in_reply_to_status_id_str": "901724563565936640",
+            "in_reply_to_user_id": 32163649,
+            "in_reply_to_user_id_str": "32163649",
+            "in_reply_to_screen_name": "mattbarcomb",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6F00",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/431127817934217216/fz5YxIqx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431127817934217216/fz5YxIqx_normal.jpeg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "E88000",
+        "profile_sidebar_fill_color": "FFF4D1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "265992839": {
+        "id": 265992839,
+        "id_str": "265992839",
+        "name": "Fernando Arias \ud83d\udc9a",
+        "screen_name": "FerCieguno",
+        "location": "Lan\u00fas Oeste, Argentina",
+        "description": "De la @codeUtnFra. Frontend @GlobalLogic_LA. Mentor @acamica_com. Coorganizo @javascript_101. Socio N\u00b0 3675 @clublanus, granate como mi viejo y mi abuelo.",
+        "url": "https://t.co/PjFOMNOWy7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PjFOMNOWy7",
+                        "expanded_url": "http://fernandoarias.com.ar",
+                        "display_url": "fernandoarias.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1303,
+        "friends_count": 1280,
+        "listed_count": 46,
+        "created_at": "Mon Mar 14 13:25:38 +0000 2011",
+        "favourites_count": 19316,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36396,
+        "lang": "es",
+        "status": {
+            "created_at": "Fri Jun 28 21:21:54 +0000 2019",
+            "id": 1144717584736108544,
+            "id_str": "1144717584736108544",
+            "text": "@fga_8 @TuentiAR Muy \u00fatil tu comentario muchas gracias.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "fga_8",
+                        "name": "Fede G\u00f3mez",
+                        "id": 129695601,
+                        "id_str": "129695601",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    },
+                    {
+                        "screen_name": "TuentiAR",
+                        "name": "Tuenti Argentina",
+                        "id": 1706247542,
+                        "id_str": "1706247542",
+                        "indices": [
+                            7,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1144713548049911808,
+            "in_reply_to_status_id_str": "1144713548049911808",
+            "in_reply_to_user_id": 129695601,
+            "in_reply_to_user_id_str": "129695601",
+            "in_reply_to_screen_name": "fga_8",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091501944311631872/QVt6btwJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091501944311631872/QVt6btwJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265992839/1525273006",
+        "profile_link_color": "660033",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "1E1466",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "1974931724": {
+        "id": 1974931724,
+        "id_str": "1974931724",
+        "name": "Momen Zakaria",
+        "screen_name": "_iMomen",
+        "location": "Makkah Al Mukarrama, Kingdom of Saudi Arabia",
+        "description": "UX Designer & Mentor, FrontEnd Developer Nanodegree #Udacity \n\u0645\u0647\u062a\u0645 \u0628\u062a\u0639\u0631\u064a\u0628 #\u062a\u062c\u0631\u0628\u0629_\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\nhttps://t.co/piIW6bIg37",
+        "url": "http://t.co/RM6H9ALHvq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/RM6H9ALHvq",
+                        "expanded_url": "http://imomen.com",
+                        "display_url": "imomen.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/piIW6bIg37",
+                        "expanded_url": "http://linkedin.com/in/momenzakaria",
+                        "display_url": "linkedin.com/in/momenzakaria",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1435,
+        "friends_count": 384,
+        "listed_count": 105,
+        "created_at": "Sun Oct 20 12:13:22 +0000 2013",
+        "favourites_count": 27,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7891,
+        "lang": "en",
+        "status": {
+            "created_at": "Fri Jun 21 11:42:27 +0000 2019",
+            "id": 1142035046288830464,
+            "id_str": "1142035046288830464",
+            "text": "Fail early to succeed sooner",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096698124998004736/uhizsMPO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096698124998004736/uhizsMPO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974931724/1540963420",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    }
+}

@@ -1,0 +1,33 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Matched Mentors </title>
+</head>
+<!--<body>-->
+<!--(Child) Data received from flask app.py: {{ all_matched_mentors }}-->
+
+{% block content %}
+<div class="container-fluid">
+
+{% for item in all_matched_mentors %}
+    <div class="row" style="border:1px solid black;">
+    <h5 class="mt-2"><b> Mentor {{ loop.index0 + 1 }}:</b></h5>
+        <div class="row ml-1">
+         <div class="col-sm-6 ml-5"><p> <h5> <b>ID: {{ item['id'] }}</b> </h5> </p>
+            <div class="col-sm-6"><p>Name: <b>{{ item['name'] }}</b></p></div>
+            <div class="col-sm-12"><p> Location: {{ item['location'] }}</p></div>
+            <div class="col-sm-12"><p> Description: {{ item['description'] }}</p></div>
+          <div class="col-sm-12"><p> Visit Profile: <a target="_blank" href= {{ item['twitter_profile_url']}}>Twitter URL</a></p></div>
+         </div>
+        </div>
+    </div>
+{% endfor %}
+
+{% endblock content%}
+    </div>
+</div>
+
+<!--</body>-->
+</html>
