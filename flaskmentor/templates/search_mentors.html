@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block script %}
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.5.1/vue-resource.min.js"></script>
+    <script src="https://unpkg.com/vuex"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}">
+    </script>
+{% endblock script %}
+
+{% block content %}
+
+    <h1> Search Mentors Page </h1>
+    <div id="vue-app">
+    <!-- this div is controlled by Vue JS-->
+        <p> [[ name ]] </p>
+    </div>
+
+{% endblock content %}
+
