@@ -12,6 +12,7 @@ Flask-Login==0.4.1
 Flask-OAuth==0.12
 Flask-SQLAlchemy==2.4.0
 Flask-WTF==0.14.2
+gunicorn==19.9.0
 heroku==0.1.4
 httplib2==0.13.0
 idna==2.8
