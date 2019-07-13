@@ -9,7 +9,7 @@ from flask_login import login_user, current_user, logout_user, login_required
 import requests
 
 
-@app.route('/')
+@app.route('/show')
 def show_json2():
     filename = os.path.join('data', 'final_mentors.json')
 
