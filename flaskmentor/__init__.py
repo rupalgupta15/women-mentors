@@ -8,8 +8,11 @@ import sys
 
 
 app = Flask(__name__)
+
+# next 2 lines added for logging error to heroku logs
 app.logger.addHandler(logging.StreamHandler(sys.stdout))
 app.logger.setLevel(logging.ERROR)
+
 app.config['SECRET_KEY'] = '17b60f8a1367103ecd4d09eda9426caf'
 # can be made an environment variable
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
