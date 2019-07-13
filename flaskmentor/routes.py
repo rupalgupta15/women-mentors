@@ -10,9 +10,10 @@ import requests
 
 
 @app.route('/')    # was /home earlier
-@app.route('/home')
+@app.route('/home', methods = ['GET'])
 def home_page():
-    return render_template('home.html')
+    top_mentors = prepare_data.main(None, filename="final_mentors.json")
+    return render_template('home.html', top_mentors=top_mentors)
 
 
 @app.route('/show')

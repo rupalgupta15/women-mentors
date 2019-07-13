@@ -24,28 +24,7 @@ def matches(mentor_des, user_query):  # mentor_des and user_query both are lists
     return intersection
 
 
-def main(user_query):
-    # Fetching data from mentors json file to a dictionary
-    final_matched_mentors = []
-    # mentors_dict = {}
-    # final_mentors
-
-    with open('./data/final_mentors.json', 'r') as f:
-        # temp_data = json.load(f)
-        mentors_dict = json.load(f)
-    # final_data = temp_data["mentors"]
-
-    # for user in final_data:
-    #     temp_dict = user
-    #     mentors_dict[temp_dict['id_str']] = temp_dict
-
-    for key, value in mentors_dict.items():
-        mentors_dict[key]['clean_description'] = preprocess(mentors_dict[key]['description'])
-        # mentors_dict[key]['clean_description'] = mentors_dict[key]['clean_description'].lower()
-
-    for key, value in mentors_dict.items():
-        mentors_dict[key]['tokenized_description'] = tokenize(mentors_dict[key]['clean_description'])
-
+def user_query_processing(user_query, mentors_dict):
     user_query = preprocess(user_query)
     user_query_list = tokenize(user_query)
     match_counts_dict = defaultdict(list)
@@ -65,8 +44,42 @@ def main(user_query):
         for i in range(0, 5-len(matched_ids)):  # return items from second highest key in dict
             sec_max_key_id = sorted_match_count_dict[-2]
             matched_ids = match_counts_dict[sec_max_key_id]
+    return matched_ids
 
-    for id in matched_ids:
+
+# 2 main files: final_mentors.json (this contains self selected data from twitter) and replies_mentor_data.json
+# (this file has all the data fetched from replies) (pass user query None for accessing this file's contents)
+def main(user_query="", filename="final_mentors.json"):
+    # Fetching data from mentors json file to a dictionary
+    final_matched_mentors = []
+    # mentors_dict = {}
+
+    path = './data/' + filename
+
+    with open(path, 'r') as f:
+        # temp_data = json.load(f)
+        mentors_dict = json.load(f)
+    # final_data = temp_data["mentors"]
+
+    # for user in final_data:
+    #     temp_dict = user
+    #     mentors_dict[temp_dict['id_str']] = temp_dict
+
+    for key, value in mentors_dict.items():
+        mentors_dict[key]['clean_description'] = preprocess(mentors_dict[key]['description'])
+        # mentors_dict[key]['clean_description'] = mentors_dict[key]['clean_description'].lower()
+
+    for key, value in mentors_dict.items():
+        mentors_dict[key]['tokenized_description'] = tokenize(mentors_dict[key]['clean_description'])
+
+    if user_query:
+        filtered_ids = user_query_processing(user_query, mentors_dict)
+    else:
+        filtered_ids = []
+        for key, value in mentors_dict.items():
+            filtered_ids.append(mentors_dict[key]['id_str'])
+
+    for id in filtered_ids:
         individuals = mentors_dict[id]
         # Include mentors whose profile is not protected - this is because we want them to find mentors easily
         if not individuals["protected"]:
@@ -83,5 +96,7 @@ def main(user_query):
     # Create final object to be returned
     return final_matched_mentors  # This should be the object created above which is a list of dictionaries
 
-#  main('women')
 
+# For directly testing this file change ./data to ../data
+# final_matched_mentors = main(None, filename="replies_mentor_data.json")
+# print('final_matched_mentors', final_matched_mentors)
