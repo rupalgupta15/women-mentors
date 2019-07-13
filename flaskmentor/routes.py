@@ -10,7 +10,7 @@ import requests
 
 
 @app.route('/')
-def show_json():
+def show_json2():
     filename = os.path.join('data', 'final_mentors.json')
 
     with open(filename) as data_file:
