@@ -1,0 +1,1 @@
+web: gunicorn --chdir flaskmentor __init__:app

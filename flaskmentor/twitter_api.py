@@ -27,33 +27,30 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
+print(api.get_user(screen_name='yoyuull'))
 
-
-def find_all_users(q, num_of_mentors=100):
-    num_results_per_page = 20
-    num_pages = math.ceil(num_of_mentors/num_results_per_page)
-
-    # users_dict = {"mentors": []}   # used before - working correctly
-    users_dict = {}
-    # for q in query_list:
-    for i in range(1, num_pages+1):
-        for user in api.search_users(q, num_results_per_page, i):
-            # API.search_users(q[, per_page][, page])
-            # per_page - max 20 number of statuses to receive,
-            # page - page number of results to receive
-            # users_dict["mentors"].append(user._json)  # used before - working correctly
-            # Below two lines added new - not working
-            temp_dict = user._json
-            users_dict[temp_dict['id_str']] = temp_dict
-
-    with open('./data/programming_mentor_data.json', 'w') as f:
-        json.dump(users_dict, f, indent=4)
-
-
-find_all_users('programming mentor', 100)
-
-
-
-# print(users)
-# # print(api.verify_credentials())
-# print(api.search_users('women mentor', 20, 5))
+#
+# def find_all_users(q, num_of_mentors=100):
+#     num_results_per_page = 20
+#     num_pages = math.ceil(num_of_mentors/num_results_per_page)
+#
+#     # users_dict = {"mentors": []}   # used before - working correctly
+#     users_dict = {}
+#     # for q in query_list:
+#     for i in range(1, num_pages+1):
+#         for user in api.search_users(q, num_results_per_page, i):
+#             # API.search_users(q[, per_page][, page])
+#             # per_page - max 20 number of statuses to receive,
+#             # page - page number of results to receive
+#             # users_dict["mentors"].append(user._json)  # used before - working correctly
+#             # Below two lines added new - not working
+#             print('User', user)
+#             temp_dict = user._json
+#             temp_dict['extra_details'] = ""
+#             users_dict[temp_dict['id_str']] = temp_dict
+#
+#     with open('../data/github_mentor_data.json', 'w') as f:
+#         json.dump(users_dict, f, indent=4)
+#
+#
+# find_all_users('github questions', 2)
