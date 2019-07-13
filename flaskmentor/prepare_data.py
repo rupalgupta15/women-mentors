@@ -58,7 +58,7 @@ def main(user_query):
     max_key_val = sorted_match_count_dict[-1]   # max(match_counts_dict.keys())
     matched_ids = match_counts_dict[max_key_val]
     if len(matched_ids) == 0:
-        print("sorry, no matches found")
+        print("Sorry, no matches found")
     elif len(matched_ids) > 5:
         matched_ids = matched_ids
     else:
@@ -77,6 +77,8 @@ def main(user_query):
                             "profile_pic_url": individuals["profile_image_url_https"],
                             "twitter_profile_url": "https://twitter.com/"+individuals["screen_name"]
                             }
+        else:
+            continue
         final_matched_mentors.append(fetch_mentor)
     # Create final object to be returned
     return final_matched_mentors  # This should be the object created above which is a list of dictionaries
