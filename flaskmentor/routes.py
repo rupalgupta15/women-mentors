@@ -10,6 +10,7 @@ import requests
 
 
 @app.route('/')  # was /home earlier
+@app.route('/home')
 def home_page():
     return render_template('new_home_page.html')
 
