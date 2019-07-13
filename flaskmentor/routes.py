@@ -10,7 +10,7 @@ import requests
 
 
 @app.route('/show')
-def show_json2():
+def show_json():
     filename = os.path.join('data', 'final_mentors.json')
 
     with open(filename) as data_file:
@@ -23,7 +23,7 @@ def show_json2():
 def result():
     query = request.args.get('query')  # this url thing comes from the text entered by user on index.html
     all_matched_mentors = prepare_data.main(query)
-    print(all_matched_mentors, len(all_matched_mentors))
+    # print(all_matched_mentors, len(all_matched_mentors))
     return render_template("result.html", all_matched_mentors=all_matched_mentors)
 
     # if request.method == 'POST':
