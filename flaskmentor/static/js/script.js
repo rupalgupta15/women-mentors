@@ -35,32 +35,36 @@ new Vue({                   // controls whole or certain part of application - s
     },
 
 // WORKING JUST FINE:
-//    computed:{
-//    filteredMentors: function(){
-//      return this.mentors.filter((mentor) => {
-////        console.log(mentor.name.match('a'))
-////        console.log(mentor.name.match(this.search))
-////        return mentor.name.toUpperCase().match(this.search.toUpperCase());
-//        var upSearch = this.search.toUpperCase()
-//        return this.searchProps.some( key =>
-//        String(mentor[key]).toUpperCase().includes(upSearch) );
-////        return keys.some( key =>
-////            String(mentor[key]).toUpperCase().includes(upSearch)
-//            });
-//        }
-//    },
-
     computed:{
-        filteredMentors: function(){
-          return this.mentors.filter((mentor) => {
-            var upSearch = this.search.toUpperCase()
-            return this.searchProps.some( key =>
-            String(mentor[key]).toUpperCase().includes(upSearch);
-            console.log(String(mentor[key]).toUpperCase().includes(upSearch));
-            );
-//            .replace(upSearch, '<span class="highlight">' + query + '</span>')
-                });
-            }
+    filteredMentors: function(){
+      return this.mentors.filter((mentor) => {
+//        console.log(mentor.name.match('a'))
+//        console.log(mentor.name.match(this.search))
+//        return mentor.name.toUpperCase().match(this.search.toUpperCase());
+        var upSearch = this.search.toUpperCase()
+        return this.searchProps.some( key =>
+        String(mentor[key]).toUpperCase().includes(upSearch) );
+//        return keys.some( key =>
+//            String(mentor[key]).toUpperCase().includes(upSearch)
+            });
         }
+    }
+
+
+// NOT WORKING: TRYING TO HIGHLIGHT THE SEARCH RESULTS
+//    computed:{
+//        filteredMentors: function(){
+//          return this.mentors.filter((mentor) => {
+//            var upSearch = this.search.toUpperCase()
+//            return this.searchProps.some( key =>
+//            String(mentor[key]).toUpperCase().includes(upSearch
+////            console.log(String(mentor[key]).toUpperCase().includes(upSearch));
+//            );
+////            .replace(upSearch, '<span class="highlight">' + query + '</span>')
+//                });
+//            }
+//        }
+//
+
 
 });
