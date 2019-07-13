@@ -1,1 +1,1 @@
-web: gunicorn --chdir flaskmentor routes:app
+web: gunicorn --pythonpath flaskmentor routes:app

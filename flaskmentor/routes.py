@@ -19,7 +19,7 @@ def show_json():
     return render_template('index.html', data=data)
 
 
-@app.route('/result',methods = ['GET'])
+@app.route('/result', methods = ['GET'])
 def result():
     query = request.args.get('query')  # this url thing comes from the text entered by user on index.html
     all_matched_mentors = prepare_data.main(query)
