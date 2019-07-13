@@ -9,6 +9,12 @@ from flask_login import login_user, current_user, logout_user, login_required
 import requests
 
 
+@app.route('/')  # was /home earlier
+def home_page():
+    return render_template('new_home_page.html')
+
+
+
 @app.route('/show')
 def show_json():
     filename = os.path.join('data', 'final_mentors.json')
@@ -29,11 +35,6 @@ def result():
     # if request.method == 'POST':
     #     result = request.form
     #     return render_template("result.html",result = result)
-
-
-@app.route('/home')
-def home_page():
-    return render_template('new_home_page.html')
 
 
 @app.route("/about")
