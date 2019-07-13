@@ -15,7 +15,7 @@ app.logger.addHandler(logging.StreamHandler(sys.stdout))
 app.logger.setLevel(logging.ERROR)
 
 app.config['SECRET_KEY'] = '17b60f8a1367103ecd4d09eda9426caf'
-# can be made an environment variable : To be only used locally
+# can be made an environment variable : To be only used locally, for heroku use next command
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/test'
 
 # For heroku:

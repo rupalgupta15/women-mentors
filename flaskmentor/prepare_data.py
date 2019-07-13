@@ -1,6 +1,7 @@
 import json
 from nltk import word_tokenize
 from collections import defaultdict
+import os
 import re
 regex = re.compile("[^a-zA-Z0-9 ]")  # 100ms
 
@@ -84,16 +85,23 @@ def main(user_query="", filename="final_mentors.json"):
         # Include mentors whose profile is not protected - this is because we want them to find mentors easily
         if not individuals["protected"]:
             # print('individuals["protected"]', individuals["protected"])
+
+            f_name, f_ext = os.path.splitext(individuals["profile_image_url_https"])
+            f_name.replace("_normal", "")
+            original_profile_pic = f_name + f_ext
+
             fetch_mentor = {"id": individuals["id"], "name": individuals["name"], "location": individuals["location"],
                             "description": individuals["description"], "other_urls": individuals["url"],
                             "followers_count": individuals["followers_count"], "friends_count": individuals["friends_count"],
-                            "profile_pic_url": individuals["profile_image_url_https"],
+                            "profile_pic_url": original_profile_pic,
                             "twitter_profile_url": "https://twitter.com/"+individuals["screen_name"]
                             }
         else:
             continue
         final_matched_mentors.append(fetch_mentor)
     # Create final object to be returned
+
+
     return final_matched_mentors  # This should be the object created above which is a list of dictionaries
 
 
