@@ -5,15 +5,22 @@ from flaskmentor.forms import SignUpForm, LoginForm
 from flaskmentor import app, bcrypt, db
 from flaskmentor import prepare_data
 from flaskmentor.models import User
+from flask_paginate import Pagination, get_page_args
 from flask_login import login_user, current_user, logout_user, login_required
 import requests
+
+
 
 
 @app.route('/')    # was /home earlier
 @app.route('/home', methods = ['GET'])
 def home_page():
+    page, per_page, offset = get_page_args(page_parameter='page',per_page_parameter='per_page')
     top_mentors = prepare_data.main(None, filename="final_mentors.json")
-    return render_template('home.html', top_mentors=top_mentors)
+    pagination_users = top_mentors[offset: offset + per_page]
+    print('len(top_mentors)', len(top_mentors))
+    pagination = Pagination(page=page, per_page=per_page, total=len(top_mentors), record_name='top_mentors', css_framework='bootstrap4')
+    return render_template('home.html', pagination_users=pagination_users, pag=page, per_page=per_page, pagination=pagination)
 
 
 @app.route('/show')

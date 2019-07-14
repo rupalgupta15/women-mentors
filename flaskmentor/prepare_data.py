@@ -3,6 +3,7 @@ from nltk import word_tokenize
 from collections import defaultdict
 import os
 import re
+
 regex = re.compile("[^a-zA-Z0-9 ]")  # 100ms
 
 
@@ -87,8 +88,10 @@ def main(user_query="", filename="final_mentors.json"):
             # print('individuals["protected"]', individuals["protected"])
 
             f_name, f_ext = os.path.splitext(individuals["profile_image_url_https"])
-            f_name.replace("_normal", "")
+            f_name = f_name.replace("_normal", "")
             original_profile_pic = f_name + f_ext
+
+            # print('original_profile_pic', original_profile_pic)
 
             fetch_mentor = {"id": individuals["id"], "name": individuals["name"], "location": individuals["location"],
                             "description": individuals["description"], "other_urls": individuals["url"],
@@ -100,7 +103,6 @@ def main(user_query="", filename="final_mentors.json"):
             continue
         final_matched_mentors.append(fetch_mentor)
     # Create final object to be returned
-
 
     return final_matched_mentors  # This should be the object created above which is a list of dictionaries
 

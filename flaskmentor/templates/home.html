@@ -53,7 +53,7 @@
 
 {% block content %}
 <div class="container nobg">
-<!--    <h3 class="pb-4"><b> Meet Our Top Mentors: </b></h3>-->
+    <h4 class="pb-4"><b> Meet Our Top Mentors </b></h4>
 <!--    <a href="/isbn?isbn=0143125087">-->
 <!--    <img src="https://pbs.twimg.com/profile_images/684344075332546560/LRXHXM08.jpg"  height="280" width="200"/> </a>-->
 <!--    <br>-->
@@ -69,21 +69,19 @@
 <!--    <a class="" href="/isbn?isbn=1616895322">-->
 <!--    <img src="https://pbs.twimg.com/profile_images/684344075332546560/LRXHXM08.jpg"  height="280" width="200"/> </a>-->
 
-    {% for mentor in top_mentors %}
+    {% for mentor in pagination_users %}
         <article class="media content-section">
-
-          <img class="rounded-circle article-img" src="{{ mentor['profile_pic_url']) }}">
-<!--          <div class="media-body">-->
-<!--            <div class="article-metadata">-->
-<!--              <a class="mr-2" href="{{ url_for('user_posts', username=post.author.username) }}">{{ post.author.username }}</a>-->
-<!--              <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>-->
-<!--            </div>-->
-<!--            <h2><a class="article-title" href="{{ url_for('post', post_id=post.id) }}">{{ post.title }}</a></h2>-->
-<!--            <p class="article-content">{{ post.content }}</p>-->
-<!--          </div>-->
+            <img class="rounded-circle article-img" src="{{ mentor['profile_pic_url'] }}">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <h2><a class="article-title" href="{{ mentor['twitter_profile_url'] }}">{{ mentor['name'] }}</a></h2>
+                </div>
+                <p class="mr-2">{{ mentor['location']}}</p>
+                <p class="article-content">{{ mentor['description'] }}</p>
+            </div>
         </article>
     {% endfor %}
-
+    {{ pagination.links }}
 
 </div>
 
