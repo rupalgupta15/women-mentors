@@ -1,7 +1,17 @@
 //const vueApp =
 
+var router = new VueRouter({
+    mode: 'history',
+    routes: []
+});
+
 new Vue({                   // controls whole or certain part of application - search part
+    router,
     el: "#vue-app",         // Connects to the DOM
+    mounted: function() {
+        this.search = this.$route.query.query   // This gets us the query parameter from the url
+        console.log(this.$route.query.query)
+    },
     data: {                 // Different key value pairs in the data object
           mentors: [],
           search:"",
@@ -16,6 +26,7 @@ new Vue({                   // controls whole or certain part of application - s
     },
     // Only called once at the beginning
     created(){
+//       console.log(this.search);
        //    https://vue-project-net-ninja.firebaseio.com/posts.json
        //    https://women-mentoring.firebaseio.com/.json
        this.$http.get('https://women-mentoring.firebaseio.com/.json').then(function(data){

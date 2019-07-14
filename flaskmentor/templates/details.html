@@ -1,0 +1,129 @@
+{% extends "layout.html" %}
+{% block bgstyle %}
+    .bg {
+        background-image: url('static/img/women_mentors.jpg');
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+    }
+{% endblock bgstyle %}
+
+{% block margin %}
+    <!--Margin between nav bar and search box-->
+<div class="row mt-5"></div>
+<div class="row mt-5"></div>
+<div class="row mt-5"></div>
+<div class="row mt-5"></div>
+<div class="row mt-5"></div>
+<div class="row mt-5"></div>
+{% endblock margin %}
+
+{% block searchbox %}
+<!--Search Box-->
+<div class="container mt-5">
+    <!--Good code link for some of this https://www.codeply.com/go/ioPsDfyCBc-->
+    <!--And another https://github.com/FortAwesome/Font-Awesome/issues/4313-->
+    <form class="form-horizontal" method="GET" action='/result'>
+    <div class="form-group">
+        <div class="input-group">
+            <input class="form-control py-3 border-right-0 border h3" name="query" placeholder="Find Mentor by Searching for Skills, Location or Name" >
+            <span class="input-group-append">
+                <button class="btn border-left-0 border" type="submit">
+                    <i class="fa fa-search fa-lg"></i>
+                </button>
+              </span>
+        </div>
+
+    </div>
+    </form>
+
+</div>
+    {% endblock searchbox %}
+
+{% block marginboxlanding %}
+<!--Margin between search box and list of landing pages-->
+<div class="row pb-5"></div>
+<div class="row pb-5"></div>
+<div class="row pb-5"></div>
+<div class="row pb-5"></div>
+<div class="row pb-5"></div>
+<div class="row pb-5"></div>
+{% endblock marginboxlanding %}
+
+
+{% block content %}
+<div class="container nobg">
+<!--    <h4 class="pb-4"><b> Please provide details below to help us find a Mentor for you</b></h4>-->
+        <div class="content-section">
+        <form class="form-horizontal" method="POST" action="">
+            {{ form.hidden_tag() }}
+            <!-- For CSRF token and protection -->
+
+            <div class="col-sm-10 offset-sm-1">
+            <!--  This div helps in centeering the entire fieldset as well as the sign up button -->
+            <!-- legend and fieldset go together: legend defines caption for fieldset element, fieldset is used to
+            group related elements in a form-->
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4 text-center">  Hi, {{ current_user.username }} Please provide details below to help us find a Mentor for you </legend>
+                <div class="form-group row">
+                    <label class="control-label col-sm-4">{{ form.looking_for.label(class="form-control-label") }} </label>
+                    <div class="col-sm-8">
+                    {% if form.looking_for.errors %}
+                        {{ form.looking_for(class="form-control is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.looking_for.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.looking_for(class="form-control") }}
+                    {% endif %}
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                  <label class="control-label col-sm-4">{{ form.location.label(class="form-control-label") }} </label>
+                  <div class="col-sm-8">
+                    {% if form.location.errors %}
+                        {{ form.location(class="form-control is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.location.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.location(class="form-control ") }}
+                    {% endif %}
+                  </div>
+                </div>
+
+                <div class="form-group row">
+                    <label class="control-label col-sm-4">{{ form.preference.label(class="form-control-label") }} </label>
+                    <div class="col-sm-8">
+                    {% if form.preference.errors %}
+                        {{ form.preference(class="form-control is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.preference.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.preference(class="form-control") }}
+                    {% endif %}
+                    </div>
+                </div>
+
+            </fieldset>
+            <div class="form-group text-center">
+                {{ form.submit(class="btn btn-outline-info") }}
+            </div>
+        </div>
+        </form>
+    </div>
+
+</div>
+
+<br />
+<br />
+
+{% endblock content %}

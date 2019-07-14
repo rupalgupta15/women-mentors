@@ -46,12 +46,19 @@
               <!-- Navbar links -->
               <div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
                   <div class="navbar-nav nav-pills">
-                      <a class="nav-item nav-link"  style="color:white;" href="/home">Home</a>
+                    {% if current_user.is_authenticated %}
+                        <a class="nav-item nav-link" style="color:white;" href="/home">Home</a>
+                        <a class="nav-item nav-link" href="/home">Account</a>
+                        <a class="nav-item nav-link" style="color:white;" href="/logout">Logout</a>
+
+                    {% else %}
+                      <a class="nav-item nav-link" style="color:white;" href="/home">Home</a>
                       <!--<a class="nav-text nav-link h5"  style="color:#FFCA90;" href="/">Compare</a>-->
                       <a class="nav-item nav-link" style="color:white;" href="/login">Log In</a>
                       <a class="nav-item nav-link" style="color:white;" href="/signup">Sign Up</a>
                       <!--<a class="nav-text nav-link h5"  style="color:#FFCA90;" href="/">Indian Authors</a>-->
                       <a class="nav-item nav-link"  style="color:white;" href="/about">About</a>
+                      {% endif %}
                   </div>
               </div>
           </div>
