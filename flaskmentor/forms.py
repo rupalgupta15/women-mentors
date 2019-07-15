@@ -1,7 +1,7 @@
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, SubmitField, BooleanField, TextAreaField, SelectField, RadioField
 from wtforms.validators import DataRequired, Length, Email, EqualTo, ValidationError
-from flaskmentor.models import User
+from flaskmentor.models import User5
 
 
 class SignUpForm(FlaskForm):
@@ -13,12 +13,12 @@ class SignUpForm(FlaskForm):
     submit = SubmitField('Sign Up')
 
     def validate_username(self, username):
-        user = User.query.filter_by(username=username.data).first()
+        user = User5.query.filter_by(username=username.data).first()
         if user:
             raise ValidationError('The username already exists. Please choose a different one.')
 
     def validate_email(self, email):
-        user = User.query.filter_by(email=email.data).first()
+        user = User5.query.filter_by(email=email.data).first()
         if user:
             raise ValidationError('The email already exists. Please choose a different one.')
 
@@ -41,7 +41,7 @@ def three_skills(form, field):
 
 class DetailsForm(FlaskForm):
     # skills = StringField('Skills', validators=[DataRequired(), three_skills])
-    looking_for = StringField('Mentor Skills Required', validators=[DataRequired()], render_kw={"placeholder": "Mentor Skills Required*"})
+    looking_for = StringField('Mentor Skills Required', validators=[DataRequired()], render_kw={"placeholder": "Mentor Skills Required (e.g. Python, Java)*"})
     #  looking_for can also be made a drop down
     location = StringField('Location', validators=[DataRequired()], render_kw={"placeholder": "Your Location*"})
     preference = SelectField('Preferred Method of Mentorship', choices = [('Online', 'Online'),  ('In Person', 'In Person'),

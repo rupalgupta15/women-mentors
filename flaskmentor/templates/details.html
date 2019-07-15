@@ -1,56 +1,4 @@
 {% extends "layout.html" %}
-{% block bgstyle %}
-    .bg {
-        background-image: url('static/img/women_mentors.jpg');
-        background-size: 100%;
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-    }
-{% endblock bgstyle %}
-
-{% block margin %}
-    <!--Margin between nav bar and search box-->
-<div class="row mt-5"></div>
-<div class="row mt-5"></div>
-<div class="row mt-5"></div>
-<div class="row mt-5"></div>
-<div class="row mt-5"></div>
-<div class="row mt-5"></div>
-{% endblock margin %}
-
-{% block searchbox %}
-<!--Search Box-->
-<div class="container mt-5">
-    <!--Good code link for some of this https://www.codeply.com/go/ioPsDfyCBc-->
-    <!--And another https://github.com/FortAwesome/Font-Awesome/issues/4313-->
-    <form class="form-horizontal" method="GET" action='/result'>
-    <div class="form-group">
-        <div class="input-group">
-            <input class="form-control py-3 border-right-0 border h3" name="query" placeholder="Find Mentor by Searching for Skills, Location or Name" >
-            <span class="input-group-append">
-                <button class="btn border-left-0 border" type="submit">
-                    <i class="fa fa-search fa-lg"></i>
-                </button>
-              </span>
-        </div>
-
-    </div>
-    </form>
-
-</div>
-    {% endblock searchbox %}
-
-{% block marginboxlanding %}
-<!--Margin between search box and list of landing pages-->
-<div class="row pb-5"></div>
-<div class="row pb-5"></div>
-<div class="row pb-5"></div>
-<div class="row pb-5"></div>
-<div class="row pb-5"></div>
-<div class="row pb-5"></div>
-{% endblock marginboxlanding %}
-
-
 {% block content %}
 <div class="container nobg">
 <!--    <h4 class="pb-4"><b> Please provide details below to help us find a Mentor for you</b></h4>-->
@@ -64,7 +12,7 @@
             <!-- legend and fieldset go together: legend defines caption for fieldset element, fieldset is used to
             group related elements in a form-->
             <fieldset class="form-group">
-                <legend class="border-bottom mb-4 text-center">  Hi, {{ current_user.username }} Please provide details below to help us find a Mentor for you </legend>
+                <legend class="border-bottom mb-4 text-center">  Hi, {{ current_user.username }}! Please provide details below to help us find a mentor for you </legend>
                 <div class="form-group row">
                     <label class="control-label col-sm-4">{{ form.looking_for.label(class="form-control-label") }} </label>
                     <div class="col-sm-8">

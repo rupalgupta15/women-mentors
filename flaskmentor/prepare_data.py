@@ -56,6 +56,7 @@ def main(user_query="", filename="final_mentors.json"):
     final_matched_mentors = []
     # mentors_dict = {}
 
+    print('user_query', user_query)
     path = './data/' + filename
 
     with open(path, 'r') as f:
@@ -106,6 +107,8 @@ def main(user_query="", filename="final_mentors.json"):
 
     return final_matched_mentors  # This should be the object created above which is a list of dictionaries
 
+
+# print(len(main()))
 
 # For directly testing this file change ./data to ../data
 # final_matched_mentors = main(None, filename="replies_mentor_data.json")
