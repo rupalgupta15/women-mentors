@@ -56,7 +56,10 @@ def description():
     user_id = current_user.id
     details = Test5.query.join(User5).filter(User5.id == user_id).all()
     # print('details', details)
-    skills = details[0].mentorskills
+    if details:
+        skills = details[0].mentorskills
+    else:
+        skills=''
     # TODO: Note that details[0] will only select the first entry from db corresponding to that user
     # print('skills', skills)
     all_matched_mentors = prepare_data.main(skills)
@@ -119,8 +122,12 @@ def login():
             #     redirect(url_for('home_page'))
             user_id = current_user.id
             details = Test5.query.join(User5).filter(User5.id == user_id).all()
-            skills = details[0].mentorskills
-            # TODO: Note that details[0] will only select the first entry from db corresponding to that user
+            print('details', details)
+            if details:
+                skills = details[0].mentorskills
+            else:
+                skills = ''
+                # TODO: Note that details[0] will only select the first entry from db corresponding to that user
             all_matched_mentors = prepare_data.main(skills)
             return redirect(next_page) if next_page else render_template("result.html", all_matched_mentors=all_matched_mentors)
         else:
