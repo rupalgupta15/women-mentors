@@ -57,8 +57,8 @@ def description():
     details = Test5.query.join(User5).filter(User5.id == user_id).all()
     # print('details', details)
     skills = details[0].mentorskills
-    # Note that details[0] will only select the first entry from db corresponding to that user
-    print('skills', skills)
+    # TODO: Note that details[0] will only select the first entry from db corresponding to that user
+    # print('skills', skills)
     all_matched_mentors = prepare_data.main(skills)
     return render_template("result.html", all_matched_mentors=all_matched_mentors)
     # return render_template('description.html', details=details)
@@ -92,7 +92,7 @@ def user_details():
         #  password should be hashed version of text, not the text itself
         db.session.add(details)
         db.session.commit()
-        # flash('We found the following mentors for you', 'success')
+        # flash('Your Recommended Mentors', 'success')
         return redirect(url_for('description'))
     return render_template('details.html', title='User Details', form=form)
 
@@ -111,12 +111,18 @@ def login():
             # but is not allowed to access the account page. But once the user logs in, they will be redirected
             # to the same page (account page) from which they were requested to log in
             next_page = request.args.get('next')
-            if next_page:
-                return redirect(next_page)
-            else:
-                redirect(url_for('home_page'))
-
-        # return redirect(next_page) if next_page else redirect(url_for('home_page'))
+            # if next_page:
+            #     return redirect(next_page)
+            # else:
+            #     print('going here')
+            #     print('URL', url_for('home_page'))
+            #     redirect(url_for('home_page'))
+            user_id = current_user.id
+            details = Test5.query.join(User5).filter(User5.id == user_id).all()
+            skills = details[0].mentorskills
+            # TODO: Note that details[0] will only select the first entry from db corresponding to that user
+            all_matched_mentors = prepare_data.main(skills)
+            return redirect(next_page) if next_page else render_template("result.html", all_matched_mentors=all_matched_mentors)
         else:
             flash('Login Unsuccessful. Please check email and password', 'danger')
     return render_template('login.html', title='Login', form=form)

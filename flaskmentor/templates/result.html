@@ -1,28 +1,22 @@
-
-<!-- will not be used anymore-->
-<!DOCTYPE html>
-<html>
-<head>
- <title> Matched Mentors </title>
-</head>
-<!--<body>-->
-<!--(Child) Data received from flask : {{ all_matched_mentors }}-->
+{% extends "layout.html" %}
 
 {% block content %}
 <div class="container-fluid">
-
+<h2> Your Recommended Mentors:</h2>
+    <br>
 {% for item in all_matched_mentors %}
-    <div class="row" style="border:1px solid black;">
-    <h5 class="mt-2"><b> Mentor {{ loop.index0 + 1 }}:</b></h5>
-        <div class="row ml-1">
-         <div class="col-sm-6 ml-5"><p> <h5> <b>ID: {{ item['id'] }}</b> </h5> </p>
-            <div class="col-sm-6"><p>Name: <b>{{ item['name'] }}</b></p></div>
-            <div class="col-sm-12"><p> Location: {{ item['location'] }}</p></div>
-            <div class="col-sm-12"><p> Description: {{ item['description'] }}</p></div>
-          <div class="col-sm-12"><p> Visit Profile: <a target="_blank" href= {{ item['twitter_profile_url']}}>Twitter URL</a></p></div>
-         </div>
+    <article class="media content-section">
+        <img class="rounded-circle article-img" src="{{ item['profile_pic_url'] }}">
+        <div class="media-body">
+            <div class="article-metadata">
+                <h2><a class="article-title" target='_blank' href="{{ item['twitter_profile_url'] }}">{{ item['name'] }}</a></h2>
+            </div>
+            <p class="mr-2">Location: {{ item['location']}}</p>
+            <p class="article-content">Description: {{ item['description'] }}</p>
         </div>
-    </div>
+    </article>
+
+
 {% endfor %}
 
 {% endblock content%}
