@@ -17,6 +17,7 @@ new Vue({                   // controls whole or certain part of application - s
           search:"",
           name:'Rupal',
           searchProps:["location", "name", "description"],
+          selected: ''
     },
 
     delimiters: ['[[',']]'],
@@ -26,7 +27,7 @@ new Vue({                   // controls whole or certain part of application - s
     },
     // Only called once at the beginning
     created(){
-//       console.log(this.search);
+       console.log(this.selected);
        //    https://vue-project-net-ninja.firebaseio.com/posts.json
        //    https://women-mentoring.firebaseio.com/.json
        this.$http.get('https://women-mentoring.firebaseio.com/.json').then(function(data){

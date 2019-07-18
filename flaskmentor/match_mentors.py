@@ -1,6 +1,7 @@
 import json
 from nltk import word_tokenize
 from collections import defaultdict
+from flaskmentor import fetch_twitter_img_url
 import os
 import re
 
@@ -88,9 +89,12 @@ def main(user_query="", filename="final_mentors.json"):
         if not individuals["protected"]:
             # print('individuals["protected"]', individuals["protected"])
 
-            f_name, f_ext = os.path.splitext(individuals["profile_image_url_https"])
-            f_name = f_name.replace("_normal", "")
-            original_profile_pic = f_name + f_ext
+            # following three lines in another file match_mentors.py
+            # f_name, f_ext = os.path.splitext(individuals["profile_image_url_https"])
+            # f_name = f_name.replace("_normal", "")
+            # original_profile_pic = f_name + f_ext
+
+            original_profile_pic = fetch_twitter_img_url.return_original_profile_pic(individuals["profile_image_url_https"])
 
             # print('original_profile_pic', original_profile_pic)
 

@@ -1,0 +1,4478 @@
+{
+    "371086683": {
+        "id": 371086683,
+        "id_str": "371086683",
+        "name": "Nicholas R. Powell",
+        "screen_name": "ItsaMindgame",
+        "location": "St. Louis, MO",
+        "description": "\u2022Father of 2 \u2022Performance Psychology Consultant \u2022Track and Field \u2022Empowerment Speaker \u2022Psychology Professor \u2022iRUN \u2022Mentor \u2022iREAD \u2022Jamaican \ud83c\uddef\ud83c\uddf2 \u2022APhiA \u2022Funlover",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 761,
+        "friends_count": 757,
+        "listed_count": 14,
+        "created_at": "Sat Sep 10 05:10:56 +0000 2011",
+        "favourites_count": 1277,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14055,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 12:13:00 +0000 2019",
+            "id": 1151464819750342656,
+            "id_str": "1151464819750342656",
+            "text": "Your roots call to you. Simultaneously, your imagination takes... More for Scorpio https://t.co/16nZ4A7B8i",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/16nZ4A7B8i",
+                        "expanded_url": "http://bit.ly/xlOqWT",
+                        "display_url": "bit.ly/xlOqWT",
+                        "indices": [
+                            83,
+                            106
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.twittascope.com\" rel=\"nofollow\">Twittascope</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115302892913741825/EPBrvTr4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115302892913741825/EPBrvTr4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371086683/1443581952",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "145376405": {
+        "id": 145376405,
+        "id_str": "145376405",
+        "name": "Jason Schemmel - Speaker & Podcaster #GSDChat\ud83c\udf99\ufe0f\ud83e\udd2f",
+        "screen_name": "JasonSchemmel",
+        "location": "Grand Rapids, MI",
+        "description": "Content Mktng, Social/Digital Media, Psychology, Entrepreneur, Mentor. #CMWorld Speaker. Love helping others & paying it forward. Motto: Get S*** Done. #GSDChat",
+        "url": "https://t.co/VFMVo56qIr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/VFMVo56qIr",
+                        "expanded_url": "http://bit.ly/GSDChat-Stitcher",
+                        "display_url": "bit.ly/GSDChat-Stitch\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4844,
+        "friends_count": 3822,
+        "listed_count": 299,
+        "created_at": "Tue May 18 20:47:52 +0000 2010",
+        "favourites_count": 5009,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11702,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 11 18:03:23 +0000 2019",
+            "id": 1149378667262423040,
+            "id_str": "1149378667262423040",
+            "text": "@bhrome @BerrakBiz Or beer for us non-coffee drinkers \ud83d\ude1c",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bhrome",
+                        "name": "Kylo Ben",
+                        "id": 14176132,
+                        "id_str": "14176132",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "screen_name": "BerrakBiz",
+                        "name": "Berrak Sarikaya  | Content Strategist | Speaker",
+                        "id": 6114252,
+                        "id_str": "6114252",
+                        "indices": [
+                            8,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1149372644694925312,
+            "in_reply_to_status_id_str": "1149372644694925312",
+            "in_reply_to_user_id": 14176132,
+            "in_reply_to_user_id_str": "14176132",
+            "in_reply_to_screen_name": "bhrome",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907584002508382208/XxeMRDt3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907584002508382208/XxeMRDt3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145376405/1485274499",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "37793869": {
+        "id": 37793869,
+        "id_str": "37793869",
+        "name": "Earnest Goonasekera",
+        "screen_name": "earni12",
+        "location": "Canada",
+        "description": "An Individual interested in learning new things,over coming challengers,and exploring human behavior. #leadership, #motivation #inspiration #psychology #mentor",
+        "url": "http://t.co/VH8lB39s73",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/VH8lB39s73",
+                        "expanded_url": "http://ca.linkedin.com/in/earnestgoonasekera/",
+                        "display_url": "ca.linkedin.com/in/earnestgoon\u2026",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 981,
+        "friends_count": 1300,
+        "listed_count": 45,
+        "created_at": "Mon May 04 23:34:29 +0000 2009",
+        "favourites_count": 128,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9428,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 10 05:23:08 +0000 2019",
+            "id": 1148824957989744640,
+            "id_str": "1148824957989744640",
+            "text": "RT @talentsmarteq: \"Those who say it cannot be done should not interrupt those doing it.\"",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "talentsmarteq",
+                        "name": "Dr. Travis Bradberry",
+                        "id": 3161792636,
+                        "id_str": "3161792636",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 10 00:30:11 +0000 2019",
+                "id": 1148751233907380224,
+                "id_str": "1148751233907380224",
+                "text": "\"Those who say it cannot be done should not interrupt those doing it.\"",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 21,
+                "favorite_count": 56,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570042473221591040/Et1Zcluw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570042473221591040/Et1Zcluw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37793869/1466993469",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "347121285": {
+        "id": 347121285,
+        "id_str": "347121285",
+        "name": "D.U.Sivri ~ Author, Psychotherapist & Mentor",
+        "screen_name": "HealthnStyleUk",
+        "location": "London",
+        "description": "Health, Psychology & Motivational updates from: Psychotherapist/Motivational Expert/Life Coach & Top Author (12 books) D.U. Sivri https://t.co/zEgl8UNMJG",
+        "url": "https://t.co/EPBqS2VDh5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/EPBqS2VDh5",
+                        "expanded_url": "http://www.amazon.com/author/dusivri",
+                        "display_url": "amazon.com/author/dusivri",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zEgl8UNMJG",
+                        "expanded_url": "http://facebook.com/DUSivri",
+                        "display_url": "facebook.com/DUSivri",
+                        "indices": [
+                            130,
+                            153
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 13959,
+        "friends_count": 12930,
+        "listed_count": 223,
+        "created_at": "Tue Aug 02 09:22:55 +0000 2011",
+        "favourites_count": 6308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14419,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 20:13:43 +0000 2019",
+            "id": 1151585796476014592,
+            "id_str": "1151585796476014592",
+            "text": "I always wondered what a big fake butt would be handy for. \nKnow I know!! \n\ud83d\ude32\ud83d\ude2a\ud83d\ude2d\ud83d\ude02 https://t.co/lFmwjCjUOC",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lFmwjCjUOC",
+                        "expanded_url": "https://twitter.com/marcus_ac_/status/1150960199869464581",
+                        "display_url": "twitter.com/marcus_ac_/sta\u2026",
+                        "indices": [
+                            80,
+                            103
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1150960199869464581,
+            "quoted_status_id_str": "1150960199869464581",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/777167334091919364/SrmXnmHH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/777167334091919364/SrmXnmHH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347121285/1474126591",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "319873181": {
+        "id": 319873181,
+        "id_str": "319873181",
+        "name": "Brian O'Reilly",
+        "screen_name": "coachbri1",
+        "location": "Canada",
+        "description": "High performance internal psychology transformation coaching 35 years private practice counseling,mentor coach,Keynote speaker, Business culture performance.",
+        "url": "https://t.co/ymLE3uzOjy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ymLE3uzOjy",
+                        "expanded_url": "http://www.humanpotentialplus.ca",
+                        "display_url": "humanpotentialplus.ca",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2704,
+        "friends_count": 43,
+        "listed_count": 7,
+        "created_at": "Sat Jun 18 22:13:37 +0000 2011",
+        "favourites_count": 134,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3392,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 20:21:15 +0000 2019",
+            "id": 1151225300694573056,
+            "id_str": "1151225300694573056",
+            "text": "Internal psychology teaches,in order to solve any human psychological problem there must be freedom to observe. Thi\u2026 https://t.co/sG6vJLE7lC",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/sG6vJLE7lC",
+                        "expanded_url": "https://twitter.com/i/web/status/1151225300694573056",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "0a8f6a8c4ebf63af",
+                "url": "https://api.twitter.com/1.1/geo/id/0a8f6a8c4ebf63af.json",
+                "place_type": "city",
+                "name": "Central Huron",
+                "full_name": "Central Huron, Ontario",
+                "country_code": "CA",
+                "country": "Canada",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -82.159726,
+                                43.5467747
+                            ],
+                            [
+                                -81.336151,
+                                43.5467747
+                            ],
+                            [
+                                -81.336151,
+                                43.773701
+                            ],
+                            [
+                                -82.159726,
+                                43.773701
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 10,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "007502",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140212259332997120/JfirJZSj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140212259332997120/JfirJZSj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/319873181/1531485903",
+        "profile_link_color": "2C93B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "315418675": {
+        "id": 315418675,
+        "id_str": "315418675",
+        "name": "Michael Mulhern",
+        "screen_name": "mickmulhern6",
+        "location": "Newcastle Upon Tyne, England",
+        "description": "UEFA ' A' licence. YM 1,2 & 3, Psychology. NUFC Foundation. Hebburn Town FC Assistant Manager. FA Coach Mentor. #AskTheCoachMember",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1491,
+        "friends_count": 1089,
+        "listed_count": 19,
+        "created_at": "Sat Jun 11 20:52:53 +0000 2011",
+        "favourites_count": 3677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4902,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 20:48:27 +0000 2019",
+            "id": 1151594536025481217,
+            "id_str": "1151594536025481217",
+            "text": "@FinishedPlayers \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FinishedPlayers",
+                        "name": "Former Footballers",
+                        "id": 2176781462,
+                        "id_str": "2176781462",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1151577132381941761,
+            "in_reply_to_status_id_str": "1151577132381941761",
+            "in_reply_to_user_id": 2176781462,
+            "in_reply_to_user_id_str": "2176781462",
+            "in_reply_to_screen_name": "FinishedPlayers",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/429679856549629952/pWuYTlAq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/429679856549629952/pWuYTlAq_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "34556074": {
+        "id": 34556074,
+        "id_str": "34556074",
+        "name": "Sahil Nandu",
+        "screen_name": "sahilnandu",
+        "location": "Mumbai, India",
+        "description": "Partner, Coach & Mentor at Adelmo Advisors - a Multi-Family Office. Science. Philosophy. Psychology. Mountains. Superbikes. CrossFit. Wine. Golf. Horses.",
+        "url": "https://t.co/uBmeGcMX8y",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/uBmeGcMX8y",
+                        "expanded_url": "http://www.adelmo.co",
+                        "display_url": "adelmo.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1621,
+        "friends_count": 2360,
+        "listed_count": 24,
+        "created_at": "Thu Apr 23 06:50:40 +0000 2009",
+        "favourites_count": 286,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1698,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jul 14 12:41:38 +0000 2019",
+            "id": 1150384858926989312,
+            "id_str": "1150384858926989312",
+            "text": "@KarnRateria Stars Avs?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "KarnRateria",
+                        "name": "Karn Rateria",
+                        "id": 157924351,
+                        "id_str": "157924351",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1150180093429346304,
+            "in_reply_to_status_id_str": "1150180093429346304",
+            "in_reply_to_user_id": 157924351,
+            "in_reply_to_user_id_str": "157924351",
+            "in_reply_to_screen_name": "KarnRateria",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "sv"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095599845153300480/WJXaMaOI_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095599845153300480/WJXaMaOI_normal.png",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "265963349": {
+        "id": 265963349,
+        "id_str": "265963349",
+        "name": "Maurice Matheka",
+        "screen_name": "MauriceTherapy",
+        "location": "Machakos",
+        "description": "I counsel & mentor. I give talks on human behaviour, relationship & sexual psychology. Other packages https://t.co/LtJpEIJ7Iy",
+        "url": "https://t.co/wZjzhMrUMa",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/wZjzhMrUMa",
+                        "expanded_url": "https://mauricetherapy.com",
+                        "display_url": "mauricetherapy.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/LtJpEIJ7Iy",
+                        "expanded_url": "http://mauricetherapy.com/session-packages",
+                        "display_url": "mauricetherapy.com/session-packag\u2026",
+                        "indices": [
+                            102,
+                            125
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 6085,
+        "friends_count": 2435,
+        "listed_count": 7,
+        "created_at": "Mon Mar 14 12:21:22 +0000 2011",
+        "favourites_count": 30,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2047,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 16:42:29 +0000 2019",
+            "id": 1151170248449695745,
+            "id_str": "1151170248449695745",
+            "text": "https://t.co/2xXtGfPSGu\n\nMen should stop suffering in silence!\n\n#ProudlyKilungu\n#teammasimba\n#helpabrother\u2026 https://t.co/CJh56yGUg3",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ProudlyKilungu",
+                        "indices": [
+                            64,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "teammasimba",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "helpabrother",
+                        "indices": [
+                            93,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2xXtGfPSGu",
+                        "expanded_url": "https://mauricetherapy.com/2019/07/16/manhood-liberated/",
+                        "display_url": "mauricetherapy.com/2019/07/16/man\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/CJh56yGUg3",
+                        "expanded_url": "https://twitter.com/i/web/status/1151170248449695745",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/414065510301437952/4E4jE5Z-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/414065510301437952/4E4jE5Z-_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265963349/1563277101",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "49065717": {
+        "id": 49065717,
+        "id_str": "49065717",
+        "name": "Ari J.",
+        "screen_name": "Shehariah",
+        "location": "Elevated.",
+        "description": "Ari J. iModel. AU C/O 2014. Psychology. Mentor. Spiritualist. Dom.V Survivor \ud83d\udc9c To know Me is to love Me. Mastering my crafts.\n\ud83d\udce7Johnsonshehariah@yahoo.com",
+        "url": "https://t.co/ssQYmw1VPN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ssQYmw1VPN",
+                        "expanded_url": "http://www.paypal.me/shehariah",
+                        "display_url": "paypal.me/shehariah",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 800,
+        "friends_count": 887,
+        "listed_count": 29,
+        "created_at": "Sat Jun 20 17:45:51 +0000 2009",
+        "favourites_count": 3768,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 56455,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 00:48:39 +0000 2019",
+            "id": 1151654981684092929,
+            "id_str": "1151654981684092929",
+            "text": "RT @big_business_: Steph basically calling us broke and miserable to defend his queen. \n\nI respect him even more for this. https://t.co/Q3u\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "big_business_",
+                        "name": "Ahmed/Your fav is shook of Jai Paul and Dev Hynes",
+                        "id": 19132540,
+                        "id_str": "19132540",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 23:03:51 +0000 2019",
+                "id": 1151628611813855233,
+                "id_str": "1151628611813855233",
+                "text": "Steph basically calling us broke and miserable to defend his queen. \n\nI respect him even more for this. https://t.co/Q3u5bkgvGO",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Q3u5bkgvGO",
+                            "expanded_url": "https://twitter.com/bradyklopfernba/status/1151618729484017664",
+                            "display_url": "twitter.com/bradyklopfernb\u2026",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1151618729484017664,
+                "quoted_status_id_str": "1151618729484017664",
+                "retweet_count": 533,
+                "favorite_count": 1525,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": true,
+                "lang": "en"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1151618729484017664,
+            "quoted_status_id_str": "1151618729484017664",
+            "retweet_count": 533,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/928806514919342082/W7gliQMv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/928806514919342082/W7gliQMv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49065717/1502767212",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "175950940": {
+        "id": 175950940,
+        "id_str": "175950940",
+        "name": "psychology mentor",
+        "screen_name": "psychologymento",
+        "location": "",
+        "description": "Knowing a lot about humans and the way interact",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 429,
+        "friends_count": 470,
+        "listed_count": 12,
+        "created_at": "Sun Aug 08 03:14:45 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6186,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Aug 01 01:59:14 +0000 2011",
+            "id": 97848833274413056,
+            "id_str": "97848833274413056",
+            "text": "Graduate Study Challenges: Graduate Study Challenges and Strategies\nOtis Patterson\nHCS/504\nAugust 30, 2010\nM... http://bit.ly/oaancK",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "AA1515",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098083000/psychologymentor_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098083000/psychologymentor_normal.jpg",
+        "profile_link_color": "AA1515",
+        "profile_sidebar_border_color": "A8A8A8",
+        "profile_sidebar_fill_color": "A8A8A8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "2327344308": {
+        "id": 2327344308,
+        "id_str": "2327344308",
+        "name": "Anthony Simeone",
+        "screen_name": "acswriter",
+        "location": "New Jersey, USA",
+        "description": "Writer. Speaker. Mentor. Heroism advocate. Certified Positive Psychology practitioner.",
+        "url": "https://t.co/3KrtplUfJ0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3KrtplUfJ0",
+                        "expanded_url": "http://www.livethehero.com",
+                        "display_url": "livethehero.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 449,
+        "friends_count": 860,
+        "listed_count": 8,
+        "created_at": "Tue Feb 04 16:05:12 +0000 2014",
+        "favourites_count": 705,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1067,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Jul 05 13:50:24 +0000 2019",
+            "id": 1147140675298889728,
+            "id_str": "1147140675298889728",
+            "text": "RT @cwoodheadhunter: How To Be a Hero to Your Employees - The Good Men Project https://t.co/icvZzsUd8r by @acswriter #CompanyCulture",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CompanyCulture",
+                        "indices": [
+                            117,
+                            132
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "cwoodheadhunter",
+                        "name": "Doug Mackay - Collingwood",
+                        "id": 125974808,
+                        "id_str": "125974808",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "acswriter",
+                        "name": "Anthony Simeone",
+                        "id": 2327344308,
+                        "id_str": "2327344308",
+                        "indices": [
+                            106,
+                            116
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/icvZzsUd8r",
+                        "expanded_url": "https://hubs.ly/H0jDZ-N0",
+                        "display_url": "hubs.ly/H0jDZ-N0",
+                        "indices": [
+                            79,
+                            102
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jul 05 13:44:59 +0000 2019",
+                "id": 1147139312926040064,
+                "id_str": "1147139312926040064",
+                "text": "How To Be a Hero to Your Employees - The Good Men Project https://t.co/icvZzsUd8r by @acswriter #CompanyCulture",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "CompanyCulture",
+                            "indices": [
+                                96,
+                                111
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "acswriter",
+                            "name": "Anthony Simeone",
+                            "id": 2327344308,
+                            "id_str": "2327344308",
+                            "indices": [
+                                85,
+                                95
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/icvZzsUd8r",
+                            "expanded_url": "https://hubs.ly/H0jDZ-N0",
+                            "display_url": "hubs.ly/H0jDZ-N0",
+                            "indices": [
+                                58,
+                                81
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/924650835258281985/5RE1Mrpp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/924650835258281985/5RE1Mrpp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2327344308/1495740580",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "234796740": {
+        "id": 234796740,
+        "id_str": "234796740",
+        "name": "Wendy Kendall",
+        "screen_name": "GlobalisedMinds",
+        "location": "United Kingdom",
+        "description": "Lead Beyond Limits | Executive Coach | Global Leadership | Psychology Practice Growth Advice | Mentor | Speaker | Running | Family | RT\u2260endorsement",
+        "url": "https://t.co/ejSHmyWVL2",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ejSHmyWVL2",
+                        "expanded_url": "https://wendykendall.com/",
+                        "display_url": "wendykendall.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1404,
+        "friends_count": 1487,
+        "listed_count": 22,
+        "created_at": "Thu Jan 06 15:58:40 +0000 2011",
+        "favourites_count": 12792,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7325,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 22:44:45 +0000 2019",
+            "id": 1151623803321114625,
+            "id_str": "1151623803321114625",
+            "text": "It sure is! https://t.co/pmnJVWaQVz",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pmnJVWaQVz",
+                        "expanded_url": "https://twitter.com/ConsultBox/status/1151622396975230983",
+                        "display_url": "twitter.com/ConsultBox/sta\u2026",
+                        "indices": [
+                            12,
+                            35
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1151622396975230983,
+            "quoted_status_id_str": "1151622396975230983",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "090E22",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1119330328110354432/04q9iwr0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119330328110354432/04q9iwr0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234796740/1555704442",
+        "profile_link_color": "21304C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F4EDE3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "1104793738159837185": {
+        "id": 1104793738159837185,
+        "id_str": "1104793738159837185",
+        "name": "Joanne",
+        "screen_name": "StarraEducation",
+        "location": "Glasgow, Scotland",
+        "description": "Consultancy & Training | FRSA | MSc Child Psychology & Law, BEd: Inclusion | Circle @NACWGScot | Board @GYIP1994 | Mentor @MCRpathways | #WideningParticipation",
+        "url": "https://t.co/XrLZjlNxXo",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XrLZjlNxXo",
+                        "expanded_url": "http://www.starra.co.uk",
+                        "display_url": "starra.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2443,
+        "friends_count": 2359,
+        "listed_count": 2,
+        "created_at": "Sun Mar 10 17:18:48 +0000 2019",
+        "favourites_count": 1588,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 713,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 20:18:20 +0000 2019",
+            "id": 1151586955978842113,
+            "id_str": "1151586955978842113",
+            "text": "@MsWarnersWorld Ha ha ha. See. That\u2019s why I like you. Taking it too far.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MsWarnersWorld",
+                        "name": "Elinor",
+                        "id": 1124629959929155584,
+                        "id_str": "1124629959929155584",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1151586809639571459,
+            "in_reply_to_status_id_str": "1151586809639571459",
+            "in_reply_to_user_id": 1124629959929155584,
+            "in_reply_to_user_id_str": "1124629959929155584",
+            "in_reply_to_screen_name": "MsWarnersWorld",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1116327556431646721/PkABQl-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116327556431646721/PkABQl-4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104793738159837185/1562712812",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "88162495": {
+        "id": 88162495,
+        "id_str": "88162495",
+        "name": "Mari\u00e9 Jacobs",
+        "screen_name": "Kwinkeleer",
+        "location": "Johannesburg, South Africa",
+        "description": "Love film, music, poetry, travel. Teacher, studyguide author, mentor. Tweets: #film #inspiration #music #poetry #psychology #spirituality #writing",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1352,
+        "friends_count": 2296,
+        "listed_count": 38,
+        "created_at": "Sat Nov 07 10:48:11 +0000 2009",
+        "favourites_count": 2472,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1312,
+        "lang": null,
+        "status": {
+            "created_at": "Fri May 31 13:47:45 +0000 2019",
+            "id": 1134456431825031168,
+            "id_str": "1134456431825031168",
+            "text": "https://t.co/h8yBVHzxBS",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/h8yBVHzxBS",
+                        "expanded_url": "https://karmosyn.wordpress.com/2019/05/31/mis-voor-die-son-lizanne-barnard-1/",
+                        "display_url": "karmosyn.wordpress.com/2019/05/31/mis\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461601735044526080/-m4bk_HB_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461601735044526080/-m4bk_HB_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88162495/1458326883",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "525790294": {
+        "id": 525790294,
+        "id_str": "525790294",
+        "name": "IG: _WB24_",
+        "screen_name": "Let_Weedlens_B",
+        "location": "",
+        "description": "Let me be a blessing to you. W.B Elite Hoops Training Bachelors in Psychology. Bible & Physical Education minor #Trainer #Mentor #LifeCoach",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 734,
+        "friends_count": 754,
+        "listed_count": 2,
+        "created_at": "Thu Mar 15 22:02:50 +0000 2012",
+        "favourites_count": 2000,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19101,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jun 27 18:42:32 +0000 2019",
+            "id": 1144315091363487745,
+            "id_str": "1144315091363487745",
+            "text": "\u2696\ufe0fT H E  M I S S I O N  \n\n#keepinspiring #inkyjohnson #themission #thisisbiggerthanme #givethemhope @ The Mission https://t.co/PR2V5AMJDh",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "keepinspiring",
+                        "indices": [
+                            26,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "inkyjohnson",
+                        "indices": [
+                            41,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "themission",
+                        "indices": [
+                            54,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "thisisbiggerthanme",
+                        "indices": [
+                            66,
+                            85
+                        ]
+                    },
+                    {
+                        "text": "givethemhope",
+                        "indices": [
+                            86,
+                            99
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/PR2V5AMJDh",
+                        "expanded_url": "https://www.instagram.com/p/BzOUHRZgIp_/?igshid=1inhdg0gpj1iz",
+                        "display_url": "instagram.com/p/BzOUHRZgIp_/\u2026",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    28.2504,
+                    -82.44842
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.44842,
+                    28.2504
+                ]
+            },
+            "place": {
+                "id": "36f6e625182fae8b",
+                "url": "https://api.twitter.com/1.1/geo/id/36f6e625182fae8b.json",
+                "place_type": "city",
+                "name": "Land O' Lakes",
+                "full_name": "Land O' Lakes, FL",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -82.524994,
+                                28.171069
+                            ],
+                            [
+                                -82.369327,
+                                28.171069
+                            ],
+                            [
+                                -82.369327,
+                                28.267173
+                            ],
+                            [
+                                -82.524994,
+                                28.267173
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780949341418688513/SrOAbHBD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780949341418688513/SrOAbHBD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/525790294/1436150182",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "1480033998": {
+        "id": 1480033998,
+        "id_str": "1480033998",
+        "name": "Ondy Willson",
+        "screen_name": "OndyWillson",
+        "location": "North West, England",
+        "description": "Mind Training Mentor - specialising in #Mindfulness tradition. Long experience of studying, practising and teaching psychology and philosophy of #wellbeing.",
+        "url": "https://t.co/eEpUN0MdMR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/eEpUN0MdMR",
+                        "expanded_url": "http://www.ondywillson.com",
+                        "display_url": "ondywillson.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 549,
+        "friends_count": 2132,
+        "listed_count": 30,
+        "created_at": "Mon Jun 03 16:06:39 +0000 2013",
+        "favourites_count": 374,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 483,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 11 07:15:01 +0000 2019",
+            "id": 1149215502755139584,
+            "id_str": "1149215502755139584",
+            "text": "RT @MindfulTiger: Just noticed this has been republished @Daily_Good , thanks so much \ud83e\udd17\n#Mindfulness\n#WednesdayWisdom\nEquanimity, Mindfulne\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Mindfulness",
+                        "indices": [
+                            88,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "WednesdayWisdom",
+                        "indices": [
+                            101,
+                            117
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MindfulTiger",
+                        "name": "Joey Weber",
+                        "id": 1052581042794766336,
+                        "id_str": "1052581042794766336",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "Daily_Good",
+                        "name": "DailyGood",
+                        "id": 92345478,
+                        "id_str": "92345478",
+                        "indices": [
+                            57,
+                            68
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 10 14:41:26 +0000 2019",
+                "id": 1148965457657028608,
+                "id_str": "1148965457657028608",
+                "text": "Just noticed this has been republished @Daily_Good , thanks so much \ud83e\udd17\n#Mindfulness\n#WednesdayWisdom\nEquanimity, Min\u2026 https://t.co/DBVSMfXPiZ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Mindfulness",
+                            "indices": [
+                                70,
+                                82
+                            ]
+                        },
+                        {
+                            "text": "WednesdayWisdom",
+                            "indices": [
+                                83,
+                                99
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Daily_Good",
+                            "name": "DailyGood",
+                            "id": 92345478,
+                            "id_str": "92345478",
+                            "indices": [
+                                39,
+                                50
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/DBVSMfXPiZ",
+                            "expanded_url": "https://twitter.com/i/web/status/1148965457657028608",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3766401258/f7d0f46911ab7f07378be09cf35a3632_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3766401258/f7d0f46911ab7f07378be09cf35a3632_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480033998/1465803621",
+        "profile_link_color": "03B300",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "1454943463": {
+        "id": 1454943463,
+        "id_str": "1454943463",
+        "name": "Adriana FitnAll",
+        "screen_name": "adrianafitnall",
+        "location": "New York, USA",
+        "description": "#AdrianaAlbritton, Colombian FitnessWellness Mentor, Writer, Blogger. XR focused. M.A. Forensic Psychology, Figure Competitor, Coaching https://t.co/jwS6NcmmOf",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jwS6NcmmOf",
+                        "expanded_url": "https://goo.gl/ubVEzX",
+                        "display_url": "goo.gl/ubVEzX",
+                        "indices": [
+                            136,
+                            159
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 3480,
+        "friends_count": 2867,
+        "listed_count": 92,
+        "created_at": "Fri May 24 18:40:50 +0000 2013",
+        "favourites_count": 6925,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7070,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 19:40:56 +0000 2019",
+            "id": 1151577545625788416,
+            "id_str": "1151577545625788416",
+            "text": "Check out how can technology can improve your fitness level and physique ;) \nSign up to my blog for more fitness, h\u2026 https://t.co/EUorVvA7qY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/EUorVvA7qY",
+                        "expanded_url": "https://twitter.com/i/web/status/1151577545625788416",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/915433650694520832/i9e67_C3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/915433650694520832/i9e67_C3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454943463/1557930506",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "101582013": {
+        "id": 101582013,
+        "id_str": "101582013",
+        "name": "Vincent McMahon",
+        "screen_name": "VinceConsulting",
+        "location": "Italy",
+        "description": "Business Mentor for Evolutionaries - Combining Spirituality, Psychology & Business Know How",
+        "url": "https://t.co/QNjX5RvEIh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QNjX5RvEIh",
+                        "expanded_url": "http://getbook.at/Custodians",
+                        "display_url": "getbook.at/Custodians",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 341,
+        "friends_count": 370,
+        "listed_count": 10,
+        "created_at": "Sun Jan 03 21:53:41 +0000 2010",
+        "favourites_count": 6500,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2433,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 17:49:02 +0000 2019",
+            "id": 1151186995437326337,
+            "id_str": "1151186995437326337",
+            "text": "@SCJohnson @HFiskJohnson @OceanWise Thank you for responding. It sounds like you are more on top of your plastic pr\u2026 https://t.co/q2AHQ1RnVu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SCJohnson",
+                        "name": "SC Johnson",
+                        "id": 326813935,
+                        "id_str": "326813935",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "HFiskJohnson",
+                        "name": "H Fisk Johnson, Ph.D.",
+                        "id": 2950206855,
+                        "id_str": "2950206855",
+                        "indices": [
+                            11,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "OceanWise",
+                        "name": "Ocean Wise",
+                        "id": 24223691,
+                        "id_str": "24223691",
+                        "indices": [
+                            25,
+                            35
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/q2AHQ1RnVu",
+                        "expanded_url": "https://twitter.com/i/web/status/1151186995437326337",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1149459289603526656,
+            "in_reply_to_status_id_str": "1149459289603526656",
+            "in_reply_to_user_id": 326813935,
+            "in_reply_to_user_id_str": "326813935",
+            "in_reply_to_screen_name": "SCJohnson",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/591549659438514176/qmN8Rudu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/591549659438514176/qmN8Rudu_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101582013/1532000960",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "1265623729": {
+        "id": 1265623729,
+        "id_str": "1265623729",
+        "name": "Jo Wood",
+        "screen_name": "JoWould",
+        "location": "London, England",
+        "description": "MA in Gender Studies @ceuhungary & Psychology @swanseauni. Now @RISE_beyond, youth worker @METROcharity & mentor @TheGirlsNet \ud83c\udf3b\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "url": "https://t.co/uHXizjwAGJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/uHXizjwAGJ",
+                        "expanded_url": "http://www.misswoodforthetrees.com",
+                        "display_url": "misswoodforthetrees.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 371,
+        "friends_count": 1451,
+        "listed_count": 5,
+        "created_at": "Wed Mar 13 22:33:46 +0000 2013",
+        "favourites_count": 3724,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1513,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 08:08:59 +0000 2019",
+            "id": 1151041021658173440,
+            "id_str": "1151041021658173440",
+            "text": "The last @RISE_beyond newsletter which I put together was on the theme of culture, and the next one will be on the\u2026 https://t.co/yfioq8QHE4",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RISE_beyond",
+                        "name": "[^] RISE Beyond",
+                        "id": 1076728832,
+                        "id_str": "1076728832",
+                        "indices": [
+                            9,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/yfioq8QHE4",
+                        "expanded_url": "https://twitter.com/i/web/status/1151041021658173440",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098611011203010560/Qh5y31md_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098611011203010560/Qh5y31md_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265623729/1547640510",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "965933976807493633": {
+        "id": 965933976807493633,
+        "id_str": "965933976807493633",
+        "name": "UoM Psychology Mentor Scheme",
+        "screen_name": "UoM_Psy_Mentor",
+        "location": "Manchester, England",
+        "description": "Follow us for updates on events, blog posts and other exciting happenings for Psychology students starting at UoM in 2018! .Also occasional dogs.",
+        "url": "https://t.co/CCXe4izZ91",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CCXe4izZ91",
+                        "expanded_url": "https://psychologypeersupport.wordpress.com/",
+                        "display_url": "psychologypeersupport.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 31,
+        "listed_count": 0,
+        "created_at": "Tue Feb 20 12:59:41 +0000 2018",
+        "favourites_count": 20,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 129,
+        "lang": null,
+        "status": {
+            "created_at": "Thu May 02 09:29:36 +0000 2019",
+            "id": 1123882220127752196,
+            "id_str": "1123882220127752196",
+            "text": "RT @callum_mogridge: All set for the Introduction to Year 2 Fair this Friday @BPSOfficial @BPSStudent @UoM_Psy_Mentor https://t.co/e9B6Yv8V\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "callum_mogridge",
+                        "name": "Callum Mogridge",
+                        "id": 859949324,
+                        "id_str": "859949324",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "BPSOfficial",
+                        "name": "British Psychological Society",
+                        "id": 277997152,
+                        "id_str": "277997152",
+                        "indices": [
+                            77,
+                            89
+                        ]
+                    },
+                    {
+                        "screen_name": "BPSStudent",
+                        "name": "BPS Student Members",
+                        "id": 745621094095294464,
+                        "id_str": "745621094095294464",
+                        "indices": [
+                            90,
+                            101
+                        ]
+                    },
+                    {
+                        "screen_name": "UoM_Psy_Mentor",
+                        "name": "UoM Psychology Mentor Scheme",
+                        "id": 965933976807493633,
+                        "id_str": "965933976807493633",
+                        "indices": [
+                            102,
+                            117
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu May 02 09:20:42 +0000 2019",
+                "id": 1123879979517923329,
+                "id_str": "1123879979517923329",
+                "text": "All set for the Introduction to Year 2 Fair this Friday @BPSOfficial @BPSStudent @UoM_Psy_Mentor https://t.co/e9B6Yv8VuT",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "BPSOfficial",
+                            "name": "British Psychological Society",
+                            "id": 277997152,
+                            "id_str": "277997152",
+                            "indices": [
+                                56,
+                                68
+                            ]
+                        },
+                        {
+                            "screen_name": "BPSStudent",
+                            "name": "BPS Student Members",
+                            "id": 745621094095294464,
+                            "id_str": "745621094095294464",
+                            "indices": [
+                                69,
+                                80
+                            ]
+                        },
+                        {
+                            "screen_name": "UoM_Psy_Mentor",
+                            "name": "UoM Psychology Mentor Scheme",
+                            "id": 965933976807493633,
+                            "id_str": "965933976807493633",
+                            "indices": [
+                                81,
+                                96
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1123879975051046914,
+                            "id_str": "1123879975051046914",
+                            "indices": [
+                                97,
+                                120
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D5jS4fsXsAIhd-C.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D5jS4fsXsAIhd-C.jpg",
+                            "url": "https://t.co/e9B6Yv8VuT",
+                            "display_url": "pic.twitter.com/e9B6Yv8VuT",
+                            "expanded_url": "https://twitter.com/callum_mogridge/status/1123879979517923329/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 342,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 604,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1792,
+                                    "h": 902,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1123879975051046914,
+                            "id_str": "1123879975051046914",
+                            "indices": [
+                                97,
+                                120
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D5jS4fsXsAIhd-C.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D5jS4fsXsAIhd-C.jpg",
+                            "url": "https://t.co/e9B6Yv8VuT",
+                            "display_url": "pic.twitter.com/e9B6Yv8VuT",
+                            "expanded_url": "https://twitter.com/callum_mogridge/status/1123879979517923329/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 342,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 604,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1792,
+                                    "h": 902,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1123879975071965185,
+                            "id_str": "1123879975071965185",
+                            "indices": [
+                                97,
+                                120
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D5jS4fxW4AEK9RK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D5jS4fxW4AEK9RK.jpg",
+                            "url": "https://t.co/e9B6Yv8VuT",
+                            "display_url": "pic.twitter.com/e9B6Yv8VuT",
+                            "expanded_url": "https://twitter.com/callum_mogridge/status/1123879979517923329/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 342,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 604,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1792,
+                                    "h": 902,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1123879975051046913,
+                            "id_str": "1123879975051046913",
+                            "indices": [
+                                97,
+                                120
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D5jS4fsXsAEto_Y.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D5jS4fsXsAEto_Y.jpg",
+                            "url": "https://t.co/e9B6Yv8VuT",
+                            "display_url": "pic.twitter.com/e9B6Yv8VuT",
+                            "expanded_url": "https://twitter.com/callum_mogridge/status/1123879979517923329/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 902,
+                                    "h": 1792,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 604,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 342,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972208917701947404/97emIsph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972208917701947404/97emIsph_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965933976807493633/1520463994",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "330148264": {
+        "id": 330148264,
+        "id_str": "330148264",
+        "name": "Janae \ud83d\udc95\ud83d\udc8b\ud83d\udc51",
+        "screen_name": "QueennJayy_",
+        "location": "Chicago, IL",
+        "description": "#UIUC20 SC:Jahnae_Shawndra \ud83d\udc51 #HIPNO| RACS Mentor| Psychology/ criminology| Never a failure always a lesson \ud83d\udc8b",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4768,
+        "friends_count": 940,
+        "listed_count": 4,
+        "created_at": "Wed Jul 06 05:18:49 +0000 2011",
+        "favourites_count": 2707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11727,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 06:44:28 +0000 2019",
+            "id": 1151019750396506112,
+            "id_str": "1151019750396506112",
+            "text": "RT @HipNoticDance1: What\u2019s Good #UIUC23! \ud83d\udde3HipNotic Dance team checking in! \u2705\u2705 If you\u2019re looking for the hottest\ud83d\udd25, Most Lit \ud83e\udd2a &amp; successful d\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "UIUC23",
+                        "indices": [
+                            32,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HipNoticDance1",
+                        "name": "Hip-Notic Dance Team",
+                        "id": 770646984,
+                        "id_str": "770646984",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Jul 15 02:12:09 +0000 2019",
+                "id": 1150588835698491392,
+                "id_str": "1150588835698491392",
+                "text": "What\u2019s Good #UIUC23! \ud83d\udde3HipNotic Dance team checking in! \u2705\u2705 If you\u2019re looking for the hottest\ud83d\udd25, Most Lit \ud83e\udd2a &amp; successf\u2026 https://t.co/Y3gm4H9Yls",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "UIUC23",
+                            "indices": [
+                                12,
+                                19
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Y3gm4H9Yls",
+                            "expanded_url": "https://twitter.com/i/web/status/1150588835698491392",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                121,
+                                144
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 15,
+                "favorite_count": 27,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081421294334345217/xt1JSdFA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081421294334345217/xt1JSdFA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/330148264/1484123457",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "234499174": {
+        "id": 234499174,
+        "id_str": "234499174",
+        "name": "\ud83c\udf08 Gone Girl",
+        "screen_name": "bushbybee",
+        "location": "Johannesburg | Bloemfontein",
+        "description": "Golden Key Member\ud83d\udddd || Criminal Psychology Major \ud83d\udcda || Univ. of the Free State || Gateway Mentor \ud83d\ude07 || Gender & Sexual Equity advocate \u27b0|| Gay Feminist \u2668",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1771,
+        "friends_count": 1323,
+        "listed_count": 8,
+        "created_at": "Wed Jan 05 20:23:10 +0000 2011",
+        "favourites_count": 10066,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33458,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 15:23:35 +0000 2019",
+            "id": 1151512781813927936,
+            "id_str": "1151512781813927936",
+            "text": "Alcohol and food can go \ud83c\udf39 https://t.co/AcRHjaKi9P",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/AcRHjaKi9P",
+                        "expanded_url": "https://twitter.com/hellen_mathibe/status/1151383524185976832",
+                        "display_url": "twitter.com/hellen_mathibe\u2026",
+                        "indices": [
+                            26,
+                            49
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1151383524185976832,
+            "quoted_status_id_str": "1151383524185976832",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139103891579068416/bkOU_q4F_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139103891579068416/bkOU_q4F_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234499174/1560076077",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "1003706215": {
+        "id": 1003706215,
+        "id_str": "1003706215",
+        "name": "Anna Kaur Mandhar",
+        "screen_name": "AnnaMandhar",
+        "location": "England, USA, Worldwide  ",
+        "description": "Health and Wellness Mentor @chopracenter | Meditation |Conscious Leader | BSc (Hons) Psychology | Motivational Speaker | \u269c\ufe0fBookings for 2019/2020\u269c\ufe0f",
+        "url": "https://t.co/Chslzmv76T",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Chslzmv76T",
+                        "expanded_url": "http://annamandhar.com",
+                        "display_url": "annamandhar.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 938,
+        "friends_count": 1191,
+        "listed_count": 30,
+        "created_at": "Tue Dec 11 09:41:57 +0000 2012",
+        "favourites_count": 4244,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2714,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jul 14 19:37:16 +0000 2019",
+            "id": 1150489459504406528,
+            "id_str": "1150489459504406528",
+            "text": "Congratulations to England! Very well deserved. \ud83d\udc4f\ud83c\udffc\ud83c\udf89\ud83d\udd25\ud83c\udfc6\n@englandcricket \n#CricketWorldCup2019 #ICCWorldCup2019\u2026 https://t.co/v80B3O28jG",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CricketWorldCup2019",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "ICCWorldCup2019",
+                        "indices": [
+                            92,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "englandcricket",
+                        "name": "England Cricket",
+                        "id": 3017241909,
+                        "id_str": "3017241909",
+                        "indices": [
+                            54,
+                            69
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/v80B3O28jG",
+                        "expanded_url": "https://twitter.com/i/web/status/1150489459504406528",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143885307483475969/EsOPvM6d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143885307483475969/EsOPvM6d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003706215/1561715831",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "748050051151302656": {
+        "id": 748050051151302656,
+        "id_str": "748050051151302656",
+        "name": "Linda Maponyane",
+        "screen_name": "leeleeza_Maps",
+        "location": "",
+        "description": "Author * Preacher * Entrepreneur * Lay Counsellor * Inspirational Speaker *  Mentor * BA Counseling Psychology*",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 657,
+        "friends_count": 228,
+        "listed_count": 11,
+        "created_at": "Wed Jun 29 07:06:45 +0000 2016",
+        "favourites_count": 2033,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1380,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 08:11:23 +0000 2019",
+            "id": 1151404012102651904,
+            "id_str": "1151404012102651904",
+            "text": "@Ceeparty2 @ZindziMandela @Khuze_Elikhulu Lol by \"was he there\" \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Ceeparty2",
+                        "name": "Rakhadi Wa Mohale!",
+                        "id": 2226880872,
+                        "id_str": "2226880872",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "ZindziMandela",
+                        "name": "Zindzi Mandela",
+                        "id": 2318791345,
+                        "id_str": "2318791345",
+                        "indices": [
+                            11,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "Khuze_Elikhulu",
+                        "name": "He / Him / Babyself",
+                        "id": 183551697,
+                        "id_str": "183551697",
+                        "indices": [
+                            26,
+                            41
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151218733743915010,
+            "in_reply_to_status_id_str": "1151218733743915010",
+            "in_reply_to_user_id": 2226880872,
+            "in_reply_to_user_id_str": "2226880872",
+            "in_reply_to_screen_name": "Ceeparty2",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045634239549575174/mSC0_vyl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045634239549575174/mSC0_vyl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/748050051151302656/1484768277",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "505591976": {
+        "id": 505591976,
+        "id_str": "505591976",
+        "name": "\u2122\uf04a\u00ae\uf059\uf059Melsa_Maluleke",
+        "screen_name": "IamMelsaM",
+        "location": "(Mtititi-Altein)",
+        "description": "I\u2019m here to avoid friends on Facebook...#Wits_PostGrad Psychology #Tutor #Mentor #Counselor #I_love _God Ndzi #Mutsonga",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2422,
+        "friends_count": 2082,
+        "listed_count": 7,
+        "created_at": "Mon Feb 27 07:37:20 +0000 2012",
+        "favourites_count": 46,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1831,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Jun 21 10:42:47 +0000 2019",
+            "id": 1142020030709862400,
+            "id_str": "1142020030709862400",
+            "text": "RT @kate_kanie: Mhe ni vone wena u miyela the whole day na mina no decider ku miyela..hiloko relationship yi huma tendeni yiya masirheni ht\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kate_kanie",
+                        "name": "Kate\ud83e\udd8b kanie\ud83e\udd8b",
+                        "id": 4882109201,
+                        "id_str": "4882109201",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jun 20 06:29:17 +0000 2019",
+                "id": 1141593846914174976,
+                "id_str": "1141593846914174976",
+                "text": "Mhe ni vone wena u miyela the whole day na mina no decider ku miyela..hiloko relationship yi huma tendeni yiya masi\u2026 https://t.co/1HnJeC7Gv5",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/1HnJeC7Gv5",
+                            "expanded_url": "https://twitter.com/i/web/status/1141593846914174976",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "e564d30dc173d2a8",
+                    "url": "https://api.twitter.com/1.1/geo/id/e564d30dc173d2a8.json",
+                    "place_type": "city",
+                    "name": "Johannesburg",
+                    "full_name": "Johannesburg, South Africa",
+                    "country_code": "ZA",
+                    "country": "South Africa",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    27.7518557,
+                                    -26.5126489
+                                ],
+                                [
+                                    28.1843404,
+                                    -26.5126489
+                                ],
+                                [
+                                    28.1843404,
+                                    -26.0396281
+                                ],
+                                [
+                                    27.7518557,
+                                    -26.0396281
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 56,
+                "favorite_count": 267,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "tl"
+            },
+            "is_quote_status": false,
+            "retweet_count": 56,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tl"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112810177160536064/IFfC3EmU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112810177160536064/IFfC3EmU_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "16877566": {
+        "id": 16877566,
+        "id_str": "16877566",
+        "name": "Marta Datkiewicz",
+        "screen_name": "m4rta",
+        "location": "London",
+        "description": "Technologist since birth. Product Manager by design. Mentor at heart. Fascinated with why we do the things we do #psychology",
+        "url": "http://t.co/JGeCTN95KH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/JGeCTN95KH",
+                        "expanded_url": "http://m4rta.com",
+                        "display_url": "m4rta.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 911,
+        "friends_count": 247,
+        "listed_count": 60,
+        "created_at": "Tue Oct 21 00:00:00 +0000 2008",
+        "favourites_count": 24,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1408,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jan 13 22:34:58 +0000 2019",
+            "id": 1084579587374440450,
+            "id_str": "1084579587374440450",
+            "text": "If depression is an illness, then grief, which often contains episodes of depression, is too dear @DWP...  It's tim\u2026 https://t.co/Q10UlCq5BE",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DWP",
+                        "name": "DWP",
+                        "id": 274569960,
+                        "id_str": "274569960",
+                        "indices": [
+                            98,
+                            102
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Q10UlCq5BE",
+                        "expanded_url": "https://twitter.com/i/web/status/1084579587374440450",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 994524002961051648,
+            "quoted_status_id_str": "994524002961051648",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "251810",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612679651387904001/rn9urexU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612679651387904001/rn9urexU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16877566/1484598161",
+        "profile_link_color": "7A5C29",
+        "profile_sidebar_border_color": "94A4AE",
+        "profile_sidebar_fill_color": "1D110A",
+        "profile_text_color": "A98E6F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "27697529": {
+        "id": 27697529,
+        "id_str": "27697529",
+        "name": "thewife",
+        "screen_name": "thetradingwife",
+        "location": "San Francisco Bay Area",
+        "description": "Danielle Spandau - Director of Operations @Hott_Solutions, Trader & mentor. Psychology emphasis. @thewife on Stocktwits",
+        "url": "https://t.co/8UKvQBgNVc",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8UKvQBgNVc",
+                        "expanded_url": "http://thetradingwife.net",
+                        "display_url": "thetradingwife.net",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1453,
+        "friends_count": 204,
+        "listed_count": 75,
+        "created_at": "Mon Mar 30 18:25:51 +0000 2009",
+        "favourites_count": 507,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10682,
+        "lang": null,
+        "status": {
+            "created_at": "Wed May 15 16:41:18 +0000 2019",
+            "id": 1128701903418736640,
+            "id_str": "1128701903418736640",
+            "text": "Excited to be attending @IMN_RealEstate CFO/COO Forum West. #imnevents #CFOwest",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "imnevents",
+                        "indices": [
+                            60,
+                            70
+                        ]
+                    },
+                    {
+                        "text": "CFOwest",
+                        "indices": [
+                            71,
+                            79
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "IMN_RealEstate",
+                        "name": "Real Estate Events",
+                        "id": 164348728,
+                        "id_str": "164348728",
+                        "indices": [
+                            24,
+                            39
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170767142/feet_normal",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170767142/feet_normal",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "76372027": {
+        "id": 76372027,
+        "id_str": "76372027",
+        "name": "Denise Laura Baker",
+        "screen_name": "Moelfabanssc",
+        "location": "North Wales",
+        "description": "Psychology PhD,  food writer,  prose writer, photographer, rebel chef, Reiki practitioner, mentor, all round creative person",
+        "url": "https://t.co/zzuvln9pQ1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zzuvln9pQ1",
+                        "expanded_url": "http://moelfabansuppers.com/",
+                        "display_url": "moelfabansuppers.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": true,
+        "followers_count": 1242,
+        "friends_count": 2149,
+        "listed_count": 63,
+        "created_at": "Tue Sep 22 16:11:12 +0000 2009",
+        "favourites_count": 650,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4983,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "76A68E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668113000151310337/-29-OiR3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668113000151310337/-29-OiR3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76372027/1389814894",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "25842048": {
+        "id": 25842048,
+        "id_str": "25842048",
+        "name": "Christian Simpson",
+        "screen_name": "ctjsimpson",
+        "location": "UK",
+        "description": "UK's Leading Coach & Mentor in the Psychology of Success & Wealth Generation for Entrepreneurs & Business Owners",
+        "url": "http://t.co/QTv7m3Dx2Z",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/QTv7m3Dx2Z",
+                        "expanded_url": "http://www.christian-simpson.com",
+                        "display_url": "christian-simpson.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2010,
+        "friends_count": 1095,
+        "listed_count": 57,
+        "created_at": "Sun Mar 22 16:54:14 +0000 2009",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1574,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Jan 12 12:20:41 +0000 2019",
+            "id": 1084062607881908225,
+            "id_str": "1084062607881908225",
+            "text": "Those who think they know themselves don't\u2026\n\u2026and those who do know how little they know.\n\n#entrepeneur\u2026 https://t.co/YfHsaPGKtX",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "entrepeneur",
+                        "indices": [
+                            90,
+                            102
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YfHsaPGKtX",
+                        "expanded_url": "https://twitter.com/i/web/status/1084062607881908225",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            104,
+                            127
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 13,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/899631643417247746/gkJjYcaN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/899631643417247746/gkJjYcaN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25842048/1503323887",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "58063656": {
+        "id": 58063656,
+        "id_str": "58063656",
+        "name": "Adeshola Afolabi",
+        "screen_name": "nurseyourwealth",
+        "location": "USA",
+        "description": "Father, psychology, RN, internet marketing, success mentor, self motivation counselor, writer,  new yorkers, carboncopypro, nurse your wealth",
+        "url": "http://t.co/rfXfflo4lH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/rfXfflo4lH",
+                        "expanded_url": "http://www.newwealthcreationonline.com",
+                        "display_url": "newwealthcreationonline.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1905,
+        "friends_count": 0,
+        "listed_count": 17,
+        "created_at": "Sat Jul 18 23:40:01 +0000 2009",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 668,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Jan 08 13:09:58 +0000 2010",
+            "id": 7517748575,
+            "id_str": "7517748575",
+            "text": "The fact that some genuises were laughed at dosn't implies that all those laughed at are genuises. Wright brothers Vs Bozo the Clown-C.Sagan",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2D387D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/354722440/twitter_picture_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/354722440/twitter_picture_normal.jpg",
+        "profile_link_color": "B8B8B8",
+        "profile_sidebar_border_color": "15183B",
+        "profile_sidebar_fill_color": "2E717D",
+        "profile_text_color": "1F0999",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "34872788": {
+        "id": 34872788,
+        "id_str": "34872788",
+        "name": "Mindy Schinnerer",
+        "screen_name": "Inspired2Be",
+        "location": "Los Angeles",
+        "description": "Pro Singer; Work at Home Mom of 2; Healthy, Prosperous Living Mentor, Love Learning, Spiritual Psychology, Integrative Nutrition\r\n; Heart Link Network Leader",
+        "url": "http://t.co/Ie1XWW7q",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Ie1XWW7q",
+                        "expanded_url": "http://www.healthyprosperouslife.com",
+                        "display_url": "healthyprosperouslife.com",
+                        "indices": [
+                            0,
+                            20
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 714,
+        "friends_count": 1393,
+        "listed_count": 10,
+        "created_at": "Fri Apr 24 07:13:10 +0000 2009",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 470,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Apr 20 22:24:25 +0000 2013",
+            "id": 325736741111746560,
+            "id_str": "325736741111746560",
+            "text": "RT @thedailylove: :) \"Health Habits They Don't Teach In Medical School!\" by @Lissarankin http://t.co/nNiAO6dC92",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TheDailyLove",
+                        "name": "Mastin Kipp",
+                        "id": 16870682,
+                        "id_str": "16870682",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "Lissarankin",
+                        "name": "Lissa Rankin, MD",
+                        "id": 25393674,
+                        "id_str": "25393674",
+                        "indices": [
+                            76,
+                            88
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/nNiAO6dC92",
+                        "expanded_url": "http://thedailylove.com/?p=21443",
+                        "display_url": "thedailylove.com/?p=21443",
+                        "indices": [
+                            89,
+                            111
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/182434236/Mindy_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/182434236/Mindy_2_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "67155900": {
+        "id": 67155900,
+        "id_str": "67155900",
+        "name": "Kyle ASAPvt Hoyt",
+        "screen_name": "ASAPvt",
+        "location": "Burlington, Vermont",
+        "description": "VT Culture/Integral Psychology/Oneirology/ Mentor Projects",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 458,
+        "friends_count": 809,
+        "listed_count": 15,
+        "created_at": "Wed Aug 19 23:16:59 +0000 2009",
+        "favourites_count": 8,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4899,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Nov 01 14:51:46 +0000 2016",
+            "id": 793465562483523584,
+            "id_str": "793465562483523584",
+            "text": "@killermike we should add a VT date after Portland, ME 2/23.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "KillerMike",
+                        "name": "Killer Mike",
+                        "id": 21265120,
+                        "id_str": "21265120",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 21265120,
+            "in_reply_to_user_id_str": "21265120",
+            "in_reply_to_screen_name": "KillerMike",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/431629763212738560/o8_EdrZ6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431629763212738560/o8_EdrZ6_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67155900/1392368273",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "97353610": {
+        "id": 97353610,
+        "id_str": "97353610",
+        "name": "Jayson Stahlbaum",
+        "screen_name": "JSNETWORKING",
+        "location": "Calgary, Alberta",
+        "description": "Ontario Graduate of Psychology, Former Military, Internet Marketing, Mentor, Movie Fanatic, Downline Builder, HomeBusiness And Marketing",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1312,
+        "friends_count": 1775,
+        "listed_count": 24,
+        "created_at": "Thu Dec 17 03:34:37 +0000 2009",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 303,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jun 06 22:10:59 +0000 2010",
+            "id": 15583513628,
+            "id_str": "15583513628",
+            "text": "SWOM is now linked up with my twitter. Such a cool way to get HUGE amounts of traffic and leads. http://swom.com/Prfr0",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://swom.com\" rel=\"nofollow\">Swom</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656097477/jay9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656097477/jay9_normal.jpg",
+        "profile_link_color": "66FFFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "999999",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "795239977": {
+        "id": 795239977,
+        "id_str": "795239977",
+        "name": "Anna Russell",
+        "screen_name": "kawasaki_tri",
+        "location": "Auckland City, New Zealand",
+        "description": "Past pro-ironman athlete, TriNZ community director, coach, mentor, writer, psychology student and all-round inspirer.",
+        "url": "https://t.co/6V915f2zsp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6V915f2zsp",
+                        "expanded_url": "http://www.annarusselltriathlete.co.nz",
+                        "display_url": "annarusselltriathlete.co.nz",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 335,
+        "friends_count": 210,
+        "listed_count": 9,
+        "created_at": "Sat Sep 01 03:35:21 +0000 2012",
+        "favourites_count": 469,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1511,
+        "lang": null,
+        "status": {
+            "created_at": "Thu May 04 05:26:25 +0000 2017",
+            "id": 860002653560078337,
+            "id_str": "860002653560078337",
+            "text": "New blog up now exploring mindset with Amy Howse, fastest Kiwi at @adventurecorps ultramarathon\u2026 https://t.co/eWazOJsxNG",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "adventurecorps",
+                        "name": "AdventureCORPS",
+                        "id": 709818140029542401,
+                        "id_str": "709818140029542401",
+                        "indices": [
+                            66,
+                            81
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/eWazOJsxNG",
+                        "expanded_url": "https://www.instagram.com/p/BTqJyixjfBM/",
+                        "display_url": "instagram.com/p/BTqJyixjfBM/",
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476487348213911552/UKH580t1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476487348213911552/UKH580t1_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/795239977/1378176397",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "92119797": {
+        "id": 92119797,
+        "id_str": "92119797",
+        "name": "Javier Alonso",
+        "screen_name": "javikuala",
+        "location": "Barcelona",
+        "description": "Google's business mentor for digital agencies. Interpersonal skills, Training, Psychology.",
+        "url": "http://t.co/ZSdsDYipvZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ZSdsDYipvZ",
+                        "expanded_url": "http://www.interactifs.es",
+                        "display_url": "interactifs.es",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 394,
+        "friends_count": 693,
+        "listed_count": 11,
+        "created_at": "Mon Nov 23 21:35:41 +0000 2009",
+        "favourites_count": 159,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 306,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jul 07 12:07:43 +0000 2019",
+            "id": 1147839612045471744,
+            "id_str": "1147839612045471744",
+            "text": "RT @PsychToday: Like physical attractiveness, people are wired to choose kindness when selecting a romantic partner. Here's why. https://t.\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PsychToday",
+                        "name": "Psychology Today",
+                        "id": 27726303,
+                        "id_str": "27726303",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Jul 07 12:03:00 +0000 2019",
+                "id": 1147838422377291776,
+                "id_str": "1147838422377291776",
+                "text": "Like physical attractiveness, people are wired to choose kindness when selecting a romantic partner. Here's why. https://t.co/xP8OJ7OAck",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xP8OJ7OAck",
+                            "expanded_url": "http://bit.ly/2P9YISs",
+                            "display_url": "bit.ly/2P9YISs",
+                            "indices": [
+                                113,
+                                136
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 93,
+                "favorite_count": 268,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 93,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580357944413282304/zHjiJQEm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580357944413282304/zHjiJQEm_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "402447989": {
+        "id": 402447989,
+        "id_str": "402447989",
+        "name": "Trey Perry",
+        "screen_name": "4421Chief",
+        "location": "Have computer, will travel",
+        "description": "Military litigation and disability Consultant worldwide, McNair Mentor, graduate student - Gardner-Webb Psychology Dept.",
+        "url": "http://t.co/D5g2qbtr6o",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/D5g2qbtr6o",
+                        "expanded_url": "http://www.linkedin.com/in/bgperryiii/",
+                        "display_url": "linkedin.com/in/bgperryiii/",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 133,
+        "friends_count": 139,
+        "listed_count": 5,
+        "created_at": "Tue Nov 01 02:45:21 +0000 2011",
+        "favourites_count": 24,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 241,
+        "lang": null,
+        "status": {
+            "created_at": "Fri May 11 10:04:06 +0000 2018",
+            "id": 994880822363738116,
+            "id_str": "994880822363738116",
+            "text": "@CameronNewton happy birthday!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CameronNewton",
+                        "name": "Cameron Newton",
+                        "id": 252663106,
+                        "id_str": "252663106",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 252663106,
+            "in_reply_to_user_id_str": "252663106",
+            "in_reply_to_screen_name": "CameronNewton",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451357287958192128/wszYGQUH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451357287958192128/wszYGQUH_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/402447989/1396486768",
+        "profile_link_color": "211E21",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    }
+}

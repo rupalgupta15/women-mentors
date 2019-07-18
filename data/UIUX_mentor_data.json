@@ -1,0 +1,210 @@
+{
+    "24203544": {
+        "id": 24203544,
+        "id_str": "24203544",
+        "name": "UX Guy (Mark Swaine)",
+        "screen_name": "UX_UI_Guy",
+        "location": "Dublin City, Ireland, San Fran",
+        "description": "Founder The UX Institute, UX, CX, UI, SaaS, Startup Mentor, Product Design, Apps, Bots, AI/ML - https://t.co/o5gNFGA8DQ, https://t.co/iXIRgv7FHq, https://t.co/blaPGxsuRM",
+        "url": "https://t.co/hasgUEppgZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hasgUEppgZ",
+                        "expanded_url": "http://www.uxguy.com",
+                        "display_url": "uxguy.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/o5gNFGA8DQ",
+                        "expanded_url": "http://resolvedapp.com",
+                        "display_url": "resolvedapp.com",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/iXIRgv7FHq",
+                        "expanded_url": "http://uxguy.com",
+                        "display_url": "uxguy.com",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/blaPGxsuRM",
+                        "expanded_url": "http://uxinstitute.com",
+                        "display_url": "uxinstitute.com",
+                        "indices": [
+                            146,
+                            169
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 2867,
+        "friends_count": 2161,
+        "listed_count": 220,
+        "created_at": "Fri Mar 13 16:50:22 +0000 2009",
+        "favourites_count": 820,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6848,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 09:20:38 +0000 2019",
+            "id": 1151421441260302337,
+            "id_str": "1151421441260302337",
+            "text": "RT @talentgardenie: Want to learn about SaaS product design? Join us on July 31st at #TAGDublin where @UX_UI_Guy Mark Swaine will dive into\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TAGDublin",
+                        "indices": [
+                            85,
+                            95
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "talentgardenie",
+                        "name": "Talent Garden Ireland",
+                        "id": 1019236665334927360,
+                        "id_str": "1019236665334927360",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "UX_UI_Guy",
+                        "name": "UX Guy (Mark Swaine)",
+                        "id": 24203544,
+                        "id_str": "24203544",
+                        "indices": [
+                            102,
+                            112
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 08:57:48 +0000 2019",
+                "id": 1151415694094983168,
+                "id_str": "1151415694094983168",
+                "text": "Want to learn about SaaS product design? Join us on July 31st at #TAGDublin where @UX_UI_Guy Mark Swaine will dive\u2026 https://t.co/cMjycqCHvB",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "TAGDublin",
+                            "indices": [
+                                65,
+                                75
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "UX_UI_Guy",
+                            "name": "UX Guy (Mark Swaine)",
+                            "id": 24203544,
+                            "id_str": "24203544",
+                            "indices": [
+                                82,
+                                92
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/cMjycqCHvB",
+                            "expanded_url": "https://twitter.com/i/web/status/1151415694094983168",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3A7DE2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/895610028975157248/jwmDy6-e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/895610028975157248/jwmDy6-e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24203544/1470671485",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    }
+}

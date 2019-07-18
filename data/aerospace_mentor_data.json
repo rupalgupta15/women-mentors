@@ -1,0 +1,958 @@
+{
+    "33460813": {
+        "id": 33460813,
+        "id_str": "33460813",
+        "name": "N Shekar \ud83c\uddee\ud83c\uddf3",
+        "screen_name": "n_shekar",
+        "location": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1/Tamilnadu India",
+        "description": "President-Aerospace Industry Development Association of Tamilnadu. Advisor/Mentor to start-ups. Global Senior Mgmt Exec. Opinions Personal. RTs not endorsement",
+        "url": "https://t.co/zbjz4lMyZU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zbjz4lMyZU",
+                        "expanded_url": "https://www.linkedin.com/in/nshekar",
+                        "display_url": "linkedin.com/in/nshekar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6106,
+        "friends_count": 872,
+        "listed_count": 124,
+        "created_at": "Mon Apr 20 08:18:24 +0000 2009",
+        "favourites_count": 2921,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 108919,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 17:28:47 +0000 2019",
+            "id": 1151544285931560960,
+            "id_str": "1151544285931560960",
+            "text": "@popcornmsm Yes.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "popcornmsm",
+                        "name": "PopcornMSM",
+                        "id": 50998842,
+                        "id_str": "50998842",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151542442803359745,
+            "in_reply_to_status_id_str": "1151542442803359745",
+            "in_reply_to_user_id": 50998842,
+            "in_reply_to_user_id_str": "50998842",
+            "in_reply_to_screen_name": "popcornmsm",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121826033420750848/HSdP4IAY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121826033420750848/HSdP4IAY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33460813/1560176534",
+        "profile_link_color": "2280A9",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "17406C",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "102420082": {
+        "id": 102420082,
+        "id_str": "102420082",
+        "name": "Suzy R Cunningham",
+        "screen_name": "SenorraC",
+        "location": "",
+        "description": "Aerospace engineer (It IS Rocket Science \ud83d\ude80), NASA Strategy & Integration Manager, former rhythmette & gymnast; mentor, auto enthusiast, singer \ud83c\udfa4 \ud83c\uddfa\ud83c\uddf8",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 322,
+        "friends_count": 1016,
+        "listed_count": 13,
+        "created_at": "Wed Jan 06 16:54:47 +0000 2010",
+        "favourites_count": 4691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 798,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 23:17:52 +0000 2019",
+            "id": 1151632138732802054,
+            "id_str": "1151632138732802054",
+            "text": "@sarahcruddas @neiltyson @AstroMCollins \ud83d\ude02\ud83d\ude31",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sarahcruddas",
+                        "name": "Sarah Cruddas",
+                        "id": 19384258,
+                        "id_str": "19384258",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "neiltyson",
+                        "name": "Neil deGrasse Tyson",
+                        "id": 19725644,
+                        "id_str": "19725644",
+                        "indices": [
+                            14,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "AstroMCollins",
+                        "name": "Michael Collins",
+                        "id": 1122878095663321088,
+                        "id_str": "1122878095663321088",
+                        "indices": [
+                            25,
+                            39
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1151509516531437568,
+            "in_reply_to_status_id_str": "1151509516531437568",
+            "in_reply_to_user_id": 19384258,
+            "in_reply_to_user_id_str": "19384258",
+            "in_reply_to_screen_name": "sarahcruddas",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839527130451095552/66loPIL4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839527130451095552/66loPIL4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102420082/1495893963",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "555423248": {
+        "id": 555423248,
+        "id_str": "555423248",
+        "name": "Jill Meyers",
+        "screen_name": "jillrmeyers",
+        "location": "Albuquerque, NM",
+        "description": "Aviation/Aerospace Management Consultant \u2022 Public Speaker \u2022 Mentor \u2022 PMP \u2022 FRAeS \u2708\ufe0f\ud83d\ude80",
+        "url": "https://t.co/kqn2zGLY5d",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kqn2zGLY5d",
+                        "expanded_url": "https://www.meyersaero.biz/",
+                        "display_url": "meyersaero.biz",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 532,
+        "friends_count": 320,
+        "listed_count": 91,
+        "created_at": "Mon Apr 16 21:08:43 +0000 2012",
+        "favourites_count": 16365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19171,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 13:28:02 +0000 2019",
+            "id": 1151483702926442496,
+            "id_str": "1151483702926442496",
+            "text": "RT @SkyWestJobs: SkyWest pilots and recruiters joined aviators from around the world at today's @TheNinetyNines' International Conference &amp;\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SkyWestJobs",
+                        "name": "SkyWest Jobs",
+                        "id": 2916912223,
+                        "id_str": "2916912223",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "TheNinetyNines",
+                        "name": "The Ninety-Nines, Inc.\u00ae",
+                        "id": 475278265,
+                        "id_str": "475278265",
+                        "indices": [
+                            96,
+                            111
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 00:25:06 +0000 2019",
+                "id": 1151286671209578498,
+                "id_str": "1151286671209578498",
+                "text": "SkyWest pilots and recruiters joined aviators from around the world at today's @TheNinetyNines' International Confe\u2026 https://t.co/SmVQqMj9Pn",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "TheNinetyNines",
+                            "name": "The Ninety-Nines, Inc.\u00ae",
+                            "id": 475278265,
+                            "id_str": "475278265",
+                            "indices": [
+                                79,
+                                94
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/SmVQqMj9Pn",
+                            "expanded_url": "https://twitter.com/i/web/status/1151286671209578498",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131689483408150528/b9X8Wruo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131689483408150528/b9X8Wruo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/555423248/1543531948",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "198526578": {
+        "id": 198526578,
+        "id_str": "198526578",
+        "name": "Armengol Torres",
+        "screen_name": "armengoltorres",
+        "location": "Barcelona",
+        "description": "Aerospace Analyst, Communicator, Mentor \ud83d\ude80 #SpaceSur #NewSpace #STEM #WorldSpaceWeek #WSW2019 #SpaceUpBCN #CopernicusMasters #GalileoMasters",
+        "url": "https://t.co/8NAtpJRICb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8NAtpJRICb",
+                        "expanded_url": "http://es.linkedin.com/in/armengoltorres",
+                        "display_url": "es.linkedin.com/in/armengoltor\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1159,
+        "friends_count": 1909,
+        "listed_count": 131,
+        "created_at": "Mon Oct 04 15:11:03 +0000 2010",
+        "favourites_count": 8453,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10718,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jul 16 10:05:32 +0000 2019",
+            "id": 1151070351310426112,
+            "id_str": "1151070351310426112",
+            "text": "\u00bfY si nadie pidi\u00f3 ir a la Luna? https://t.co/XbhUoNbzVq",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/XbhUoNbzVq",
+                        "expanded_url": "https://www.elperiodico.com/es/ciencia/20190715/carrera-espacial-kennedy-encuestas-opinion-estados-unidos-7554560?utm_source=twitter&utm_medium=social&utm_campaign=btn-share",
+                        "display_url": "elperiodico.com/es/ciencia/201\u2026",
+                        "indices": [
+                            32,
+                            55
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150397316710449152/Wx7Gf1pK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150397316710449152/Wx7Gf1pK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/198526578/1563017864",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "22891521": {
+        "id": 22891521,
+        "id_str": "22891521",
+        "name": "Hector Velasco",
+        "screen_name": "hevepe",
+        "location": "San Diego, California",
+        "description": "Engineering Lead. Aerospace and Defense. Willing to mentor younger engineers and students. Y sobre todo, Amigo de los Amigos. Voy x la Izquierda.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 95,
+        "friends_count": 314,
+        "listed_count": 4,
+        "created_at": "Thu Mar 05 06:47:15 +0000 2009",
+        "favourites_count": 681,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 675,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 22:21:57 +0000 2019",
+            "id": 1151618065873772544,
+            "id_str": "1151618065873772544",
+            "text": "RT @northropgrumman: From putting life on the moon to sustaining it in space, 50 years after Apollo 11 our employees are still pushing boun\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "northropgrumman",
+                        "name": "Northrop Grumman",
+                        "id": 15840909,
+                        "id_str": "15840909",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 22:17:12 +0000 2019",
+                "id": 1151616869847183360,
+                "id_str": "1151616869847183360",
+                "text": "From putting life on the moon to sustaining it in space, 50 years after Apollo 11 our employees are still pushing b\u2026 https://t.co/yWuRUgGQjL",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/yWuRUgGQjL",
+                            "expanded_url": "https://twitter.com/i/web/status/1151616869847183360",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 23,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974904488665407488/RgrT9AkP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974904488665407488/RgrT9AkP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22891521/1547754831",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "609786967": {
+        "id": 609786967,
+        "id_str": "609786967",
+        "name": "Dario De Angelis",
+        "screen_name": "astro_dario",
+        "location": "London, England",
+        "description": "Aerospace Engineer, User Success Manager @Elastic, Blues guitar player turned into DJ. Startup mentor @Innovlab",
+        "url": "https://t.co/5T7J5ReaeL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5T7J5ReaeL",
+                        "expanded_url": "https://soundcloud.com/dario-de-angelis",
+                        "display_url": "soundcloud.com/dario-de-angel\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 855,
+        "friends_count": 1173,
+        "listed_count": 136,
+        "created_at": "Sat Jun 16 07:32:11 +0000 2012",
+        "favourites_count": 213,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1929,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Mar 12 16:08:14 +0000 2019",
+            "id": 1105500759679008768,
+            "id_str": "1105500759679008768",
+            "text": "RT @elastic: Shay Banon (@kimchy) on \u201cOpen\u201d Distros, open source, and building a company. https://t.co/puYFerAVwp",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "elastic",
+                        "name": "Elastic",
+                        "id": 84512601,
+                        "id_str": "84512601",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "kimchy",
+                        "name": "Shay Banon",
+                        "id": 6544052,
+                        "id_str": "6544052",
+                        "indices": [
+                            25,
+                            32
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/puYFerAVwp",
+                        "expanded_url": "https://go.es.io/2XTDGvh",
+                        "display_url": "go.es.io/2XTDGvh",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 12 15:02:05 +0000 2019",
+                "id": 1105484108644278272,
+                "id_str": "1105484108644278272",
+                "text": "Shay Banon (@kimchy) on \u201cOpen\u201d Distros, open source, and building a company. https://t.co/puYFerAVwp",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "kimchy",
+                            "name": "Shay Banon",
+                            "id": 6544052,
+                            "id_str": "6544052",
+                            "indices": [
+                                12,
+                                19
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/puYFerAVwp",
+                            "expanded_url": "https://go.es.io/2XTDGvh",
+                            "display_url": "go.es.io/2XTDGvh",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 145,
+                "favorite_count": 223,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 145,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718559471040143360/VWxtTH13_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718559471040143360/VWxtTH13_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/609786967/1545312596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "412224906": {
+        "id": 412224906,
+        "id_str": "412224906",
+        "name": "Marty Kaszubowski",
+        "screen_name": "MartyKasz",
+        "location": "",
+        "description": "Entrepreneurship mentor, advocate, trainer, and occasional aerospace engineer ...",
+        "url": "https://t.co/OAFlKH6IwS",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/OAFlKH6IwS",
+                        "expanded_url": "http://www.odu.edu/CEI",
+                        "display_url": "odu.edu/CEI",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 483,
+        "friends_count": 531,
+        "listed_count": 12,
+        "created_at": "Mon Nov 14 12:22:57 +0000 2011",
+        "favourites_count": 10,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1636,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Oct 07 08:04:16 +0000 2018",
+            "id": 1048846454968737792,
+            "id_str": "1048846454968737792",
+            "text": "Good morning from Kiev! Enjoying another great presentation and discussion about Intellectual Property from DJ Nag. https://t.co/tDTX6Ae8Kp",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1048846433976311808,
+                        "id_str": "1048846433976311808",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Do5ARlEX4AAh4Vf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Do5ARlEX4AAh4Vf.jpg",
+                        "url": "https://t.co/tDTX6Ae8Kp",
+                        "display_url": "pic.twitter.com/tDTX6Ae8Kp",
+                        "expanded_url": "https://twitter.com/MartyKasz/status/1048846454968737792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1048846433976311808,
+                        "id_str": "1048846433976311808",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Do5ARlEX4AAh4Vf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Do5ARlEX4AAh4Vf.jpg",
+                        "url": "https://t.co/tDTX6Ae8Kp",
+                        "display_url": "pic.twitter.com/tDTX6Ae8Kp",
+                        "expanded_url": "https://twitter.com/MartyKasz/status/1048846454968737792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1638532309/Guy_with_Megaphone_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1638532309/Guy_with_Megaphone_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/412224906/1359903678",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    }
+}

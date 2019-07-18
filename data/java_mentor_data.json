@@ -36,45 +36,46 @@
             }
         },
         "protected": false,
-        "followers_count": 738,
-        "friends_count": 382,
+        "followers_count": 736,
+        "friends_count": 417,
         "listed_count": 2,
         "created_at": "Mon Jun 15 10:54:47 +0000 2015",
-        "favourites_count": 1765,
+        "favourites_count": 1775,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 1085,
-        "lang": "en",
+        "statuses_count": 1092,
+        "lang": null,
         "status": {
-            "created_at": "Mon Jun 24 12:30:26 +0000 2019",
-            "id": 1143134286339551234,
-            "id_str": "1143134286339551234",
-            "text": "Next online MaM Mingle is Tuesday 16th July 6pm.\nWe'll be hosting on LinkedIn!\nSubjects are: Java Development, Spri\u2026 https://t.co/kQniNWx7Xl",
-            "truncated": true,
+            "created_at": "Tue Jul 16 20:02:49 +0000 2019",
+            "id": 1151220665443205120,
+            "id_str": "1151220665443205120",
+            "text": "@menon_paulo Awesome! Thanks Paulo :-)",
+            "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "user_mentions": [],
-                "urls": [
+                "user_mentions": [
                     {
-                        "url": "https://t.co/kQniNWx7Xl",
-                        "expanded_url": "https://twitter.com/i/web/status/1143134286339551234",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "screen_name": "menon_paulo",
+                        "name": "Paulo Menon",
+                        "id": 1111402286218166272,
+                        "id_str": "1111402286218166272",
                         "indices": [
-                            117,
-                            140
+                            0,
+                            12
                         ]
                     }
-                ]
+                ],
+                "urls": []
             },
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": 1151193895956598784,
+            "in_reply_to_status_id_str": "1151193895956598784",
+            "in_reply_to_user_id": 1111402286218166272,
+            "in_reply_to_user_id_str": "1111402286218166272",
+            "in_reply_to_screen_name": "menon_paulo",
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -84,7 +85,6 @@
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
-            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -108,7 +108,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "9497732": {
         "id": 9497732,
@@ -137,154 +139,53 @@
             }
         },
         "protected": false,
-        "followers_count": 3506,
+        "followers_count": 3566,
         "friends_count": 195,
-        "listed_count": 212,
+        "listed_count": 213,
         "created_at": "Wed Oct 17 12:22:52 +0000 2007",
-        "favourites_count": 2148,
+        "favourites_count": 2171,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 11362,
-        "lang": "en",
+        "statuses_count": 11393,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 15:10:52 +0000 2019",
-            "id": 1144624209735376896,
-            "id_str": "1144624209735376896",
-            "text": "RT @DavidDavisMP: I, and colleagues from the @loanchargeAPPG, call on @BorisJohnson and @Jeremy_Hunt to sign the pledge to suspend the Loan\u2026",
+            "created_at": "Thu Jul 18 13:43:51 +0000 2019",
+            "id": 1151850067688603650,
+            "id_str": "1151850067688603650",
+            "text": "@lisacrispin Excellent news Lisa. Speedy recovery! \ud83d\udc4d\ud83c\udffe",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "DavidDavisMP",
-                        "name": "David Davis",
-                        "id": 2797521996,
-                        "id_str": "2797521996",
+                        "screen_name": "lisacrispin",
+                        "name": "lisacrispin",
+                        "id": 15171615,
+                        "id_str": "15171615",
                         "indices": [
-                            3,
-                            16
-                        ]
-                    },
-                    {
-                        "screen_name": "loanchargeAPPG",
-                        "name": "Loan Charge APPG",
-                        "id": 1088148455606890496,
-                        "id_str": "1088148455606890496",
-                        "indices": [
-                            45,
-                            60
-                        ]
-                    },
-                    {
-                        "screen_name": "BorisJohnson",
-                        "name": "Boris Johnson",
-                        "id": 3131144855,
-                        "id_str": "3131144855",
-                        "indices": [
-                            70,
-                            83
-                        ]
-                    },
-                    {
-                        "screen_name": "Jeremy_Hunt",
-                        "name": "Jeremy Hunt",
-                        "id": 112398730,
-                        "id_str": "112398730",
-                        "indices": [
-                            88,
-                            100
+                            0,
+                            12
                         ]
                     }
                 ],
                 "urls": []
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": 1151849412836167680,
+            "in_reply_to_status_id_str": "1151849412836167680",
+            "in_reply_to_user_id": 15171615,
+            "in_reply_to_user_id_str": "15171615",
+            "in_reply_to_screen_name": "lisacrispin",
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "retweeted_status": {
-                "created_at": "Fri Jun 28 11:46:00 +0000 2019",
-                "id": 1144572652566319105,
-                "id_str": "1144572652566319105",
-                "text": "I, and colleagues from the @loanchargeAPPG, call on @BorisJohnson and @Jeremy_Hunt to sign the pledge to suspend th\u2026 https://t.co/aW652EOdpP",
-                "truncated": true,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "loanchargeAPPG",
-                            "name": "Loan Charge APPG",
-                            "id": 1088148455606890496,
-                            "id_str": "1088148455606890496",
-                            "indices": [
-                                27,
-                                42
-                            ]
-                        },
-                        {
-                            "screen_name": "BorisJohnson",
-                            "name": "Boris Johnson",
-                            "id": 3131144855,
-                            "id_str": "3131144855",
-                            "indices": [
-                                52,
-                                65
-                            ]
-                        },
-                        {
-                            "screen_name": "Jeremy_Hunt",
-                            "name": "Jeremy Hunt",
-                            "id": 112398730,
-                            "id_str": "112398730",
-                            "indices": [
-                                70,
-                                82
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/aW652EOdpP",
-                            "expanded_url": "https://twitter.com/i/web/status/1144572652566319105",
-                            "display_url": "twitter.com/i/web/status/1\u2026",
-                            "indices": [
-                                117,
-                                140
-                            ]
-                        }
-                    ]
-                },
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 219,
-                "favorite_count": 429,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
             "is_quote_status": false,
-            "retweet_count": 219,
-            "favorite_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -310,7 +211,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "181604540": {
         "id": 181604540,
@@ -339,22 +242,22 @@
             }
         },
         "protected": false,
-        "followers_count": 1746,
-        "friends_count": 1828,
+        "followers_count": 1741,
+        "friends_count": 1824,
         "listed_count": 17,
         "created_at": "Sun Aug 22 16:30:18 +0000 2010",
-        "favourites_count": 36,
+        "favourites_count": 43,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
         "statuses_count": 20096,
-        "lang": "en",
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 00:47:23 +0000 2019",
-            "id": 1144406907240755200,
-            "id_str": "1144406907240755200",
-            "text": "A Story About Crabs, Asking Permission and Doing Your\u00a0Thing https://t.co/d87UI8mukH https://t.co/lxUDbKGqx3",
+            "created_at": "Thu Jul 18 03:35:54 +0000 2019",
+            "id": 1151697074813100040,
+            "id_str": "1151697074813100040",
+            "text": "Story About Hot Dogs, A Traumatized Uncle and the Awkwardness of\u00a0Success https://t.co/6bsaOcyK3g https://t.co/2Z6BqFdEDJ",
             "truncated": false,
             "entities": {
                 "hashtags": [],
@@ -362,28 +265,28 @@
                 "user_mentions": [],
                 "urls": [
                     {
-                        "url": "https://t.co/d87UI8mukH",
-                        "expanded_url": "https://www.javabud.com/a-story-about-crabs-asking-permission-and-doing-your-thing/",
-                        "display_url": "javabud.com/a-story-about-\u2026",
+                        "url": "https://t.co/6bsaOcyK3g",
+                        "expanded_url": "https://www.javabud.com/story-about-hot-dogs-a-traumatized-uncle-and-the-awkwardness-of-success/",
+                        "display_url": "javabud.com/story-about-ho\u2026",
                         "indices": [
-                            60,
-                            83
+                            73,
+                            96
                         ]
                     }
                 ],
                 "media": [
                     {
-                        "id": 1144406905806307334,
-                        "id_str": "1144406905806307334",
+                        "id": 1151697072804044804,
+                        "id_str": "1151697072804044804",
                         "indices": [
-                            84,
-                            107
+                            97,
+                            120
                         ],
-                        "media_url": "http://pbs.twimg.com/media/D-HABHsWwAYDknI.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D-HABHsWwAYDknI.jpg",
-                        "url": "https://t.co/lxUDbKGqx3",
-                        "display_url": "pic.twitter.com/lxUDbKGqx3",
-                        "expanded_url": "https://twitter.com/thejavabud/status/1144406907240755200/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D_umYsFXoAQjj-V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_umYsFXoAQjj-V.jpg",
+                        "url": "https://t.co/2Z6BqFdEDJ",
+                        "display_url": "pic.twitter.com/2Z6BqFdEDJ",
+                        "expanded_url": "https://twitter.com/thejavabud/status/1151697074813100040/photo/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -392,18 +295,18 @@
                                 "resize": "crop"
                             },
                             "large": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             },
                             "medium": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             },
                             "small": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             }
                         }
@@ -413,17 +316,17 @@
             "extended_entities": {
                 "media": [
                     {
-                        "id": 1144406905806307334,
-                        "id_str": "1144406905806307334",
+                        "id": 1151697072804044804,
+                        "id_str": "1151697072804044804",
                         "indices": [
-                            84,
-                            107
+                            97,
+                            120
                         ],
-                        "media_url": "http://pbs.twimg.com/media/D-HABHsWwAYDknI.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D-HABHsWwAYDknI.jpg",
-                        "url": "https://t.co/lxUDbKGqx3",
-                        "display_url": "pic.twitter.com/lxUDbKGqx3",
-                        "expanded_url": "https://twitter.com/thejavabud/status/1144406907240755200/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D_umYsFXoAQjj-V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_umYsFXoAQjj-V.jpg",
+                        "url": "https://t.co/2Z6BqFdEDJ",
+                        "display_url": "pic.twitter.com/2Z6BqFdEDJ",
+                        "expanded_url": "https://twitter.com/thejavabud/status/1151697074813100040/photo/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -432,18 +335,18 @@
                                 "resize": "crop"
                             },
                             "large": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             },
                             "medium": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             },
                             "small": {
-                                "w": 425,
-                                "h": 368,
+                                "w": 383,
+                                "h": 253,
                                 "resize": "fit"
                             }
                         }
@@ -489,12 +392,14 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "14683468": {
         "id": 14683468,
         "id_str": "14683468",
-        "name": "z\u0131n\u1d1a l\u01dd\u0265\u0254xI \ud83e\udd27\ud83d\ude37",
+        "name": "l\u01dd\u0265\u0254xI \ud83c\udd81\ud83c\udd84\ud83c\udd78\ud83c\udd89",
         "screen_name": "ixchelruiz",
         "location": "Basel",
         "description": "Assiduous traveler, Software Developer, Java Champion, Oracle Groundbreaker Ambassador, Open Source advocate, public speaker and mentor.",
@@ -518,59 +423,67 @@
             }
         },
         "protected": false,
-        "followers_count": 1592,
-        "friends_count": 537,
+        "followers_count": 1640,
+        "friends_count": 538,
         "listed_count": 56,
         "created_at": "Wed May 07 06:22:01 +0000 2008",
-        "favourites_count": 1934,
+        "favourites_count": 1979,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 2271,
-        "lang": "en",
+        "statuses_count": 2310,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 16:22:36 +0000 2019",
-            "id": 1144642264041512960,
-            "id_str": "1144642264041512960",
-            "text": "RT @aalmiray: Check out the video with a recap of ehat happened during the innaugural @hackcommitpush \ud83d\ude04 https://t.co/bMba8KqBcc",
+            "created_at": "Thu Jul 18 15:42:43 +0000 2019",
+            "id": 1151879984744751111,
+            "id_str": "1151879984744751111",
+            "text": "RT @madmas: Everything prepared for tonight\u2019s @Hackergarten in #Basel at the new @karakun office \ud83e\udd29 Looking forward to hack with you! https:\u2026",
             "truncated": false,
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
+                "hashtags": [
                     {
-                        "screen_name": "aalmiray",
-                        "name": "Andres Almiray",
-                        "id": 12173192,
-                        "id_str": "12173192",
+                        "text": "Basel",
                         "indices": [
-                            3,
-                            12
-                        ]
-                    },
-                    {
-                        "screen_name": "hackcommitpush",
-                        "name": "hack.commit.push",
-                        "id": 1121720809230409729,
-                        "id_str": "1121720809230409729",
-                        "indices": [
-                            86,
-                            101
+                            63,
+                            69
                         ]
                     }
                 ],
-                "urls": [
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "url": "https://t.co/bMba8KqBcc",
-                        "expanded_url": "https://twitter.com/hackcommitpush/status/1144625653108682752",
-                        "display_url": "twitter.com/hackcommitpush\u2026",
+                        "screen_name": "madmas",
+                        "name": "Markus Schlichting",
+                        "id": 31202973,
+                        "id_str": "31202973",
                         "indices": [
-                            104,
-                            127
+                            3,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "Hackergarten",
+                        "name": "Hackergarten",
+                        "id": 122162048,
+                        "id_str": "122162048",
+                        "indices": [
+                            46,
+                            59
+                        ]
+                    },
+                    {
+                        "screen_name": "karakun",
+                        "name": "Karakun AG",
+                        "id": 981112682236514305,
+                        "id_str": "981112682236514305",
+                        "indices": [
+                            81,
+                            89
                         ]
                     }
-                ]
+                ],
+                "urls": []
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_status_id": null,
@@ -583,34 +496,52 @@
             "place": null,
             "contributors": null,
             "retweeted_status": {
-                "created_at": "Fri Jun 28 15:29:46 +0000 2019",
-                "id": 1144628968349458432,
-                "id_str": "1144628968349458432",
-                "text": "Check out the video with a recap of ehat happened during the innaugural @hackcommitpush \ud83d\ude04 https://t.co/bMba8KqBcc",
-                "truncated": false,
+                "created_at": "Thu Jul 18 15:20:18 +0000 2019",
+                "id": 1151874341065412608,
+                "id_str": "1151874341065412608",
+                "text": "Everything prepared for tonight\u2019s @Hackergarten in #Basel at the new @karakun office \ud83e\udd29 Looking forward to hack with\u2026 https://t.co/u8ahqdO11P",
+                "truncated": true,
                 "entities": {
-                    "hashtags": [],
+                    "hashtags": [
+                        {
+                            "text": "Basel",
+                            "indices": [
+                                51,
+                                57
+                            ]
+                        }
+                    ],
                     "symbols": [],
                     "user_mentions": [
                         {
-                            "screen_name": "hackcommitpush",
-                            "name": "hack.commit.push",
-                            "id": 1121720809230409729,
-                            "id_str": "1121720809230409729",
+                            "screen_name": "Hackergarten",
+                            "name": "Hackergarten",
+                            "id": 122162048,
+                            "id_str": "122162048",
                             "indices": [
-                                72,
-                                87
+                                34,
+                                47
+                            ]
+                        },
+                        {
+                            "screen_name": "karakun",
+                            "name": "Karakun AG",
+                            "id": 981112682236514305,
+                            "id_str": "981112682236514305",
+                            "indices": [
+                                69,
+                                77
                             ]
                         }
                     ],
                     "urls": [
                         {
-                            "url": "https://t.co/bMba8KqBcc",
-                            "expanded_url": "https://twitter.com/hackcommitpush/status/1144625653108682752",
-                            "display_url": "twitter.com/hackcommitpush\u2026",
+                            "url": "https://t.co/u8ahqdO11P",
+                            "expanded_url": "https://twitter.com/i/web/status/1151874341065412608",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
-                                90,
-                                113
+                                117,
+                                140
                             ]
                         }
                     ]
@@ -625,24 +556,19 @@
                 "coordinates": null,
                 "place": null,
                 "contributors": null,
-                "is_quote_status": true,
-                "quoted_status_id": 1144625653108682752,
-                "quoted_status_id_str": "1144625653108682752",
-                "retweet_count": 1,
-                "favorite_count": 2,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 1,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
-            "is_quote_status": true,
-            "quoted_status_id": 1144625653108682752,
-            "quoted_status_id_str": "1144625653108682752",
-            "retweet_count": 1,
+            "is_quote_status": false,
+            "retweet_count": 3,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
-            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -665,7 +591,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "16739771": {
         "id": 16739771,
@@ -681,39 +609,38 @@
             }
         },
         "protected": false,
-        "followers_count": 756,
-        "friends_count": 1127,
+        "followers_count": 753,
+        "friends_count": 1135,
         "listed_count": 15,
         "created_at": "Tue Oct 14 15:36:21 +0000 2008",
-        "favourites_count": 2343,
+        "favourites_count": 2700,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 2805,
-        "lang": "en",
+        "statuses_count": 2856,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 21:25:54 +0000 2019",
-            "id": 1144718588613447680,
-            "id_str": "1144718588613447680",
-            "text": "RT @shortproof: Wife quit her job today.  Her boss was screaming and yelling at her.  She thought I would be mad.  I told her to NEVER let\u2026",
+            "created_at": "Thu Jul 18 02:40:24 +0000 2019",
+            "id": 1151683108657401856,
+            "id_str": "1151683108657401856",
+            "text": "Should happen here in Ireland too https://t.co/TprUdceB59",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "user_mentions": [
+                "user_mentions": [],
+                "urls": [
                     {
-                        "screen_name": "shortproof",
-                        "name": "Jason Short",
-                        "id": 835681447428116480,
-                        "id_str": "835681447428116480",
+                        "url": "https://t.co/TprUdceB59",
+                        "expanded_url": "https://twitter.com/nytimes/status/1151627661208371201",
+                        "display_url": "twitter.com/nytimes/status\u2026",
                         "indices": [
-                            3,
-                            14
+                            34,
+                            57
                         ]
                     }
-                ],
-                "urls": []
+                ]
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_status_id": null,
@@ -725,50 +652,14 @@
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "retweeted_status": {
-                "created_at": "Thu Jun 27 00:02:44 +0000 2019",
-                "id": 1144033283505709056,
-                "id_str": "1144033283505709056",
-                "text": "Wife quit her job today.  Her boss was screaming and yelling at her.  She thought I would be mad.  I told her to NE\u2026 https://t.co/oqdgjrXP2v",
-                "truncated": true,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [],
-                    "urls": [
-                        {
-                            "url": "https://t.co/oqdgjrXP2v",
-                            "expanded_url": "https://twitter.com/i/web/status/1144033283505709056",
-                            "display_url": "twitter.com/i/web/status/1\u2026",
-                            "indices": [
-                                117,
-                                140
-                            ]
-                        }
-                    ]
-                },
-                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 871,
-                "favorite_count": 7467,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
-            },
-            "is_quote_status": false,
-            "retweet_count": 871,
-            "favorite_count": 0,
+            "is_quote_status": true,
+            "quoted_status_id": 1151627661208371201,
+            "quoted_status_id_str": "1151627661208371201",
+            "retweet_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -792,7 +683,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "18055284": {
         "id": 18055284,
@@ -821,8 +714,8 @@
             }
         },
         "protected": false,
-        "followers_count": 6983,
-        "friends_count": 5188,
+        "followers_count": 6967,
+        "friends_count": 5181,
         "listed_count": 246,
         "created_at": "Thu Dec 11 18:15:33 +0000 2008",
         "favourites_count": 60,
@@ -830,16 +723,31 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 2964,
-        "lang": "en",
+        "statuses_count": 2979,
+        "lang": null,
         "status": {
-            "created_at": "Tue Jun 18 18:17:46 +0000 2019",
-            "id": 1141047367262703616,
-            "id_str": "1141047367262703616",
-            "text": "Another wonderful day in Dublin... { 'Vagabond' : 'at large' }\n.\n.\n.\n.\n.\n@BASELogic @BLiNCMagazine @MickKnutson\u2026 https://t.co/yGwNJFCqjF",
+            "created_at": "Mon Jul 08 22:30:10 +0000 2019",
+            "id": 1148358643273949189,
+            "id_str": "1148358643273949189",
+            "text": "And away we go... { 'Vagabond' : 'at large' }\n.\n.\n.\n.\n.\n@BASELogic @BLiNCMagazine @MickKnutson #MfK\n#trailerlife\u2026 https://t.co/i4ENIdun1A",
             "truncated": true,
             "entities": {
-                "hashtags": [],
+                "hashtags": [
+                    {
+                        "text": "MfK",
+                        "indices": [
+                            95,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "trailerlife",
+                        "indices": [
+                            100,
+                            112
+                        ]
+                    }
+                ],
                 "symbols": [],
                 "user_mentions": [
                     {
@@ -848,8 +756,8 @@
                         "id": 204882607,
                         "id_str": "204882607",
                         "indices": [
-                            73,
-                            83
+                            56,
+                            66
                         ]
                     },
                     {
@@ -858,8 +766,8 @@
                         "id": 18800979,
                         "id_str": "18800979",
                         "indices": [
-                            84,
-                            98
+                            67,
+                            81
                         ]
                     },
                     {
@@ -868,19 +776,19 @@
                         "id": 18055284,
                         "id_str": "18055284",
                         "indices": [
-                            99,
-                            111
+                            82,
+                            94
                         ]
                     }
                 ],
                 "urls": [
                     {
-                        "url": "https://t.co/yGwNJFCqjF",
-                        "expanded_url": "https://twitter.com/i/web/status/1141047367262703616",
+                        "url": "https://t.co/i4ENIdun1A",
+                        "expanded_url": "https://twitter.com/i/web/status/1148358643273949189",
                         "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
-                            113,
-                            136
+                            114,
+                            137
                         ]
                     }
                 ]
@@ -924,7 +832,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "23586917": {
         "id": 23586917,
@@ -963,35 +873,46 @@
             }
         },
         "protected": false,
-        "followers_count": 1013,
+        "followers_count": 1008,
         "friends_count": 446,
-        "listed_count": 39,
+        "listed_count": 40,
         "created_at": "Tue Mar 10 12:45:56 +0000 2009",
-        "favourites_count": 1166,
+        "favourites_count": 1170,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 1939,
-        "lang": "en",
+        "statuses_count": 1944,
+        "lang": null,
         "status": {
-            "created_at": "Thu May 30 15:48:08 +0000 2019",
-            "id": 1134124341933879298,
-            "id_str": "1134124341933879298",
-            "text": "Can anyone help, this is from a mentee - \"Are there any iOS/ mobile developers here that have any recommendations f\u2026 https://t.co/GRhUPXhRpw",
+            "created_at": "Thu Jul 11 20:53:15 +0000 2019",
+            "id": 1149421416015650817,
+            "id_str": "1149421416015650817",
+            "text": "Learning about interviewing/storytelling and came across this quote from \n@calfussman \"The best questions make the\u2026 https://t.co/IyL0LNDNxw",
             "truncated": true,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "user_mentions": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "calfussman",
+                        "name": "Cal Fussman",
+                        "id": 116928012,
+                        "id_str": "116928012",
+                        "indices": [
+                            74,
+                            85
+                        ]
+                    }
+                ],
                 "urls": [
                     {
-                        "url": "https://t.co/GRhUPXhRpw",
-                        "expanded_url": "https://twitter.com/i/web/status/1134124341933879298",
+                        "url": "https://t.co/IyL0LNDNxw",
+                        "expanded_url": "https://twitter.com/i/web/status/1149421416015650817",
                         "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
-                            117,
-                            140
+                            116,
+                            139
                         ]
                     }
                 ]
@@ -1007,8 +928,8 @@
             "place": null,
             "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 2,
-            "favorite_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 2,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
@@ -1034,7 +955,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "15984339": {
         "id": 15984339,
@@ -1063,79 +986,97 @@
             }
         },
         "protected": false,
-        "followers_count": 1096,
-        "friends_count": 1111,
+        "followers_count": 1094,
+        "friends_count": 1112,
         "listed_count": 74,
         "created_at": "Mon Aug 25 17:33:06 +0000 2008",
-        "favourites_count": 22,
+        "favourites_count": 23,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 3374,
-        "lang": "en",
+        "statuses_count": 3375,
+        "lang": null,
         "status": {
-            "created_at": "Tue Jun 18 01:39:06 +0000 2019",
-            "id": 1140796042893516802,
-            "id_str": "1140796042893516802",
-            "text": "@hbo on @DIRECTV ... NO.      I would rather watch it illegally then suffer thru the awful @DIRECTV experience... g\u2026 https://t.co/7cTOL9w5oe",
-            "truncated": true,
+            "created_at": "Tue Jul 09 12:41:01 +0000 2019",
+            "id": 1148572765315842049,
+            "id_str": "1148572765315842049",
+            "text": "Setup my new @KregToolCompany Adaptive Cutting System and it is #awesome #woodworking",
+            "truncated": false,
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
+                "hashtags": [
                     {
-                        "screen_name": "HBO",
-                        "name": "HBO",
-                        "id": 15635604,
-                        "id_str": "15635604",
+                        "text": "awesome",
                         "indices": [
-                            0,
-                            4
+                            64,
+                            72
                         ]
                     },
                     {
-                        "screen_name": "DIRECTV",
-                        "name": "DIRECTV",
-                        "id": 14946736,
-                        "id_str": "14946736",
+                        "text": "woodworking",
                         "indices": [
-                            8,
-                            16
-                        ]
-                    },
-                    {
-                        "screen_name": "DIRECTV",
-                        "name": "DIRECTV",
-                        "id": 14946736,
-                        "id_str": "14946736",
-                        "indices": [
-                            91,
-                            99
+                            73,
+                            85
                         ]
                     }
                 ],
-                "urls": [
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "url": "https://t.co/7cTOL9w5oe",
-                        "expanded_url": "https://twitter.com/i/web/status/1140796042893516802",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "screen_name": "KregToolCompany",
+                        "name": "Kreg Tool",
+                        "id": 22544612,
+                        "id_str": "22544612",
                         "indices": [
-                            117,
-                            140
+                            13,
+                            29
                         ]
                     }
-                ]
+                ],
+                "urls": []
             },
-            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 15635604,
-            "in_reply_to_user_id_str": "15635604",
-            "in_reply_to_screen_name": "HBO",
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "geo": null,
             "coordinates": null,
-            "place": null,
+            "place": {
+                "id": "e4a0d228eb6be76b",
+                "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+                "place_type": "city",
+                "name": "Philadelphia",
+                "full_name": "Philadelphia, PA",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -75.280284,
+                                39.871811
+                            ],
+                            [
+                                -74.955712,
+                                39.871811
+                            ],
+                            [
+                                -74.955712,
+                                40.13792
+                            ],
+                            [
+                                -75.280284,
+                                40.13792
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
@@ -1164,7 +1105,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "463746645": {
         "id": 463746645,
@@ -1193,46 +1136,56 @@
             }
         },
         "protected": false,
-        "followers_count": 560,
-        "friends_count": 1681,
+        "followers_count": 568,
+        "friends_count": 1707,
         "listed_count": 17,
         "created_at": "Sat Jan 14 12:39:47 +0000 2012",
-        "favourites_count": 3437,
+        "favourites_count": 3452,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 785,
-        "lang": "en",
+        "statuses_count": 793,
+        "lang": null,
         "status": {
-            "created_at": "Sun Jun 23 05:04:29 +0000 2019",
-            "id": 1142659668927369216,
-            "id_str": "1142659668927369216",
-            "text": "@SheThePeopleTV Respect \ud83d\ude4c",
+            "created_at": "Sat Jul 13 22:36:24 +0000 2019",
+            "id": 1150172150717960192,
+            "id_str": "1150172150717960192",
+            "text": "@DayTranslations Can you check this? https://t.co/be92KgbcEP",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "SheThePeopleTV",
-                        "name": "SheThePeople",
-                        "id": 1536236778,
-                        "id_str": "1536236778",
+                        "screen_name": "DayTranslations",
+                        "name": "Day Translations",
+                        "id": 20292001,
+                        "id_str": "20292001",
                         "indices": [
                             0,
-                            15
+                            16
                         ]
                     }
                 ],
-                "urls": []
+                "urls": [
+                    {
+                        "url": "https://t.co/be92KgbcEP",
+                        "expanded_url": "https://www.daytranslations.com/contact-us/jobs#translation-jobs",
+                        "display_url": "daytranslations.com/contact-us/job\u2026",
+                        "indices": [
+                            37,
+                            60
+                        ]
+                    }
+                ]
             },
-            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": 1142658894759526400,
-            "in_reply_to_status_id_str": "1142658894759526400",
-            "in_reply_to_user_id": 1536236778,
-            "in_reply_to_user_id_str": "1536236778",
-            "in_reply_to_screen_name": "SheThePeopleTV",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1150167773282258949,
+            "in_reply_to_status_id_str": "1150167773282258949",
+            "in_reply_to_user_id": 20292001,
+            "in_reply_to_user_id_str": "20292001",
+            "in_reply_to_screen_name": "DayTranslations",
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -1242,6 +1195,7 @@
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -1265,7 +1219,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "4535668942": {
         "id": 4535668942,
@@ -1281,60 +1237,53 @@
             }
         },
         "protected": false,
-        "followers_count": 462,
-        "friends_count": 292,
+        "followers_count": 463,
+        "friends_count": 294,
         "listed_count": 18,
         "created_at": "Sat Dec 19 13:03:04 +0000 2015",
-        "favourites_count": 3206,
+        "favourites_count": 3245,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 855,
-        "lang": "en",
+        "statuses_count": 866,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 19:43:26 +0000 2019",
-            "id": 1144692802984534016,
-            "id_str": "1144692802984534016",
-            "text": "RT @h_rassa: When kids stopped by at the exhibition to play the games developed by students @CodeToInspire in #Herat , #Afghanistan.  \n#Afg\u2026",
+            "created_at": "Tue Jul 16 04:28:58 +0000 2019",
+            "id": 1150985654295248902,
+            "id_str": "1150985654295248902",
+            "text": "RT @f_forough: #MondayMotivation \nAttention shoppers!\ud83d\udecd\ufe0f\n@amazon Prime members can shop deals starting July 15 through Tuesday, July 16 \ud83d\ude4c\nSi\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [
                     {
-                        "text": "Herat",
+                        "text": "MondayMotivation",
                         "indices": [
-                            110,
-                            116
-                        ]
-                    },
-                    {
-                        "text": "Afghanistan",
-                        "indices": [
-                            119,
-                            131
+                            15,
+                            32
                         ]
                     }
                 ],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "h_rassa",
-                        "name": "Hasib Rassa \ud83c\udde6\ud83c\uddeb",
-                        "id": 2298112351,
-                        "id_str": "2298112351",
+                        "screen_name": "f_forough",
+                        "name": "Fereshteh Forough",
+                        "id": 599049977,
+                        "id_str": "599049977",
                         "indices": [
                             3,
-                            11
+                            13
                         ]
                     },
                     {
-                        "screen_name": "CodeToInspire",
-                        "name": "Code to Inspire",
-                        "id": 3028855001,
-                        "id_str": "3028855001",
+                        "screen_name": "amazon",
+                        "name": "Amazon.com",
+                        "id": 20793816,
+                        "id_str": "20793816",
                         "indices": [
-                            92,
-                            106
+                            56,
+                            63
                         ]
                     }
                 ],
@@ -1351,47 +1300,47 @@
             "place": null,
             "contributors": null,
             "retweeted_status": {
-                "created_at": "Fri Jun 28 19:41:51 +0000 2019",
-                "id": 1144692406421467138,
-                "id_str": "1144692406421467138",
-                "text": "When kids stopped by at the exhibition to play the games developed by students @CodeToInspire in #Herat ,\u2026 https://t.co/ym31iLbS3M",
+                "created_at": "Mon Jul 15 15:07:48 +0000 2019",
+                "id": 1150784033661620226,
+                "id_str": "1150784033661620226",
+                "text": "#MondayMotivation \nAttention shoppers!\ud83d\udecd\ufe0f\n@amazon Prime members can shop deals starting July 15 through Tuesday, Jul\u2026 https://t.co/1qlIFycqzQ",
                 "truncated": true,
                 "entities": {
                     "hashtags": [
                         {
-                            "text": "Herat",
+                            "text": "MondayMotivation",
                             "indices": [
-                                97,
-                                103
+                                0,
+                                17
                             ]
                         }
                     ],
                     "symbols": [],
                     "user_mentions": [
                         {
-                            "screen_name": "CodeToInspire",
-                            "name": "Code to Inspire",
-                            "id": 3028855001,
-                            "id_str": "3028855001",
+                            "screen_name": "amazon",
+                            "name": "Amazon.com",
+                            "id": 20793816,
+                            "id_str": "20793816",
                             "indices": [
-                                79,
-                                93
+                                41,
+                                48
                             ]
                         }
                     ],
                     "urls": [
                         {
-                            "url": "https://t.co/ym31iLbS3M",
-                            "expanded_url": "https://twitter.com/i/web/status/1144692406421467138",
+                            "url": "https://t.co/1qlIFycqzQ",
+                            "expanded_url": "https://twitter.com/i/web/status/1150784033661620226",
                             "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
-                                107,
-                                130
+                                117,
+                                140
                             ]
                         }
                     ]
                 },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
                 "in_reply_to_user_id": null,
@@ -1402,15 +1351,15 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 7,
-                "favorite_count": 14,
+                "retweet_count": 5,
+                "favorite_count": 15,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 7,
+            "retweet_count": 5,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -1437,7 +1386,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "38734852": {
         "id": 38734852,
@@ -1446,21 +1397,8 @@
         "screen_name": "stephenthecurt",
         "location": "Portland, OR",
         "description": "Developer, designer, mentor, & lover of code for over 20 years... My opinions are my own. https://t.co/89ubyQlEWp",
-        "url": "https://t.co/TegzeAeDMz",
+        "url": null,
         "entities": {
-            "url": {
-                "urls": [
-                    {
-                        "url": "https://t.co/TegzeAeDMz",
-                        "expanded_url": "http://truedev.academy",
-                        "display_url": "truedev.academy",
-                        "indices": [
-                            0,
-                            23
-                        ]
-                    }
-                ]
-            },
             "description": {
                 "urls": [
                     {
@@ -1476,53 +1414,66 @@
             }
         },
         "protected": false,
-        "followers_count": 1580,
-        "friends_count": 1114,
+        "followers_count": 1579,
+        "friends_count": 1115,
         "listed_count": 44,
         "created_at": "Fri May 08 20:13:46 +0000 2009",
-        "favourites_count": 318,
+        "favourites_count": 320,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 727,
-        "lang": "en",
+        "statuses_count": 734,
+        "lang": null,
         "status": {
-            "created_at": "Sat Jun 22 23:15:47 +0000 2019",
-            "id": 1142571914889555969,
-            "id_str": "1142571914889555969",
-            "text": "Need contributors to flush out the readme instructions. Unary functions make the library composible with #ramdajs\u2026 https://t.co/5zq8sbfg7v",
+            "created_at": "Sat Jul 13 15:50:20 +0000 2019",
+            "id": 1150069959743029249,
+            "id_str": "1150069959743029249",
+            "text": "@synbiocs @paulg Brought to you by the douches that still think a bookshelf is a way to show how interesting you ar\u2026 https://t.co/f4CWgR5CVp",
             "truncated": true,
             "entities": {
-                "hashtags": [
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "text": "ramdajs",
+                        "screen_name": "synbiocs",
+                        "name": "\ua731\u1d21\u1d00\u1d18\u0274\u026a\u029f \u0ca0_\u0ca0 \u0299\u029c\u1d00\u1d1b\u026a\u1d00",
+                        "id": 335651965,
+                        "id_str": "335651965",
                         "indices": [
-                            105,
-                            113
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "paulg",
+                        "name": "Paul Graham",
+                        "id": 183749519,
+                        "id_str": "183749519",
+                        "indices": [
+                            10,
+                            16
                         ]
                     }
                 ],
-                "symbols": [],
-                "user_mentions": [],
                 "urls": [
                     {
-                        "url": "https://t.co/5zq8sbfg7v",
-                        "expanded_url": "https://twitter.com/i/web/status/1142571914889555969",
+                        "url": "https://t.co/f4CWgR5CVp",
+                        "expanded_url": "https://twitter.com/i/web/status/1150069959743029249",
                         "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
-                            115,
-                            138
+                            117,
+                            140
                         ]
                     }
                 ]
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": 1142571155326287872,
-            "in_reply_to_status_id_str": "1142571155326287872",
-            "in_reply_to_user_id": 38734852,
-            "in_reply_to_user_id_str": "38734852",
-            "in_reply_to_screen_name": "stephenthecurt",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1150069654498529281,
+            "in_reply_to_status_id_str": "1150069654498529281",
+            "in_reply_to_user_id": 335651965,
+            "in_reply_to_user_id_str": "335651965",
+            "in_reply_to_screen_name": "synbiocs",
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -1532,7 +1483,6 @@
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
-            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -1556,12 +1506,14 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "38293838": {
         "id": 38293838,
         "id_str": "38293838",
-        "name": "Rainbow Coder",
+        "name": "Dr Jackson",
         "screen_name": "cowtowncoder",
         "location": "Seattle, US",
         "description": "Eco-liberal European in Exile. Programmer, Open Source author (Jackson, Woodstox, ClassMate, java-uuid-generator), collaborator, mentor. Gainfully employed",
@@ -1585,62 +1537,67 @@
             }
         },
         "protected": false,
-        "followers_count": 1066,
-        "friends_count": 416,
+        "followers_count": 1068,
+        "friends_count": 417,
         "listed_count": 96,
         "created_at": "Wed May 06 22:27:56 +0000 2009",
-        "favourites_count": 24087,
+        "favourites_count": 24861,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 72828,
-        "lang": "en",
+        "statuses_count": 73382,
+        "lang": null,
         "status": {
-            "created_at": "Tue Jun 25 19:19:50 +0000 2019",
-            "id": 1143599702509805568,
-            "id_str": "1143599702509805568",
-            "text": "RT @tuttleworld: @adamcbest Nailed it. https://t.co/39MKceq9Oz",
+            "created_at": "Thu Jul 18 06:20:44 +0000 2019",
+            "id": 1151738553770004480,
+            "id_str": "1151738553770004480",
+            "text": "RT @PatrickJolle: Focus, people. #area51raid #FaceApp https://t.co/1ZzIDtAegI",
             "truncated": false,
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
+                "hashtags": [
                     {
-                        "screen_name": "tuttleworld",
-                        "name": "Stan Diego",
-                        "id": 190462608,
-                        "id_str": "190462608",
+                        "text": "area51raid",
                         "indices": [
-                            3,
-                            15
+                            33,
+                            44
                         ]
                     },
                     {
-                        "screen_name": "adamcbest",
-                        "name": "Adam Best",
-                        "id": 17261066,
-                        "id_str": "17261066",
+                        "text": "FaceApp",
                         "indices": [
-                            17,
-                            27
+                            45,
+                            53
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PatrickJolle",
+                        "name": "PhatPat",
+                        "id": 21529542,
+                        "id_str": "21529542",
+                        "indices": [
+                            3,
+                            16
                         ]
                     }
                 ],
                 "urls": [],
                 "media": [
                     {
-                        "id": 1143320118367281152,
-                        "id_str": "1143320118367281152",
+                        "id": 1151685783960608769,
+                        "id_str": "1151685783960608769",
                         "indices": [
-                            39,
-                            62
+                            54,
+                            77
                         ],
-                        "media_url": "http://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                        "url": "https://t.co/39MKceq9Oz",
-                        "display_url": "pic.twitter.com/39MKceq9Oz",
-                        "expanded_url": "https://twitter.com/tuttleworld/status/1143320123446562817/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                        "url": "https://t.co/1ZzIDtAegI",
+                        "display_url": "pic.twitter.com/1ZzIDtAegI",
+                        "expanded_url": "https://twitter.com/PatrickJolle/status/1151685787538399232/photo/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -1648,43 +1605,43 @@
                                 "h": 150,
                                 "resize": "crop"
                             },
-                            "medium": {
-                                "w": 750,
-                                "h": 565,
+                            "small": {
+                                "w": 680,
+                                "h": 666,
                                 "resize": "fit"
                             },
                             "large": {
-                                "w": 750,
-                                "h": 565,
+                                "w": 720,
+                                "h": 705,
                                 "resize": "fit"
                             },
-                            "small": {
-                                "w": 680,
-                                "h": 512,
+                            "medium": {
+                                "w": 720,
+                                "h": 705,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1143320123446562817,
-                        "source_status_id_str": "1143320123446562817",
-                        "source_user_id": 190462608,
-                        "source_user_id_str": "190462608"
+                        "source_status_id": 1151685787538399232,
+                        "source_status_id_str": "1151685787538399232",
+                        "source_user_id": 21529542,
+                        "source_user_id_str": "21529542"
                     }
                 ]
             },
             "extended_entities": {
                 "media": [
                     {
-                        "id": 1143320118367281152,
-                        "id_str": "1143320118367281152",
+                        "id": 1151685783960608769,
+                        "id_str": "1151685783960608769",
                         "indices": [
-                            39,
-                            62
+                            54,
+                            77
                         ],
-                        "media_url": "http://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                        "url": "https://t.co/39MKceq9Oz",
-                        "display_url": "pic.twitter.com/39MKceq9Oz",
-                        "expanded_url": "https://twitter.com/tuttleworld/status/1143320123446562817/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                        "url": "https://t.co/1ZzIDtAegI",
+                        "display_url": "pic.twitter.com/1ZzIDtAegI",
+                        "expanded_url": "https://twitter.com/PatrickJolle/status/1151685787538399232/photo/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -1692,30 +1649,30 @@
                                 "h": 150,
                                 "resize": "crop"
                             },
-                            "medium": {
-                                "w": 750,
-                                "h": 565,
+                            "small": {
+                                "w": 680,
+                                "h": 666,
                                 "resize": "fit"
                             },
                             "large": {
-                                "w": 750,
-                                "h": 565,
+                                "w": 720,
+                                "h": 705,
                                 "resize": "fit"
                             },
-                            "small": {
-                                "w": 680,
-                                "h": 512,
+                            "medium": {
+                                "w": 720,
+                                "h": 705,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1143320123446562817,
-                        "source_status_id_str": "1143320123446562817",
-                        "source_user_id": 190462608,
-                        "source_user_id_str": "190462608"
+                        "source_status_id": 1151685787538399232,
+                        "source_status_id_str": "1151685787538399232",
+                        "source_user_id": 21529542,
+                        "source_user_id_str": "21529542"
                     }
                 ]
             },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -1726,40 +1683,44 @@
             "place": null,
             "contributors": null,
             "retweeted_status": {
-                "created_at": "Tue Jun 25 00:48:53 +0000 2019",
-                "id": 1143320123446562817,
-                "id_str": "1143320123446562817",
-                "text": "@adamcbest Nailed it. https://t.co/39MKceq9Oz",
+                "created_at": "Thu Jul 18 02:51:03 +0000 2019",
+                "id": 1151685787538399232,
+                "id_str": "1151685787538399232",
+                "text": "Focus, people. #area51raid #FaceApp https://t.co/1ZzIDtAegI",
                 "truncated": false,
                 "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
+                    "hashtags": [
                         {
-                            "screen_name": "adamcbest",
-                            "name": "Adam Best",
-                            "id": 17261066,
-                            "id_str": "17261066",
+                            "text": "area51raid",
                             "indices": [
-                                0,
-                                10
+                                15,
+                                26
+                            ]
+                        },
+                        {
+                            "text": "FaceApp",
+                            "indices": [
+                                27,
+                                35
                             ]
                         }
                     ],
+                    "symbols": [],
+                    "user_mentions": [],
                     "urls": [],
                     "media": [
                         {
-                            "id": 1143320118367281152,
-                            "id_str": "1143320118367281152",
+                            "id": 1151685783960608769,
+                            "id_str": "1151685783960608769",
                             "indices": [
-                                22,
-                                45
+                                36,
+                                59
                             ],
-                            "media_url": "http://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                            "url": "https://t.co/39MKceq9Oz",
-                            "display_url": "pic.twitter.com/39MKceq9Oz",
-                            "expanded_url": "https://twitter.com/tuttleworld/status/1143320123446562817/photo/1",
+                            "media_url": "http://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                            "url": "https://t.co/1ZzIDtAegI",
+                            "display_url": "pic.twitter.com/1ZzIDtAegI",
+                            "expanded_url": "https://twitter.com/PatrickJolle/status/1151685787538399232/photo/1",
                             "type": "photo",
                             "sizes": {
                                 "thumb": {
@@ -1767,19 +1728,19 @@
                                     "h": 150,
                                     "resize": "crop"
                                 },
-                                "medium": {
-                                    "w": 750,
-                                    "h": 565,
+                                "small": {
+                                    "w": 680,
+                                    "h": 666,
                                     "resize": "fit"
                                 },
                                 "large": {
-                                    "w": 750,
-                                    "h": 565,
+                                    "w": 720,
+                                    "h": 705,
                                     "resize": "fit"
                                 },
-                                "small": {
-                                    "w": 680,
-                                    "h": 512,
+                                "medium": {
+                                    "w": 720,
+                                    "h": 705,
                                     "resize": "fit"
                                 }
                             }
@@ -1789,17 +1750,17 @@
                 "extended_entities": {
                     "media": [
                         {
-                            "id": 1143320118367281152,
-                            "id_str": "1143320118367281152",
+                            "id": 1151685783960608769,
+                            "id_str": "1151685783960608769",
                             "indices": [
-                                22,
-                                45
+                                36,
+                                59
                             ],
-                            "media_url": "http://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                            "media_url_https": "https://pbs.twimg.com/media/D93jlw_W4AAleZ2.jpg",
-                            "url": "https://t.co/39MKceq9Oz",
-                            "display_url": "pic.twitter.com/39MKceq9Oz",
-                            "expanded_url": "https://twitter.com/tuttleworld/status/1143320123446562817/photo/1",
+                            "media_url": "http://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/D_ucHl3W4AETRWZ.jpg",
+                            "url": "https://t.co/1ZzIDtAegI",
+                            "display_url": "pic.twitter.com/1ZzIDtAegI",
+                            "expanded_url": "https://twitter.com/PatrickJolle/status/1151685787538399232/photo/1",
                             "type": "photo",
                             "sizes": {
                                 "thumb": {
@@ -1807,19 +1768,19 @@
                                     "h": 150,
                                     "resize": "crop"
                                 },
-                                "medium": {
-                                    "w": 750,
-                                    "h": 565,
+                                "small": {
+                                    "w": 680,
+                                    "h": 666,
                                     "resize": "fit"
                                 },
                                 "large": {
-                                    "w": 750,
-                                    "h": 565,
+                                    "w": 720,
+                                    "h": 705,
                                     "resize": "fit"
                                 },
-                                "small": {
-                                    "w": 680,
-                                    "h": 512,
+                                "medium": {
+                                    "w": 720,
+                                    "h": 705,
                                     "resize": "fit"
                                 }
                             }
@@ -1827,25 +1788,58 @@
                     ]
                 },
                 "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-                "in_reply_to_status_id": 1143310521996914690,
-                "in_reply_to_status_id_str": "1143310521996914690",
-                "in_reply_to_user_id": 17261066,
-                "in_reply_to_user_id_str": "17261066",
-                "in_reply_to_screen_name": "adamcbest",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
                 "geo": null,
                 "coordinates": null,
-                "place": null,
+                "place": {
+                    "id": "7142eb97ae21e839",
+                    "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+                    "place_type": "admin",
+                    "name": "Georgia",
+                    "full_name": "Georgia, USA",
+                    "country_code": "US",
+                    "country": "United States",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -85.605166,
+                                    30.355644
+                                ],
+                                [
+                                    -80.742567,
+                                    30.355644
+                                ],
+                                [
+                                    -80.742567,
+                                    35.000771
+                                ],
+                                [
+                                    -85.605166,
+                                    35.000771
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 153,
-                "favorite_count": 617,
+                "retweet_count": 97,
+                "favorite_count": 392,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 153,
+            "retweet_count": 97,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
@@ -1872,7 +1866,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "21673841": {
         "id": 21673841,
@@ -1901,35 +1897,46 @@
             }
         },
         "protected": false,
-        "followers_count": 795,
-        "friends_count": 614,
-        "listed_count": 98,
+        "followers_count": 793,
+        "friends_count": 619,
+        "listed_count": 97,
         "created_at": "Mon Feb 23 17:53:36 +0000 2009",
-        "favourites_count": 3164,
+        "favourites_count": 3195,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 6652,
-        "lang": "en",
+        "statuses_count": 6672,
+        "lang": null,
         "status": {
-            "created_at": "Wed Jun 26 16:43:29 +0000 2019",
-            "id": 1143922741541666816,
-            "id_str": "1143922741541666816",
-            "text": "Every hotel Alaska has OAN on the TV with either trump speaking or some other shit lying. Gross.",
+            "created_at": "Thu Jul 18 14:49:55 +0000 2019",
+            "id": 1151866694568202240,
+            "id_str": "1151866694568202240",
+            "text": "@johnedgarpark Jealous of your trip.",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "user_mentions": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "johnedgarpark",
+                        "name": "John Edgar Park",
+                        "id": 15983147,
+                        "id_str": "15983147",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
                 "urls": []
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": 1151858105942183938,
+            "in_reply_to_status_id_str": "1151858105942183938",
+            "in_reply_to_user_id": 15983147,
+            "in_reply_to_user_id_str": "15983147",
+            "in_reply_to_screen_name": "johnedgarpark",
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -1962,7 +1969,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "2377492970": {
         "id": 2377492970,
@@ -1978,17 +1987,17 @@
             }
         },
         "protected": false,
-        "followers_count": 833,
-        "friends_count": 674,
-        "listed_count": 8,
+        "followers_count": 827,
+        "friends_count": 673,
+        "listed_count": 0,
         "created_at": "Fri Mar 07 18:24:40 +0000 2014",
-        "favourites_count": 65619,
+        "favourites_count": 65079,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 29568,
-        "lang": "uk",
+        "statuses_count": 29560,
+        "lang": null,
         "status": {
             "created_at": "Sat Jun 16 06:59:31 +0000 2018",
             "id": 1007880331117105152,
@@ -2039,107 +2048,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
-    },
-    "124546273": {
-        "id": 124546273,
-        "id_str": "124546273",
-        "name": "Lee Devine",
-        "screen_name": "leed43",
-        "location": "Utah",
-        "description": "Life-long Learner, Computer Geek, Java beginner, Network Nerd,  Lean thinker, Mentor, and Philosopher",
-        "url": "https://t.co/gRJtvIUFyX",
-        "entities": {
-            "url": {
-                "urls": [
-                    {
-                        "url": "https://t.co/gRJtvIUFyX",
-                        "expanded_url": "http://leedevine.wordpress.com",
-                        "display_url": "leedevine.wordpress.com",
-                        "indices": [
-                            0,
-                            23
-                        ]
-                    }
-                ]
-            },
-            "description": {
-                "urls": []
-            }
-        },
-        "protected": false,
-        "followers_count": 546,
-        "friends_count": 692,
-        "listed_count": 14,
-        "created_at": "Fri Mar 19 19:18:15 +0000 2010",
-        "favourites_count": 197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 2224,
-        "lang": "en",
-        "status": {
-            "created_at": "Thu Jun 27 14:55:57 +0000 2019",
-            "id": 1144258068420673537,
-            "id_str": "1144258068420673537",
-            "text": "For me it is simple.. I will choose the service that has the most shows I like and stick with that one. Screw them.\u2026 https://t.co/IoS6wPsxNx",
-            "truncated": true,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/IoS6wPsxNx",
-                        "expanded_url": "https://twitter.com/i/web/status/1144258068420673537",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
-                        "indices": [
-                            117,
-                            140
-                        ]
-                    }
-                ]
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "ACDED6",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1268928949/lee_mail_1_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268928949/lee_mail_1_normal.jpg",
-        "profile_link_color": "038543",
-        "profile_sidebar_border_color": "EEEEEE",
-        "profile_sidebar_fill_color": "F6F6F6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "42567856": {
         "id": 42567856,
@@ -2155,8 +2066,8 @@
             }
         },
         "protected": false,
-        "followers_count": 1806,
-        "friends_count": 2066,
+        "followers_count": 1808,
+        "friends_count": 2065,
         "listed_count": 111,
         "created_at": "Tue May 26 04:54:19 +0000 2009",
         "favourites_count": 88,
@@ -2165,7 +2076,7 @@
         "geo_enabled": false,
         "verified": false,
         "statuses_count": 55911,
-        "lang": "en",
+        "lang": null,
         "status": {
             "created_at": "Sun Apr 28 18:40:37 +0000 2019",
             "id": 1122571334834380801,
@@ -2227,6 +2138,8 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     }
 }

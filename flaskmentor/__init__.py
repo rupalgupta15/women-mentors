@@ -5,6 +5,7 @@ from flask_bcrypt import Bcrypt
 from flask_login import LoginManager
 from flask_heroku import Heroku
 import logging
+from flask import Flask
 import sys
 
 
@@ -16,10 +17,10 @@ app.logger.setLevel(logging.ERROR)
 
 app.config['SECRET_KEY'] = '17b60f8a1367103ecd4d09eda9426caf'
 # can be made an environment variable : To be only used locally, for heroku use next command
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/test'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/test'
 
 # For heroku:
-heroku = Heroku(app)
+# heroku = Heroku(app)
 
 # three slashes are relative path from current file
 db = SQLAlchemy(app)  # instance of SQLAlchemy db

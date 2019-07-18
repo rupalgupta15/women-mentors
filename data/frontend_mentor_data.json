@@ -26,35 +26,35 @@
             }
         },
         "protected": false,
-        "followers_count": 1871,
-        "friends_count": 279,
+        "followers_count": 1918,
+        "friends_count": 282,
         "listed_count": 18,
         "created_at": "Fri May 11 16:11:51 +0000 2018",
-        "favourites_count": 602,
+        "favourites_count": 616,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 560,
-        "lang": "en",
+        "statuses_count": 575,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 23:33:20 +0000 2019",
-            "id": 1144750658333134851,
-            "id_str": "1144750658333134851",
-            "text": "RT @djordjee_st: Another great challenge by @frontendmentor, this time using an API! Had a lot of fun creating this as I used my favorite J\u2026",
+            "created_at": "Thu Jul 18 05:53:08 +0000 2019",
+            "id": 1151731610695417857,
+            "id_str": "1151731610695417857",
+            "text": "RT @AdiatiAyu: R2D46: Spent 3 FUN hrs creating https://t.co/LxA7My9ESF by @frontendmentor. \nI got challenged yet intimidated on how to crea\u2026",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "djordjee_st",
-                        "name": "Djordje Stevanovic",
-                        "id": 775763167,
-                        "id_str": "775763167",
+                        "screen_name": "AdiatiAyu",
+                        "name": "Ayu",
+                        "id": 1080428738679107586,
+                        "id_str": "1080428738679107586",
                         "indices": [
                             3,
-                            15
+                            13
                         ]
                     },
                     {
@@ -63,12 +63,22 @@
                         "id": 994973367265525760,
                         "id_str": "994973367265525760",
                         "indices": [
-                            44,
-                            59
+                            74,
+                            89
                         ]
                     }
                 ],
-                "urls": []
+                "urls": [
+                    {
+                        "url": "https://t.co/LxA7My9ESF",
+                        "expanded_url": "https://www.frontendmentor.io/challenges/fylo-landing-page-227273",
+                        "display_url": "frontendmentor.io/challenges/fyl\u2026",
+                        "indices": [
+                            47,
+                            70
+                        ]
+                    }
+                ]
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_status_id": null,
@@ -81,10 +91,10 @@
             "place": null,
             "contributors": null,
             "retweeted_status": {
-                "created_at": "Fri Jun 28 21:14:28 +0000 2019",
-                "id": 1144715712960876544,
-                "id_str": "1144715712960876544",
-                "text": "Another great challenge by @frontendmentor, this time using an API! Had a lot of fun creating this as I used my fav\u2026 https://t.co/n96kP30vAu",
+                "created_at": "Wed Jul 17 23:45:47 +0000 2019",
+                "id": 1151639163063668742,
+                "id_str": "1151639163063668742",
+                "text": "R2D46: Spent 3 FUN hrs creating https://t.co/LxA7My9ESF by @frontendmentor. \nI got challenged yet intimidated on ho\u2026 https://t.co/w9OZyAChZn",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
@@ -96,15 +106,24 @@
                             "id": 994973367265525760,
                             "id_str": "994973367265525760",
                             "indices": [
-                                27,
-                                42
+                                59,
+                                74
                             ]
                         }
                     ],
                     "urls": [
                         {
-                            "url": "https://t.co/n96kP30vAu",
-                            "expanded_url": "https://twitter.com/i/web/status/1144715712960876544",
+                            "url": "https://t.co/LxA7My9ESF",
+                            "expanded_url": "https://www.frontendmentor.io/challenges/fylo-landing-page-227273",
+                            "display_url": "frontendmentor.io/challenges/fyl\u2026",
+                            "indices": [
+                                32,
+                                55
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/w9OZyAChZn",
+                            "expanded_url": "https://twitter.com/i/web/status/1151639163063668742",
                             "display_url": "twitter.com/i/web/status/1\u2026",
                             "indices": [
                                 117,
@@ -124,18 +143,19 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 1,
-                "favorite_count": 2,
+                "retweet_count": 9,
+                "favorite_count": 15,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 1,
+            "retweet_count": 9,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -159,7 +179,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "4924248694": {
         "id": 4924248694,
@@ -167,7 +189,7 @@
         "name": "Mr Frontend Mentor",
         "screen_name": "frontendmr",
         "location": "The web",
-        "description": "Mentoring junior developers to get their first job! #javascript #frontend #css #webdevelopment #learning #codenewbie #100daysofcode",
+        "description": "On a mission to help #juniordevs on their way via Twitter & Patreon #javascript #frontend #css #codenewbie #100daysofcode https://t.co/Xg9HmR6B4Z",
         "url": "https://t.co/VCLBSWxgbK",
         "entities": {
             "url": {
@@ -184,69 +206,79 @@
                 ]
             },
             "description": {
-                "urls": []
+                "urls": [
+                    {
+                        "url": "https://t.co/Xg9HmR6B4Z",
+                        "expanded_url": "https://www.patreon.com/mrfrontend",
+                        "display_url": "patreon.com/mrfrontend",
+                        "indices": [
+                            122,
+                            145
+                        ]
+                    }
+                ]
             }
         },
         "protected": false,
-        "followers_count": 550,
-        "friends_count": 382,
-        "listed_count": 269,
+        "followers_count": 843,
+        "friends_count": 501,
+        "listed_count": 270,
         "created_at": "Wed Feb 17 15:27:58 +0000 2016",
-        "favourites_count": 779,
+        "favourites_count": 1691,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 2342,
-        "lang": "nl",
+        "statuses_count": 3048,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 20:37:47 +0000 2019",
-            "id": 1144706480161079301,
-            "id_str": "1144706480161079301",
-            "text": "@villamin_c \u2018create-react-app\u2019 so you can put it on your Github. Then you can also put all your quote data in a jso\u2026 https://t.co/HT9H6vqvqV",
-            "truncated": true,
+            "created_at": "Thu Jul 18 16:26:10 +0000 2019",
+            "id": 1151890918997471232,
+            "id_str": "1151890918997471232",
+            "text": "Cool results of the #podcast poll \ud83d\ude01 https://t.co/GOLr5d7zFb",
+            "truncated": false,
             "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
+                "hashtags": [
                     {
-                        "screen_name": "villamin_c",
-                        "name": "Christian Villamin",
-                        "id": 1132468440227205120,
-                        "id_str": "1132468440227205120",
+                        "text": "podcast",
                         "indices": [
-                            0,
-                            11
+                            20,
+                            28
                         ]
                     }
                 ],
+                "symbols": [],
+                "user_mentions": [],
                 "urls": [
                     {
-                        "url": "https://t.co/HT9H6vqvqV",
-                        "expanded_url": "https://twitter.com/i/web/status/1144706480161079301",
-                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "url": "https://t.co/GOLr5d7zFb",
+                        "expanded_url": "https://twitter.com/frontendmr/status/1151459662665048067",
+                        "display_url": "twitter.com/frontendmr/sta\u2026",
                         "indices": [
-                            117,
-                            140
+                            36,
+                            59
                         ]
                     }
                 ]
             },
-            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-            "in_reply_to_status_id": 1144706065076035588,
-            "in_reply_to_status_id_str": "1144706065076035588",
-            "in_reply_to_user_id": 4924248694,
-            "in_reply_to_user_id_str": "4924248694",
-            "in_reply_to_screen_name": "frontendmr",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": false,
+            "is_quote_status": true,
+            "quoted_status_id": 1151459662665048067,
+            "quoted_status_id_str": "1151459662665048067",
             "retweet_count": 0,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -258,7 +290,7 @@
         "profile_background_tile": false,
         "profile_image_url": "http://pbs.twimg.com/profile_images/718862116883668992/y15lFW2h_normal.jpg",
         "profile_image_url_https": "https://pbs.twimg.com/profile_images/718862116883668992/y15lFW2h_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4924248694/1561326324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4924248694/1563310615",
         "profile_link_color": "E02267",
         "profile_sidebar_border_color": "000000",
         "profile_sidebar_fill_color": "000000",
@@ -270,7 +302,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
     },
     "35470229": {
         "id": 35470229,
@@ -299,136 +333,65 @@
             }
         },
         "protected": false,
-        "followers_count": 1615,
-        "friends_count": 662,
+        "followers_count": 1621,
+        "friends_count": 664,
         "listed_count": 49,
         "created_at": "Sun Apr 26 14:04:47 +0000 2009",
-        "favourites_count": 899,
+        "favourites_count": 907,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 1507,
-        "lang": "en",
+        "statuses_count": 1509,
+        "lang": null,
         "status": {
-            "created_at": "Wed Jun 19 16:06:01 +0000 2019",
-            "id": 1141376600241594368,
-            "id_str": "1141376600241594368",
-            "text": "RT @posva: Excited to say that I have a Sponsorship page on @github now! \ud83c\udf89\n\ud83d\udc49 https://t.co/IsnoqTmsjU\nAny donation is helping me out build a\u2026",
+            "created_at": "Thu Jul 04 16:07:46 +0000 2019",
+            "id": 1146812857591504898,
+            "id_str": "1146812857591504898",
+            "text": "@josgerards88 @jamesvuejs Happy birthday James \ud83c\udf82\ud83c\udf89\ud83c\udf89",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "posva",
-                        "name": "Eduardo.\ud835\ude9f\ud835\ude9e\ud835\ude8e",
-                        "id": 181723645,
-                        "id_str": "181723645",
+                        "screen_name": "josgerards88",
+                        "name": "Jos Gerards",
+                        "id": 83400333,
+                        "id_str": "83400333",
                         "indices": [
-                            3,
-                            9
+                            0,
+                            13
                         ]
                     },
                     {
-                        "screen_name": "github",
-                        "name": "GitHub",
-                        "id": 13334762,
-                        "id_str": "13334762",
+                        "screen_name": "jamesvuejs",
+                        "name": "JamesVueJS",
+                        "id": 922409066680504321,
+                        "id_str": "922409066680504321",
                         "indices": [
-                            60,
-                            67
+                            14,
+                            25
                         ]
                     }
                 ],
-                "urls": [
-                    {
-                        "url": "https://t.co/IsnoqTmsjU",
-                        "expanded_url": "https://github.com/users/posva/sponsorship",
-                        "display_url": "github.com/users/posva/sp\u2026",
-                        "indices": [
-                            77,
-                            100
-                        ]
-                    }
-                ]
+                "urls": []
             },
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": 1146704874861731841,
+            "in_reply_to_status_id_str": "1146704874861731841",
+            "in_reply_to_user_id": 83400333,
+            "in_reply_to_user_id_str": "83400333",
+            "in_reply_to_screen_name": "josgerards88",
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "retweeted_status": {
-                "created_at": "Tue Jun 18 22:07:45 +0000 2019",
-                "id": 1141105243100291072,
-                "id_str": "1141105243100291072",
-                "text": "Excited to say that I have a Sponsorship page on @github now! \ud83c\udf89\n\ud83d\udc49 https://t.co/IsnoqTmsjU\nAny donation is helping m\u2026 https://t.co/eYuW4GJLEv",
-                "truncated": true,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "github",
-                            "name": "GitHub",
-                            "id": 13334762,
-                            "id_str": "13334762",
-                            "indices": [
-                                49,
-                                56
-                            ]
-                        }
-                    ],
-                    "urls": [
-                        {
-                            "url": "https://t.co/IsnoqTmsjU",
-                            "expanded_url": "https://github.com/users/posva/sponsorship",
-                            "display_url": "github.com/users/posva/sp\u2026",
-                            "indices": [
-                                66,
-                                89
-                            ]
-                        },
-                        {
-                            "url": "https://t.co/eYuW4GJLEv",
-                            "expanded_url": "https://twitter.com/i/web/status/1141105243100291072",
-                            "display_url": "twitter.com/i/web/status/1\u2026",
-                            "indices": [
-                                117,
-                                140
-                            ]
-                        }
-                    ]
-                },
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 43,
-                "favorite_count": 145,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
             "is_quote_status": false,
-            "retweet_count": 43,
-            "favorite_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
-            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -452,108 +415,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
-    },
-    "229573270": {
-        "id": 229573270,
-        "id_str": "229573270",
-        "name": "Jeff Lau",
-        "screen_name": "_jefflau",
-        "location": "Taipei City, Taiwan",
-        "description": "Javascripter. Climber. Developer at @ensdomains. Co-founder of @wearekickback. Frontend mentor. Distilling the complicated in simple ways",
-        "url": "https://t.co/7iVCPc2V2L",
-        "entities": {
-            "url": {
-                "urls": [
-                    {
-                        "url": "https://t.co/7iVCPc2V2L",
-                        "expanded_url": "http://jefflau.dev",
-                        "display_url": "jefflau.dev",
-                        "indices": [
-                            0,
-                            23
-                        ]
-                    }
-                ]
-            },
-            "description": {
-                "urls": []
-            }
-        },
-        "protected": false,
-        "followers_count": 943,
-        "friends_count": 327,
-        "listed_count": 75,
-        "created_at": "Wed Dec 22 19:13:47 +0000 2010",
-        "favourites_count": 3160,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 7138,
-        "lang": "en",
-        "status": {
-            "created_at": "Fri Jun 28 09:33:12 +0000 2019",
-            "id": 1144539234482524160,
-            "id_str": "1144539234482524160",
-            "text": "Taiwan publishes world's first STO laws\n\nhttps://t.co/nxAcqYgA8a",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/nxAcqYgA8a",
-                        "expanded_url": "https://wccftech.com/taiwan-publishes-worlds-first-sto-laws/",
-                        "display_url": "wccftech.com/taiwan-publish\u2026",
-                        "indices": [
-                            41,
-                            64
-                        ]
-                    }
-                ]
-            },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "E6F7F4",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1102055855309160448/H32e7Mpb_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102055855309160448/H32e7Mpb_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229573270/1560242181",
-        "profile_link_color": "91D2FA",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "C0DFEC",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "16339134": {
         "id": 16339134,
@@ -582,46 +446,45 @@
             }
         },
         "protected": false,
-        "followers_count": 1420,
-        "friends_count": 917,
+        "followers_count": 1444,
+        "friends_count": 922,
         "listed_count": 94,
         "created_at": "Wed Sep 17 23:26:25 +0000 2008",
-        "favourites_count": 2093,
+        "favourites_count": 2156,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 3200,
-        "lang": "en",
+        "statuses_count": 3228,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 17:36:32 +0000 2019",
-            "id": 1144660867079790592,
-            "id_str": "1144660867079790592",
-            "text": "@MaikuB84 it's good as is",
-            "truncated": false,
+            "created_at": "Thu Jul 18 16:20:37 +0000 2019",
+            "id": 1151889520368820224,
+            "id_str": "1151889520368820224",
+            "text": "Wrapped up \"Trillion Dollar Coach\". Some great nuggets of wisdom in here. Useful for anyone who works in a team. (w\u2026 https://t.co/WIjAAnxE4B",
+            "truncated": true,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
-                "user_mentions": [
+                "user_mentions": [],
+                "urls": [
                     {
-                        "screen_name": "MaikuB84",
-                        "name": "Michael Bui",
-                        "id": 172966542,
-                        "id_str": "172966542",
+                        "url": "https://t.co/WIjAAnxE4B",
+                        "expanded_url": "https://twitter.com/i/web/status/1151889520368820224",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
-                            0,
-                            9
+                            117,
+                            140
                         ]
                     }
-                ],
-                "urls": []
+                ]
             },
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": 1144519470351712256,
-            "in_reply_to_status_id_str": "1144519470351712256",
-            "in_reply_to_user_id": 172966542,
-            "in_reply_to_user_id_str": "172966542",
-            "in_reply_to_screen_name": "MaikuB84",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -631,6 +494,7 @@
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -654,7 +518,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "585713975": {
         "id": 585713975,
@@ -670,41 +536,51 @@
             }
         },
         "protected": false,
-        "followers_count": 854,
-        "friends_count": 776,
+        "followers_count": 902,
+        "friends_count": 792,
         "listed_count": 15,
         "created_at": "Sun May 20 14:36:41 +0000 2012",
-        "favourites_count": 1226,
+        "favourites_count": 1253,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 1201,
-        "lang": "es",
+        "statuses_count": 1222,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 02:09:36 +0000 2019",
-            "id": 1144427599176851456,
-            "id_str": "1144427599176851456",
-            "text": "RT @vuevixensCO: Faltan solo 2 d\u00edas para la primer edici\u00f3n de \ud83e\udd8a Vue Vixens Medellin y queremos presentarte el equipo de mentores \ud83d\udcaa",
+            "created_at": "Tue Jul 16 15:59:47 +0000 2019",
+            "id": 1151159502986731520,
+            "id_str": "1151159502986731520",
+            "text": "29 Free IoT Courses You Can Take Right\u00a0Now https://t.co/YNYoNc5BMP v\u00eda @iotforall",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "vuevixensCO",
-                        "name": "Vue Vixens CO \ud83e\udd8a",
-                        "id": 1083053600195166208,
-                        "id_str": "1083053600195166208",
+                        "screen_name": "iotforall",
+                        "name": "IoT For All",
+                        "id": 776150730721951745,
+                        "id_str": "776150730721951745",
                         "indices": [
-                            3,
-                            15
+                            71,
+                            81
                         ]
                     }
                 ],
-                "urls": []
+                "urls": [
+                    {
+                        "url": "https://t.co/YNYoNc5BMP",
+                        "expanded_url": "https://www.iotforall.com/free-iot-courses-you-can-take-right-now/",
+                        "display_url": "iotforall.com/free-iot-cours\u2026",
+                        "indices": [
+                            43,
+                            66
+                        ]
+                    }
+                ]
             },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
@@ -714,41 +590,13 @@
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "retweeted_status": {
-                "created_at": "Thu Jun 27 18:56:42 +0000 2019",
-                "id": 1144318656530325505,
-                "id_str": "1144318656530325505",
-                "text": "Faltan solo 2 d\u00edas para la primer edici\u00f3n de \ud83e\udd8a Vue Vixens Medellin y queremos presentarte el equipo de mentores \ud83d\udcaa",
-                "truncated": false,
-                "entities": {
-                    "hashtags": [],
-                    "symbols": [],
-                    "user_mentions": [],
-                    "urls": []
-                },
-                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 8,
-                "favorite_count": 20,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "es"
-            },
             "is_quote_status": false,
-            "retweet_count": 8,
-            "favorite_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 2,
             "favorited": false,
             "retweeted": false,
-            "lang": "es"
+            "possibly_sensitive": false,
+            "lang": "en"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -771,12 +619,14 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "271871022": {
         "id": 271871022,
         "id_str": "271871022",
-        "name": "Debbie O'Brien",
+        "name": "Debbie O'Brien @JS CAMP",
         "screen_name": "debs_obrien",
         "location": "Palma, Spain",
         "description": "Frontend Tech Lead @AgencyPatterson, teacher @vueSchool_io, Writer @tryUltimate. Mentor @OpenClassrooms and @treehouse. @webpack contributor. Speaker.",
@@ -800,35 +650,65 @@
             }
         },
         "protected": false,
-        "followers_count": 1114,
-        "friends_count": 858,
+        "followers_count": 1177,
+        "friends_count": 870,
         "listed_count": 16,
         "created_at": "Fri Mar 25 10:29:36 +0000 2011",
-        "favourites_count": 2670,
+        "favourites_count": 2806,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 1339,
-        "lang": "en",
+        "statuses_count": 1409,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 21:23:29 +0000 2019",
-            "id": 1144717983253745664,
-            "id_str": "1144717983253745664",
-            "text": "@afontcu_ @gustojs @MayaShavin @VueAndMe Yes; me and you could definitely work together on this one. I\u2019m working on\u2026 https://t.co/TWAREJOQ5h",
+            "created_at": "Thu Jul 18 13:19:07 +0000 2019",
+            "id": 1151843846428463104,
+            "id_str": "1151843846428463104",
+            "text": "@gustojs @Josh_Dev1205 @vuejs @tailwindcss Yes @gustojs that was from my talk in Alicante. Use Tailwind end of conv\u2026 https://t.co/7rFrPSEtTy",
             "truncated": true,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "afontcu_",
-                        "name": "afontcu @ AOS19",
-                        "id": 913851783046422528,
-                        "id_str": "913851783046422528",
+                        "screen_name": "gustojs",
+                        "name": "VueAndGusto",
+                        "id": 830171539999952896,
+                        "id_str": "830171539999952896",
                         "indices": [
                             0,
-                            9
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "Josh_Dev1205",
+                        "name": "Josh Ospina Tafur",
+                        "id": 288634119,
+                        "id_str": "288634119",
+                        "indices": [
+                            9,
+                            22
+                        ]
+                    },
+                    {
+                        "screen_name": "vuejs",
+                        "name": "Vue.js",
+                        "id": 2292889800,
+                        "id_str": "2292889800",
+                        "indices": [
+                            23,
+                            29
+                        ]
+                    },
+                    {
+                        "screen_name": "tailwindcss",
+                        "name": "Tailwind CSS",
+                        "id": 895273477711769600,
+                        "id_str": "895273477711769600",
+                        "indices": [
+                            30,
+                            42
                         ]
                     },
                     {
@@ -837,35 +717,15 @@
                         "id": 830171539999952896,
                         "id_str": "830171539999952896",
                         "indices": [
-                            10,
-                            18
-                        ]
-                    },
-                    {
-                        "screen_name": "MayaShavin",
-                        "name": "Maya Shavin \ud83c\uddee\ud83c\uddf1\ud83c\udfe1 \ud83c\udf52\ud83c\udf52",
-                        "id": 50981316,
-                        "id_str": "50981316",
-                        "indices": [
-                            19,
-                            30
-                        ]
-                    },
-                    {
-                        "screen_name": "VueAndMe",
-                        "name": "VueAndMe",
-                        "id": 1144230370289868800,
-                        "id_str": "1144230370289868800",
-                        "indices": [
-                            31,
-                            40
+                            47,
+                            55
                         ]
                     }
                 ],
                 "urls": [
                     {
-                        "url": "https://t.co/TWAREJOQ5h",
-                        "expanded_url": "https://twitter.com/i/web/status/1144717983253745664",
+                        "url": "https://t.co/7rFrPSEtTy",
+                        "expanded_url": "https://twitter.com/i/web/status/1151843846428463104",
                         "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
                             117,
@@ -875,11 +735,11 @@
                 ]
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": 1144717611193774080,
-            "in_reply_to_status_id_str": "1144717611193774080",
-            "in_reply_to_user_id": 913851783046422528,
-            "in_reply_to_user_id_str": "913851783046422528",
-            "in_reply_to_screen_name": "afontcu_",
+            "in_reply_to_status_id": 1151830361103581184,
+            "in_reply_to_status_id_str": "1151830361103581184",
+            "in_reply_to_user_id": 830171539999952896,
+            "in_reply_to_user_id_str": "830171539999952896",
+            "in_reply_to_screen_name": "gustojs",
             "geo": null,
             "coordinates": null,
             "place": null,
@@ -912,7 +772,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
     },
     "1699999614": {
         "id": 1699999614,
@@ -938,65 +800,86 @@
             }
         },
         "protected": false,
-        "followers_count": 4704,
-        "friends_count": 154,
+        "followers_count": 4700,
+        "friends_count": 156,
         "listed_count": 273,
         "created_at": "Sun Aug 25 19:56:12 +0000 2013",
-        "favourites_count": 3977,
+        "favourites_count": 3976,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 12143,
-        "lang": "en",
+        "statuses_count": 12144,
+        "lang": null,
         "status": {
-            "created_at": "Sun Jun 23 23:22:07 +0000 2019",
-            "id": 1142935899505876993,
-            "id_str": "1142935899505876993",
-            "text": "@alexlafroscia @mattegreer If you manage the domain through cloudflare then you\u2019ll get these stats from them",
+            "created_at": "Tue Jul 09 21:51:29 +0000 2019",
+            "id": 1148711296017293312,
+            "id_str": "1148711296017293312",
+            "text": "@cowboyd @duncanmak I'll make an example app and add it to the repo. @duncanmak I'll be in here https://t.co/spx7Cv7Hl4",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "alexlafroscia",
-                        "name": "Alex LaFroscia",
-                        "id": 133564736,
-                        "id_str": "133564736",
+                        "screen_name": "cowboyd",
+                        "name": "Charles Lowell",
+                        "id": 791224,
+                        "id_str": "791224",
                         "indices": [
                             0,
-                            14
+                            8
                         ]
                     },
                     {
-                        "screen_name": "mattegreer",
-                        "name": "Matt Greer",
-                        "id": 973003309890981889,
-                        "id_str": "973003309890981889",
+                        "screen_name": "duncanmak",
+                        "name": "Duncan Mak",
+                        "id": 1731241,
+                        "id_str": "1731241",
                         "indices": [
-                            15,
-                            26
+                            9,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "duncanmak",
+                        "name": "Duncan Mak",
+                        "id": 1731241,
+                        "id_str": "1731241",
+                        "indices": [
+                            69,
+                            79
                         ]
                     }
                 ],
-                "urls": []
+                "urls": [
+                    {
+                        "url": "https://t.co/spx7Cv7Hl4",
+                        "expanded_url": "https://discord.gg/TMvS5u",
+                        "display_url": "discord.gg/TMvS5u",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    }
+                ]
             },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": 1142847774922141697,
-            "in_reply_to_status_id_str": "1142847774922141697",
-            "in_reply_to_user_id": 133564736,
-            "in_reply_to_user_id_str": "133564736",
-            "in_reply_to_screen_name": "alexlafroscia",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1148704550150385664,
+            "in_reply_to_status_id_str": "1148704550150385664",
+            "in_reply_to_user_id": 791224,
+            "in_reply_to_user_id_str": "791224",
+            "in_reply_to_screen_name": "cowboyd",
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
+            "possibly_sensitive": false,
             "lang": "en"
         },
         "contributors_enabled": false,
@@ -1019,7 +902,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "42576192": {
         "id": 42576192,
@@ -1036,160 +921,62 @@
         },
         "protected": false,
         "followers_count": 203,
-        "friends_count": 160,
+        "friends_count": 162,
         "listed_count": 38,
         "created_at": "Tue May 26 06:09:25 +0000 2009",
-        "favourites_count": 654,
+        "favourites_count": 664,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 860,
-        "lang": "en",
+        "statuses_count": 861,
+        "lang": null,
         "status": {
-            "created_at": "Sun May 26 12:52:27 +0000 2019",
-            "id": 1132630575045652480,
-            "id_str": "1132630575045652480",
-            "text": "Erinnerst du dich noch, wann du dich f\u00fcr Twitter registriert hast? Ich erinnere mich noch! #MeinTwitterJubil\u00e4um https://t.co/EVO61lbOsg",
-            "truncated": false,
+            "created_at": "Fri Jul 12 08:50:07 +0000 2019",
+            "id": 1149601823667322880,
+            "id_str": "1149601823667322880",
+            "text": "@DHLPaket Mein Paket ist schon \u00fcber eine Monat irgendwo fest. Und deine Site f\u00fcr hilfe funktioniert gar nicht. Es m\u2026 https://t.co/QJ58CQrKMl",
+            "truncated": true,
             "entities": {
-                "hashtags": [
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "text": "MeinTwitterJubil\u00e4um",
+                        "screen_name": "DHLPaket",
+                        "name": "DHL Paket",
+                        "id": 42414621,
+                        "id_str": "42414621",
                         "indices": [
-                            91,
-                            111
+                            0,
+                            9
                         ]
                     }
                 ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [],
-                "media": [
+                "urls": [
                     {
-                        "id": 1132630564283006977,
-                        "id_str": "1132630564283006977",
+                        "url": "https://t.co/QJ58CQrKMl",
+                        "expanded_url": "https://twitter.com/i/web/status/1149601823667322880",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
                         "indices": [
-                            112,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
-                        "url": "https://t.co/EVO61lbOsg",
-                        "display_url": "pic.twitter.com/EVO61lbOsg",
-                        "expanded_url": "https://twitter.com/MartinBing/status/1132630575045652480/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1920,
-                                "h": 1080,
-                                "resize": "fit"
-                            }
-                        }
+                            117,
+                            140
+                        ]
                     }
                 ]
             },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1132630564283006977,
-                        "id_str": "1132630564283006977",
-                        "indices": [
-                            112,
-                            135
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D7fpf03WwAEMHRA.jpg",
-                        "url": "https://t.co/EVO61lbOsg",
-                        "display_url": "pic.twitter.com/EVO61lbOsg",
-                        "expanded_url": "https://twitter.com/MartinBing/status/1132630575045652480/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1920,
-                                "h": 1080,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "in_reply_to_user_id": 42414621,
+            "in_reply_to_user_id_str": "42414621",
+            "in_reply_to_screen_name": "DHLPaket",
             "geo": null,
             "coordinates": null,
-            "place": {
-                "id": "2a8a74486cd0d519",
-                "url": "https://api.twitter.com/1.1/geo/id/2a8a74486cd0d519.json",
-                "place_type": "city",
-                "name": "Antwerp",
-                "full_name": "Antwerp, Belgium",
-                "country_code": "BE",
-                "country": "Belgium",
-                "contained_within": [],
-                "bounding_box": {
-                    "type": "Polygon",
-                    "coordinates": [
-                        [
-                            [
-                                4.2180843,
-                                51.1434643
-                            ],
-                            [
-                                4.4982962,
-                                51.1434643
-                            ],
-                            [
-                                4.4982962,
-                                51.3776487
-                            ],
-                            [
-                                4.2180843,
-                                51.3776487
-                            ]
-                        ]
-                    ]
-                },
-                "attributes": {}
-            },
+            "place": null,
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "possibly_sensitive": false,
@@ -1216,7 +1003,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "33880645": {
         "id": 33880645,
@@ -1245,17 +1034,17 @@
             }
         },
         "protected": false,
-        "followers_count": 202,
-        "friends_count": 171,
+        "followers_count": 200,
+        "friends_count": 170,
         "listed_count": 53,
         "created_at": "Tue Apr 21 11:54:07 +0000 2009",
-        "favourites_count": 748,
+        "favourites_count": 747,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
         "statuses_count": 2464,
-        "lang": "en",
+        "lang": null,
         "status": {
             "created_at": "Sun Aug 27 15:40:27 +0000 2017",
             "id": 901831784517787652,
@@ -1316,7 +1105,9 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "none"
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
     },
     "265992839": {
         "id": 265992839,
@@ -1345,63 +1136,53 @@
             }
         },
         "protected": false,
-        "followers_count": 1303,
-        "friends_count": 1280,
-        "listed_count": 46,
+        "followers_count": 1313,
+        "friends_count": 1285,
+        "listed_count": 45,
         "created_at": "Mon Mar 14 13:25:38 +0000 2011",
-        "favourites_count": 19316,
+        "favourites_count": 19819,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 36396,
-        "lang": "es",
+        "statuses_count": 36527,
+        "lang": null,
         "status": {
-            "created_at": "Fri Jun 28 21:21:54 +0000 2019",
-            "id": 1144717584736108544,
-            "id_str": "1144717584736108544",
-            "text": "@fga_8 @TuentiAR Muy \u00fatil tu comentario muchas gracias.",
+            "created_at": "Thu Jul 18 14:22:20 +0000 2019",
+            "id": 1151859753871642625,
+            "id_str": "1151859753871642625",
+            "text": "@ar_jorge1987 Tremendo. Mi avatar de slack laboral es Cerebro con el traje de humano.",
             "truncated": false,
             "entities": {
                 "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "fga_8",
-                        "name": "Fede G\u00f3mez",
-                        "id": 129695601,
-                        "id_str": "129695601",
+                        "screen_name": "ar_jorge1987",
+                        "name": "Jorge Abreu \ud83d\udc9a\ud83e\udde1",
+                        "id": 198963019,
+                        "id_str": "198963019",
                         "indices": [
                             0,
-                            6
-                        ]
-                    },
-                    {
-                        "screen_name": "TuentiAR",
-                        "name": "Tuenti Argentina",
-                        "id": 1706247542,
-                        "id_str": "1706247542",
-                        "indices": [
-                            7,
-                            16
+                            13
                         ]
                     }
                 ],
                 "urls": []
             },
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "in_reply_to_status_id": 1144713548049911808,
-            "in_reply_to_status_id_str": "1144713548049911808",
-            "in_reply_to_user_id": 129695601,
-            "in_reply_to_user_id_str": "129695601",
-            "in_reply_to_screen_name": "fga_8",
+            "in_reply_to_status_id": 1151857298647736322,
+            "in_reply_to_status_id_str": "1151857298647736322",
+            "in_reply_to_user_id": 198963019,
+            "in_reply_to_user_id_str": "198963019",
+            "in_reply_to_screen_name": "ar_jorge1987",
             "geo": null,
             "coordinates": null,
             "place": null,
             "contributors": null,
             "is_quote_status": false,
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "favorited": false,
             "retweeted": false,
             "lang": "es"
@@ -1427,106 +1208,8 @@
         "following": false,
         "follow_request_sent": false,
         "notifications": false,
-        "translator_type": "regular"
-    },
-    "1974931724": {
-        "id": 1974931724,
-        "id_str": "1974931724",
-        "name": "Momen Zakaria",
-        "screen_name": "_iMomen",
-        "location": "Makkah Al Mukarrama, Kingdom of Saudi Arabia",
-        "description": "UX Designer & Mentor, FrontEnd Developer Nanodegree #Udacity \n\u0645\u0647\u062a\u0645 \u0628\u062a\u0639\u0631\u064a\u0628 #\u062a\u062c\u0631\u0628\u0629_\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\nhttps://t.co/piIW6bIg37",
-        "url": "http://t.co/RM6H9ALHvq",
-        "entities": {
-            "url": {
-                "urls": [
-                    {
-                        "url": "http://t.co/RM6H9ALHvq",
-                        "expanded_url": "http://imomen.com",
-                        "display_url": "imomen.com",
-                        "indices": [
-                            0,
-                            22
-                        ]
-                    }
-                ]
-            },
-            "description": {
-                "urls": [
-                    {
-                        "url": "https://t.co/piIW6bIg37",
-                        "expanded_url": "http://linkedin.com/in/momenzakaria",
-                        "display_url": "linkedin.com/in/momenzakaria",
-                        "indices": [
-                            90,
-                            113
-                        ]
-                    }
-                ]
-            }
-        },
-        "protected": false,
-        "followers_count": 1435,
-        "friends_count": 384,
-        "listed_count": 105,
-        "created_at": "Sun Oct 20 12:13:22 +0000 2013",
-        "favourites_count": 27,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 7891,
-        "lang": "en",
-        "status": {
-            "created_at": "Fri Jun 21 11:42:27 +0000 2019",
-            "id": 1142035046288830464,
-            "id_str": "1142035046288830464",
-            "text": "Fail early to succeed sooner",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": []
-            },
-            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "1A1B1F",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1096698124998004736/uhizsMPO_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096698124998004736/uhizsMPO_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974931724/1540963420",
-        "profile_link_color": "2FC2EF",
-        "profile_sidebar_border_color": "181A1E",
-        "profile_sidebar_fill_color": "252429",
-        "profile_text_color": "666666",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
+        "translator_type": "regular",
+        "replies_flag": "N",
+        "gender_val": "male"
     }
 }

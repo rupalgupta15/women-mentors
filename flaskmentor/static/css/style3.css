@@ -93,3 +93,13 @@ a.article-title:hover {
     padding: .1em .25em;
     font-size: 150%;
 }
+.tweet-btn:before{
+   font-family: FontAwesome;
+   display: inline-block;
+   padding-right: 6px;
+   vertical-align: middle;
+}
+
+.tweet-btn:before {
+   content: "\f099";
+}

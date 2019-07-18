@@ -1,4 +1,4 @@
-# NOT IN USE
+# THIS FILE IS NOT IN USE
 
 # from twitter import *
 # import os

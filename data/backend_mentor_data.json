@@ -1,0 +1,735 @@
+{
+    "708791083623264258": {
+        "id": 708791083623264258,
+        "id_str": "708791083623264258",
+        "name": "Chris Pouliot",
+        "screen_name": "christophepoug",
+        "location": "Victoria, British Columbia",
+        "description": "Backend Developer @Certn_ | Mentor @lighthouse_labs | Mentor @learningcode | Founder @VicDjangoGirls | Contributing Member @ThePSF | He/Him",
+        "url": "https://t.co/r7tlV01wCh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/r7tlV01wCh",
+                        "expanded_url": "https://www.chrispouliot.codes",
+                        "display_url": "chrispouliot.codes",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 212,
+        "friends_count": 571,
+        "listed_count": 21,
+        "created_at": "Sat Mar 12 23:05:38 +0000 2016",
+        "favourites_count": 23448,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1813,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 17:12:18 +0000 2019",
+            "id": 1151902525873766402,
+            "id_str": "1151902525873766402",
+            "text": "RT @rice_deity: this video of the queer eye guys is literally the funniest thing to grace this planet https://t.co/uA3GFMRJeI",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rice_deity",
+                        "name": "rice",
+                        "id": 213126554,
+                        "id_str": "213126554",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1151301807802654720,
+                        "id_str": "1151301807802654720",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                        "url": "https://t.co/uA3GFMRJeI",
+                        "display_url": "pic.twitter.com/uA3GFMRJeI",
+                        "expanded_url": "https://twitter.com/rice_deity/status/1151302119913398273/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1151302119913398273,
+                        "source_status_id_str": "1151302119913398273",
+                        "source_user_id": 213126554,
+                        "source_user_id_str": "213126554"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1151301807802654720,
+                        "id_str": "1151301807802654720",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                        "url": "https://t.co/uA3GFMRJeI",
+                        "display_url": "pic.twitter.com/uA3GFMRJeI",
+                        "expanded_url": "https://twitter.com/rice_deity/status/1151302119913398273/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1151302119913398273,
+                        "source_status_id_str": "1151302119913398273",
+                        "source_user_id": 213126554,
+                        "source_user_id_str": "213126554",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 58267,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/480x270/5qj9lXuZPqBBaT8S.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/1280x720/9s_9lGrWCWpa6Ut_.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/640x360/bexpcrvofyy7yW7B.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/pl/vMT8s453atEQZOxg.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 01:26:30 +0000 2019",
+                "id": 1151302119913398273,
+                "id_str": "1151302119913398273",
+                "text": "this video of the queer eye guys is literally the funniest thing to grace this planet https://t.co/uA3GFMRJeI",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1151301807802654720,
+                            "id_str": "1151301807802654720",
+                            "indices": [
+                                86,
+                                109
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                            "url": "https://t.co/uA3GFMRJeI",
+                            "display_url": "pic.twitter.com/uA3GFMRJeI",
+                            "expanded_url": "https://twitter.com/rice_deity/status/1151302119913398273/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1151301807802654720,
+                            "id_str": "1151301807802654720",
+                            "indices": [
+                                86,
+                                109
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151301807802654720/pu/img/pUA7DUcI53AuNbO2.jpg",
+                            "url": "https://t.co/uA3GFMRJeI",
+                            "display_url": "pic.twitter.com/uA3GFMRJeI",
+                            "expanded_url": "https://twitter.com/rice_deity/status/1151302119913398273/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 58267,
+                                "variants": [
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/480x270/5qj9lXuZPqBBaT8S.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/1280x720/9s_9lGrWCWpa6Ut_.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/vid/640x360/bexpcrvofyy7yW7B.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1151301807802654720/pu/pl/vMT8s453atEQZOxg.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 722,
+                "favorite_count": 2615,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 722,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980539302609240064/B8fkDOc4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980539302609240064/B8fkDOc4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708791083623264258/1485913882",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "90321439": {
+        "id": 90321439,
+        "id_str": "90321439",
+        "name": "Rafa\u0142 Pocztarski",
+        "screen_name": "pocztarski",
+        "location": "Warsaw, Poland",
+        "description": "\u2b50\ufe0f Senior Node.js Dev, Deno enthusiast, Backend JS and TypeScript fan, writer, speaker, mentor, teacher, obsessed with programming since the early childhood.",
+        "url": "https://t.co/G7NjFRhOi6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/G7NjFRhOi6",
+                        "expanded_url": "https://pocztarski.com/",
+                        "display_url": "pocztarski.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 989,
+        "friends_count": 1596,
+        "listed_count": 206,
+        "created_at": "Mon Nov 16 04:13:49 +0000 2009",
+        "favourites_count": 6551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5214,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jun 30 10:26:44 +0000 2019",
+            "id": 1145277481697599489,
+            "id_str": "1145277481697599489",
+            "text": "RT @helen_agile: Serious software engineers does not take any commercial work for rates below $450 / hour and contracts at least 12 months\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "helen_agile",
+                        "name": "HelenAgile",
+                        "id": 1105919048347471873,
+                        "id_str": "1105919048347471873",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Jun 29 17:26:53 +0000 2019",
+                "id": 1145020828721057792,
+                "id_str": "1145020828721057792",
+                "text": "Serious software engineers does not take any commercial work for rates below $450 / hour and contracts at least 12\u2026 https://t.co/Oi07NKkQQS",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Oi07NKkQQS",
+                            "expanded_url": "https://twitter.com/i/web/status/1145020828721057792",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1145006228348657664,
+                "quoted_status_id_str": "1145006228348657664",
+                "retweet_count": 6,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1145006228348657664,
+            "quoted_status_id_str": "1145006228348657664",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/674625466846871552/PgjuJw76_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/674625466846871552/PgjuJw76_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90321439/1453118596",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "46473071": {
+        "id": 46473071,
+        "id_str": "46473071",
+        "name": "Marton Kodok",
+        "screen_name": "MartonKodok",
+        "location": "Transylvania",
+        "description": "Backend engineer, team leader, Google Developer expert in scalability, APIs, BigData, mentor, consultant.",
+        "url": "http://t.co/BnIJ4KmDSj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/BnIJ4KmDSj",
+                        "expanded_url": "http://www.kodokmarton.eu",
+                        "display_url": "kodokmarton.eu",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 436,
+        "friends_count": 206,
+        "listed_count": 32,
+        "created_at": "Thu Jun 11 19:51:07 +0000 2009",
+        "favourites_count": 526,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8894,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 10 05:43:30 +0000 2019",
+            "id": 1148830082053693440,
+            "id_str": "1148830082053693440",
+            "text": "@techgirlmagic We do, but we need payment upfront as according to closed freelancer database, you seam to not honor\u2026 https://t.co/cEkqTJc5gm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "techgirlmagic",
+                        "name": "Alona King \ud83d\udc69\ud83c\udffe\u200d\ud83d\udcbb",
+                        "id": 3237229892,
+                        "id_str": "3237229892",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/cEkqTJc5gm",
+                        "expanded_url": "https://twitter.com/i/web/status/1148830082053693440",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1082789353447817216,
+            "in_reply_to_status_id_str": "1082789353447817216",
+            "in_reply_to_user_id": 3237229892,
+            "in_reply_to_user_id_str": "3237229892",
+            "in_reply_to_screen_name": "techgirlmagic",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559376288536752129/Oep0ghM2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559376288536752129/Oep0ghM2_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46473071/1469001035",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "15148309": {
+        "id": 15148309,
+        "id_str": "15148309",
+        "name": "Guilherme Ferreira",
+        "screen_name": "Guilh_rm_",
+        "location": "Palmas - TO",
+        "description": "Dev [Backend|Mobile],\nMembro ativo na comunidade Startup Tocantins,\n[Organizador|Mentor] #swpalmas #swaux,\nOrganizador do 1\u00aa Startup Weekend AGROTECH do TO",
+        "url": "https://t.co/f5tPGBdI74",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/f5tPGBdI74",
+                        "expanded_url": "https://about.me/guilherme-ferreira",
+                        "display_url": "about.me/guilherme-ferr\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 933,
+        "friends_count": 797,
+        "listed_count": 24,
+        "created_at": "Tue Jun 17 17:52:40 +0000 2008",
+        "favourites_count": 11174,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33424,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 14:33:29 +0000 2019",
+            "id": 1151862557965262849,
+            "id_str": "1151862557965262849",
+            "text": "@aiquepreguisss1 @dalino g\u00eanio",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "aiquepreguisss1",
+                        "name": "aj\u00e1, uj\u00fa, el fatchin es nuestro",
+                        "id": 1079461625818767361,
+                        "id_str": "1079461625818767361",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "dalino",
+                        "name": "dalino",
+                        "id": 39597828,
+                        "id_str": "39597828",
+                        "indices": [
+                            17,
+                            24
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1151860343393718272,
+            "in_reply_to_status_id_str": "1151860343393718272",
+            "in_reply_to_user_id": 1079461625818767361,
+            "in_reply_to_user_id_str": "1079461625818767361",
+            "in_reply_to_screen_name": "aiquepreguisss1",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "pt"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EFF5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134185738755629056/ve-XMgsu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134185738755629056/ve-XMgsu_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15148309/1350619922",
+        "profile_link_color": "5E1D1E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D3CEC5",
+        "profile_text_color": "263236",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    }
+}
