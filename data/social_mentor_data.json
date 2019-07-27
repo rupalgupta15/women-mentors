@@ -1,0 +1,481 @@
+{
+    "842343398375870465": {
+        "id": 842343398375870465,
+        "id_str": "842343398375870465",
+        "name": "Troy L\u00e9Lamar \ud83c\udf6b",
+        "screen_name": "UrbanPrinceT",
+        "location": "United States",
+        "description": "I have the simplest taste, I am always satisfied with best.\u2728 VSU TLP Mentor| Future Social Worker\ud83d\udcdd| VSU School of Humanities & Social Science",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 979,
+        "friends_count": 1150,
+        "listed_count": 2,
+        "created_at": "Thu Mar 16 11:54:50 +0000 2017",
+        "favourites_count": 15414,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3345,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jul 14 03:03:28 +0000 2019",
+            "id": 1150239358752055296,
+            "id_str": "1150239358752055296",
+            "text": "I love you so much, Marcus! Even watching you take one of your last breaths doesn\u2019t make this real! I\u2019m hurt! Thank\u2026 https://t.co/VIEFVoVqxT",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/VIEFVoVqxT",
+                        "expanded_url": "https://twitter.com/i/web/status/1150239358752055296",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 9,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145553131020984320/eP_6Y6GG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145553131020984320/eP_6Y6GG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842343398375870465/1519264877",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "356321768": {
+        "id": 356321768,
+        "id_str": "356321768",
+        "name": "Dr. Tracy Wharton",
+        "screen_name": "trcharisse",
+        "location": "Orlando, FL USA",
+        "description": "Health science researcher, social worker, evaluator, disaster responder, mentor, horse lover, fire builder, travel fiend, army brat. These are personal tweets.",
+        "url": "https://t.co/d1U0Xe75Nh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/d1U0Xe75Nh",
+                        "expanded_url": "https://sites.google.com/view/tracywharton/",
+                        "display_url": "sites.google.com/view/tracywhar\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 499,
+        "friends_count": 647,
+        "listed_count": 47,
+        "created_at": "Tue Aug 16 17:41:00 +0000 2011",
+        "favourites_count": 4779,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7175,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 15:03:23 +0000 2019",
+            "id": 1151870084849311744,
+            "id_str": "1151870084849311744",
+            "text": "Survey: High costs lead to skipped or postponed health care | MDedge Rheumatology https://t.co/LWwTqBQiPx",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/LWwTqBQiPx",
+                        "expanded_url": "https://www.mdedge.com/internalmedicine/article/200708/business-medicine/survey-high-costs-lead-skipped-or-postponed-health",
+                        "display_url": "mdedge.com/internalmedici\u2026",
+                        "indices": [
+                            82,
+                            105
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095555258086871040/yQ_FZQlH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095555258086871040/yQ_FZQlH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/356321768/1538068542",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "392449579": {
+        "id": 392449579,
+        "id_str": "392449579",
+        "name": "Prof. M",
+        "screen_name": "MagdinStoica",
+        "location": "Ontario, Canada",
+        "description": "Teacher, engineer, mentor, father and husband. Education, technology, software engineering, science, politics, social responsibility. Tweets & views are my own.",
+        "url": "http://t.co/TCVnxwCb55",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/TCVnxwCb55",
+                        "expanded_url": "http://ca.linkedin.com/in/magdins",
+                        "display_url": "ca.linkedin.com/in/magdins",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 327,
+        "friends_count": 256,
+        "listed_count": 47,
+        "created_at": "Mon Oct 17 02:03:16 +0000 2011",
+        "favourites_count": 1656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5040,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Jul 13 22:33:31 +0000 2019",
+            "id": 1150171426021883906,
+            "id_str": "1150171426021883906",
+            "text": "Walmart has added virtual reality to its assessment of an employee\u2019s potential  https://t.co/Zcmp0D7dRY",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Zcmp0D7dRY",
+                        "expanded_url": "https://www.washingtonpost.com/technology/2019/07/12/walmarts-latest-tool-assessing-whether-employees-deserve-promotion-virtual-reality/",
+                        "display_url": "washingtonpost.com/technology/201\u2026",
+                        "indices": [
+                            80,
+                            103
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/932422462402453504/B6BdcDJX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932422462402453504/B6BdcDJX_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "2851094060": {
+        "id": 2851094060,
+        "id_str": "2851094060",
+        "name": "Olfa Nasraoui",
+        "screen_name": "OlfaNasraoui",
+        "location": "Louisville, KY",
+        "description": "Professor, endowed Chair, Director of Knowledge Discovery & Web Mining Lab @ University of Louisville; Mentor-2015'Data Science for Social Good, Univ of Chicago",
+        "url": "https://t.co/4BBWOiEmI0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4BBWOiEmI0",
+                        "expanded_url": "https://www.researchgate.net/profile/Olfa_Nasraoui",
+                        "display_url": "researchgate.net/profile/Olfa_N\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 620,
+        "listed_count": 12,
+        "created_at": "Fri Oct 10 20:22:47 +0000 2014",
+        "favourites_count": 221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 171,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Apr 27 15:37:03 +0000 2019",
+            "id": 1122162753513435136,
+            "id_str": "1122162753513435136",
+            "text": "RT @DarnellCEO: LeBron James I Promise School is Crushing Expectations, Huge Gains In Test Scores https://t.co/4rKAp3m2B1 @IPROMISESchool @\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DarnellCEO",
+                        "name": "Darnell Lockett",
+                        "id": 168744961,
+                        "id_str": "168744961",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "IPROMISESchool",
+                        "name": "I PROMISE School",
+                        "id": 1019672184929902592,
+                        "id_str": "1019672184929902592",
+                        "indices": [
+                            122,
+                            137
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4rKAp3m2B1",
+                        "expanded_url": "https://www.tmz.com/2019/04/12/lebron-james-school-students-test-scores/",
+                        "display_url": "tmz.com/2019/04/12/leb\u2026",
+                        "indices": [
+                            98,
+                            121
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Apr 21 01:36:32 +0000 2019",
+                "id": 1119776901227266050,
+                "id_str": "1119776901227266050",
+                "text": "LeBron James I Promise School is Crushing Expectations, Huge Gains In Test Scores https://t.co/4rKAp3m2B1 @IPROMISESchool @KingJames",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "IPROMISESchool",
+                            "name": "I PROMISE School",
+                            "id": 1019672184929902592,
+                            "id_str": "1019672184929902592",
+                            "indices": [
+                                106,
+                                121
+                            ]
+                        },
+                        {
+                            "screen_name": "KingJames",
+                            "name": "LeBron James",
+                            "id": 23083404,
+                            "id_str": "23083404",
+                            "indices": [
+                                122,
+                                132
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/4rKAp3m2B1",
+                            "expanded_url": "https://www.tmz.com/2019/04/12/lebron-james-school-students-test-scores/",
+                            "display_url": "tmz.com/2019/04/12/leb\u2026",
+                            "indices": [
+                                82,
+                                105
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570807255583305728/SFA7ygQM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570807255583305728/SFA7ygQM_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    }
+}

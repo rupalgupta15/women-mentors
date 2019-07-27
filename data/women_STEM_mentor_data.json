@@ -1,0 +1,1800 @@
+{
+    "2205611863": {
+        "id": 2205611863,
+        "id_str": "2205611863",
+        "name": "Million Women Mentors",
+        "screen_name": "MillionWMentors",
+        "location": "National ",
+        "description": "A national movement to engage girls & women in #STEM careers through #mentoring with 1M+ mentor relationships & 2M+ pledges to mentor since 2014. #MWMentors",
+        "url": "https://t.co/6z0lxyZxPU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6z0lxyZxPU",
+                        "expanded_url": "http://www.MillionWomenMentors.com",
+                        "display_url": "MillionWomenMentors.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6869,
+        "friends_count": 1515,
+        "listed_count": 191,
+        "created_at": "Wed Nov 20 21:11:31 +0000 2013",
+        "favourites_count": 2871,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3997,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Jul 19 00:19:06 +0000 2019",
+            "id": 1152009933044375552,
+            "id_str": "1152009933044375552",
+            "text": "RT @Mashea: In 2018, over 72,000 students sat for the AP Computer Science Principles exam. Fewer than 23,000 were female. \n\nEarly access to\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Mashea",
+                        "name": "Mashea M Ashton",
+                        "id": 25599958,
+                        "id_str": "25599958",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Jul 16 17:50:02 +0000 2019",
+                "id": 1151187249024983043,
+                "id_str": "1151187249024983043",
+                "text": "In 2018, over 72,000 students sat for the AP Computer Science Principles exam. Fewer than 23,000 were female. \n\nEar\u2026 https://t.co/TuZMW5BO9L",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TuZMW5BO9L",
+                            "expanded_url": "https://twitter.com/i/web/status/1151187249024983043",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 5,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960970149770735616/S5lvMTE5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960970149770735616/S5lvMTE5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2205611863/1518026793",
+        "profile_link_color": "E00B7D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "835147727948361728": {
+        "id": 835147727948361728,
+        "id_str": "835147727948361728",
+        "name": "Women In STEM Brainiacs",
+        "screen_name": "WinStemBrainiac",
+        "location": "Nigeria",
+        "description": "A platform to connect #WomeninSTEM, #Mentor #girlsinSTEM & help career women in #STEM. Contact @aeeshaar_a National Coordinator Brainiacs WinSTEM.\n#Nigeria.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4505,
+        "friends_count": 765,
+        "listed_count": 56,
+        "created_at": "Fri Feb 24 15:21:49 +0000 2017",
+        "favourites_count": 101,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19424,
+        "lang": null,
+        "status": {
+            "created_at": "Sat May 18 11:02:53 +0000 2019",
+            "id": 1129703900586610689,
+            "id_str": "1129703900586610689",
+            "text": "RT @raubezaman: @DrIsaPantami @aminugamawa @DrSamboMagaji @makifa_network @dihubkano @KirkiraHub @bsapphireng_ @gearhub_ng @WinStemBrainiac\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "raubezaman",
+                        "name": "Techgalshub",
+                        "id": 1050002754138238979,
+                        "id_str": "1050002754138238979",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "DrIsaPantami",
+                        "name": "Isa Ali Pantami, PhD",
+                        "id": 2748555327,
+                        "id_str": "2748555327",
+                        "indices": [
+                            16,
+                            29
+                        ]
+                    },
+                    {
+                        "screen_name": "aminugamawa",
+                        "name": "Dr. Aminu Gamawa",
+                        "id": 69021389,
+                        "id_str": "69021389",
+                        "indices": [
+                            30,
+                            42
+                        ]
+                    },
+                    {
+                        "screen_name": "DrSamboMagaji",
+                        "name": "Amina Sambo-Magaji",
+                        "id": 217418323,
+                        "id_str": "217418323",
+                        "indices": [
+                            43,
+                            57
+                        ]
+                    },
+                    {
+                        "screen_name": "makifa_network",
+                        "name": "MAKIFA Network",
+                        "id": 973176782882004992,
+                        "id_str": "973176782882004992",
+                        "indices": [
+                            58,
+                            73
+                        ]
+                    },
+                    {
+                        "screen_name": "dihubkano",
+                        "name": "DiceBox Innovation Hub (DI-Hub)",
+                        "id": 947274622734651392,
+                        "id_str": "947274622734651392",
+                        "indices": [
+                            74,
+                            84
+                        ]
+                    },
+                    {
+                        "screen_name": "KirkiraHub",
+                        "name": "Kirkira Hub",
+                        "id": 860867967365656576,
+                        "id_str": "860867967365656576",
+                        "indices": [
+                            85,
+                            96
+                        ]
+                    },
+                    {
+                        "screen_name": "bsapphireng_",
+                        "name": "Blue Sapphire Hub",
+                        "id": 3019558789,
+                        "id_str": "3019558789",
+                        "indices": [
+                            97,
+                            110
+                        ]
+                    },
+                    {
+                        "screen_name": "gearhub_ng",
+                        "name": "GearHub",
+                        "id": 1024761280060645385,
+                        "id_str": "1024761280060645385",
+                        "indices": [
+                            111,
+                            122
+                        ]
+                    },
+                    {
+                        "screen_name": "WinStemBrainiac",
+                        "name": "Women In STEM Brainiacs",
+                        "id": 835147727948361728,
+                        "id_str": "835147727948361728",
+                        "indices": [
+                            123,
+                            139
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon May 06 10:39:02 +0000 2019",
+                "id": 1125349243055759360,
+                "id_str": "1125349243055759360",
+                "text": "@DrIsaPantami @aminugamawa @DrSamboMagaji @makifa_network @dihubkano @KirkiraHub @bsapphireng_ @gearhub_ng\u2026 https://t.co/8MN82BqtLu",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "DrIsaPantami",
+                            "name": "Isa Ali Pantami, PhD",
+                            "id": 2748555327,
+                            "id_str": "2748555327",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "aminugamawa",
+                            "name": "Dr. Aminu Gamawa",
+                            "id": 69021389,
+                            "id_str": "69021389",
+                            "indices": [
+                                14,
+                                26
+                            ]
+                        },
+                        {
+                            "screen_name": "DrSamboMagaji",
+                            "name": "Amina Sambo-Magaji",
+                            "id": 217418323,
+                            "id_str": "217418323",
+                            "indices": [
+                                27,
+                                41
+                            ]
+                        },
+                        {
+                            "screen_name": "makifa_network",
+                            "name": "MAKIFA Network",
+                            "id": 973176782882004992,
+                            "id_str": "973176782882004992",
+                            "indices": [
+                                42,
+                                57
+                            ]
+                        },
+                        {
+                            "screen_name": "dihubkano",
+                            "name": "DiceBox Innovation Hub (DI-Hub)",
+                            "id": 947274622734651392,
+                            "id_str": "947274622734651392",
+                            "indices": [
+                                58,
+                                68
+                            ]
+                        },
+                        {
+                            "screen_name": "KirkiraHub",
+                            "name": "Kirkira Hub",
+                            "id": 860867967365656576,
+                            "id_str": "860867967365656576",
+                            "indices": [
+                                69,
+                                80
+                            ]
+                        },
+                        {
+                            "screen_name": "bsapphireng_",
+                            "name": "Blue Sapphire Hub",
+                            "id": 3019558789,
+                            "id_str": "3019558789",
+                            "indices": [
+                                81,
+                                94
+                            ]
+                        },
+                        {
+                            "screen_name": "gearhub_ng",
+                            "name": "GearHub",
+                            "id": 1024761280060645385,
+                            "id_str": "1024761280060645385",
+                            "indices": [
+                                95,
+                                106
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/8MN82BqtLu",
+                            "expanded_url": "https://twitter.com/i/web/status/1125349243055759360",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                108,
+                                131
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 2748555327,
+                "in_reply_to_user_id_str": "2748555327",
+                "in_reply_to_screen_name": "DrIsaPantami",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1125333981162029056,
+                "quoted_status_id_str": "1125333981162029056",
+                "retweet_count": 4,
+                "favorite_count": 6,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "und"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1125333981162029056,
+            "quoted_status_id_str": "1125333981162029056",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/835583635306729472/PPatYiF5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/835583635306729472/PPatYiF5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835147727948361728/1496308750",
+        "profile_link_color": "A74174",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "2818058868": {
+        "id": 2818058868,
+        "id_str": "2818058868",
+        "name": "Kristen Reyher",
+        "screen_name": "Reyher_UofBVet",
+        "location": "University of Bristol, UK",
+        "description": "Reader in Veterinary Epidemiology and Population Health, AMR & communication researcher, women in STEM mentor, lover of ice cream & doughnuts. All views my own.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1062,
+        "friends_count": 298,
+        "listed_count": 34,
+        "created_at": "Thu Sep 18 22:13:45 +0000 2014",
+        "favourites_count": 6942,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7177,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 22:19:06 +0000 2019",
+            "id": 1151979734567477249,
+            "id_str": "1151979734567477249",
+            "text": "RT @HelenSLambert: Great opportunity with brilliant @MutantBug lab team to join @Bristol_AMR - best multidisciplinary AMR research network\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HelenSLambert",
+                        "name": "Helen Lambert",
+                        "id": 3834070060,
+                        "id_str": "3834070060",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "MutantBug",
+                        "name": "Matthew Avison",
+                        "id": 257095126,
+                        "id_str": "257095126",
+                        "indices": [
+                            52,
+                            62
+                        ]
+                    },
+                    {
+                        "screen_name": "Bristol_AMR",
+                        "name": "Bristol AMR",
+                        "id": 4440626183,
+                        "id_str": "4440626183",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jul 18 19:03:59 +0000 2019",
+                "id": 1151930632534204416,
+                "id_str": "1151930632534204416",
+                "text": "Great opportunity with brilliant @MutantBug lab team to join @Bristol_AMR - best multidisciplinary AMR research net\u2026 https://t.co/TGTicbdu3t",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "MutantBug",
+                            "name": "Matthew Avison",
+                            "id": 257095126,
+                            "id_str": "257095126",
+                            "indices": [
+                                33,
+                                43
+                            ]
+                        },
+                        {
+                            "screen_name": "Bristol_AMR",
+                            "name": "Bristol AMR",
+                            "id": 4440626183,
+                            "id_str": "4440626183",
+                            "indices": [
+                                61,
+                                73
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TGTicbdu3t",
+                            "expanded_url": "https://twitter.com/i/web/status/1151930632534204416",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1149293714352812032,
+                "quoted_status_id_str": "1149293714352812032",
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1149293714352812032,
+            "quoted_status_id_str": "1149293714352812032",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516701389540454400/ErLIQctd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/516701389540454400/ErLIQctd_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "1008463588510429184": {
+        "id": 1008463588510429184,
+        "id_str": "1008463588510429184",
+        "name": "Bushra Anjum, Ph.D.",
+        "screen_name": "DrBushraAnjum",
+        "location": "Northern California",
+        "description": "ACM Ubiquity Editor | Sr. Software Engineer | Health IT Data Specialist | Tribune Top20Under40 | Women in STEM Advocate, Mentor & Speaker",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 206,
+        "friends_count": 122,
+        "listed_count": 6,
+        "created_at": "Sun Jun 17 21:37:10 +0000 2018",
+        "favourites_count": 48,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 190,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 20:47:42 +0000 2019",
+            "id": 1151594348322050048,
+            "id_str": "1151594348322050048",
+            "text": "Friends, I will be speaking at the #RichardTapiaConference (San Diego, CA) on September 20th and then at the @ghc (\u2026 https://t.co/Wy6xipx8r1",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "RichardTapiaConference",
+                        "indices": [
+                            35,
+                            58
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ghc",
+                        "name": "Grace Hopper (GHC)",
+                        "id": 6820932,
+                        "id_str": "6820932",
+                        "indices": [
+                            109,
+                            113
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Wy6xipx8r1",
+                        "expanded_url": "https://twitter.com/i/web/status/1151594348322050048",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 20,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010002585389031425/Vhv2eiJ-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010002585389031425/Vhv2eiJ-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008463588510429184/1549586493",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "2743235982": {
+        "id": 2743235982,
+        "id_str": "2743235982",
+        "name": "Visiola Foundation",
+        "screen_name": "Visiola_Fdn",
+        "location": "",
+        "description": "We mentor and educate academically bright but disadvantaged African girls and young women in the #STEM fields.",
+        "url": "http://t.co/kKIJ8Q1Xth",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/kKIJ8Q1Xth",
+                        "expanded_url": "http://www.visiolafoundation.org",
+                        "display_url": "visiolafoundation.org",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1755,
+        "friends_count": 285,
+        "listed_count": 82,
+        "created_at": "Mon Aug 18 22:37:08 +0000 2014",
+        "favourites_count": 607,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3168,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 16:05:27 +0000 2019",
+            "id": 1151523314420072448,
+            "id_str": "1151523314420072448",
+            "text": "RT @LDAraba: Week Two of #VisiolaCodingBootCamp for girls. I am excited to keep engaging with these young women. I can\u2019t wait to see what e\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "VisiolaCodingBootCamp",
+                        "indices": [
+                            25,
+                            47
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LDAraba",
+                        "name": "Lade Araba",
+                        "id": 1269533798,
+                        "id_str": "1269533798",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jul 17 13:43:39 +0000 2019",
+                "id": 1151487632247087105,
+                "id_str": "1151487632247087105",
+                "text": "Week Two of #VisiolaCodingBootCamp for girls. I am excited to keep engaging with these young women. I can\u2019t wait to\u2026 https://t.co/S4A1PcRqkA",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "VisiolaCodingBootCamp",
+                            "indices": [
+                                12,
+                                34
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/S4A1PcRqkA",
+                            "expanded_url": "https://twitter.com/i/web/status/1151487632247087105",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 5,
+                "favorite_count": 10,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748777476457832449/B0n2F2-W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748777476457832449/B0n2F2-W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2743235982/1504596856",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "379345755": {
+        "id": 379345755,
+        "id_str": "379345755",
+        "name": "FabFems",
+        "screen_name": "FabFems",
+        "location": "United States",
+        "description": "FabFems are women from a broad range of professions in science, technology, engineering and mathematics (STEM). Sign up below to become a mentor!",
+        "url": "http://t.co/uuir6rLBg7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/uuir6rLBg7",
+                        "expanded_url": "http://www.fabfems.org",
+                        "display_url": "fabfems.org",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1535,
+        "friends_count": 652,
+        "listed_count": 65,
+        "created_at": "Sat Sep 24 20:03:10 +0000 2011",
+        "favourites_count": 594,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2138,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 22:55:08 +0000 2019",
+            "id": 1151988805966000129,
+            "id_str": "1151988805966000129",
+            "text": "Angry Birds 2: Empowering girls to pursue #STEM. https://t.co/FJPVzyJYub #IfSheCanSeeItSheCanBeIt https://t.co/RX9X42wh0t",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "STEM",
+                        "indices": [
+                            42,
+                            47
+                        ]
+                    },
+                    {
+                        "text": "IfSheCanSeeItSheCanBeIt",
+                        "indices": [
+                            73,
+                            97
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/FJPVzyJYub",
+                        "expanded_url": "http://ow.ly/DmCd30p9IVI",
+                        "display_url": "ow.ly/DmCd30p9IVI",
+                        "indices": [
+                            49,
+                            72
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1151988802598006785,
+                        "id_str": "1151988802598006785",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D_yvtmQU8AEMlKQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_yvtmQU8AEMlKQ.jpg",
+                        "url": "https://t.co/RX9X42wh0t",
+                        "display_url": "pic.twitter.com/RX9X42wh0t",
+                        "expanded_url": "https://twitter.com/FabFems/status/1151988805966000129/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 700,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1664,
+                                "h": 970,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1151988802598006785,
+                        "id_str": "1151988802598006785",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D_yvtmQU8AEMlKQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_yvtmQU8AEMlKQ.jpg",
+                        "url": "https://t.co/RX9X42wh0t",
+                        "display_url": "pic.twitter.com/RX9X42wh0t",
+                        "expanded_url": "https://twitter.com/FabFems/status/1151988805966000129/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 700,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1664,
+                                "h": 970,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 396,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CCB2F0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/514480832153546752/mv7hp-B1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/514480832153546752/mv7hp-B1_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/379345755/1532379770",
+        "profile_link_color": "470B8C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "3555661694": {
+        "id": 3555661694,
+        "id_str": "3555661694",
+        "name": "Hendratta Ali",
+        "screen_name": "HendrattaAli",
+        "location": "Tabeken",
+        "description": "Multi-Award Winning | Geologist interested in petroleum, water & environment (G\u00e9ologue Polyvalente) | Author | STEM advocate &  mentor | Chair @SEG_Women",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 507,
+        "friends_count": 395,
+        "listed_count": 12,
+        "created_at": "Mon Sep 14 02:42:13 +0000 2015",
+        "favourites_count": 4839,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1517,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 23:33:07 +0000 2019",
+            "id": 1151635977233981440,
+            "id_str": "1151635977233981440",
+            "text": "@ESSprunt Congratulations making the top 10.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ESSprunt",
+                        "name": "Eve Sprunt",
+                        "id": 755120013267247104,
+                        "id_str": "755120013267247104",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151605635743543296,
+            "in_reply_to_status_id_str": "1151605635743543296",
+            "in_reply_to_user_id": 755120013267247104,
+            "in_reply_to_user_id_str": "755120013267247104",
+            "in_reply_to_screen_name": "ESSprunt",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1071573321664221184/fv0aZOFY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071573321664221184/fv0aZOFY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3555661694/1530030285",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "989111689": {
+        "id": 989111689,
+        "id_str": "989111689",
+        "name": "Deirdre Smith",
+        "screen_name": "DeirdreSmithGPC",
+        "location": "Dublin",
+        "description": "Tech Entrepreneur, Mentor, Advisor, Director; Focused on Lean, Innovation, Talent & Boards; Interested in all things Women,  STEM & Rugby! Oh and the Planet...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 845,
+        "friends_count": 1090,
+        "listed_count": 55,
+        "created_at": "Tue Dec 04 16:31:58 +0000 2012",
+        "favourites_count": 2064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2163,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Jul 08 21:20:29 +0000 2019",
+            "id": 1148341106222018560,
+            "id_str": "1148341106222018560",
+            "text": "In recovery after great @ForeverYoung_ie Festival. Mega overdose of nostalgia &amp; great 80s music. Hangover seems muc\u2026 https://t.co/yIkvJk6KTs",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ForeverYoung_ie",
+                        "name": "Forever Young Festival",
+                        "id": 1059720970695520257,
+                        "id_str": "1059720970695520257",
+                        "indices": [
+                            24,
+                            40
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/yIkvJk6KTs",
+                        "expanded_url": "https://twitter.com/i/web/status/1148341106222018560",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446667434959728640/fA-eiD1A_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/446667434959728640/fA-eiD1A_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/989111689/1498026243",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "20571672": {
+        "id": 20571672,
+        "id_str": "20571672",
+        "name": "Mercedes Soria",
+        "screen_name": "MercedesSoria",
+        "location": "Mountain View, CA",
+        "description": "Fashionista and geek. EVP & Chief Intelligence Officer @iKnightscope, Inc. @TechWomen mentor. @AnitaBorg_org ABIE award winner. Women in STEM advocate",
+        "url": "https://t.co/Ri2y8R8VvY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Ri2y8R8VvY",
+                        "expanded_url": "http://www.linkedin.com/in/mercedessoria/",
+                        "display_url": "linkedin.com/in/mercedessor\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3290,
+        "friends_count": 380,
+        "listed_count": 50,
+        "created_at": "Wed Feb 11 04:43:37 +0000 2009",
+        "favourites_count": 389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1452,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Jul 13 21:42:23 +0000 2019",
+            "id": 1150158556559110144,
+            "id_str": "1150158556559110144",
+            "text": "RT @iKnightscope: The #future is so #bright that it #glows! \n\n#knightscope #securityrobot #publicsafety #lawenforcement #disruption #innova\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "future",
+                        "indices": [
+                            22,
+                            29
+                        ]
+                    },
+                    {
+                        "text": "bright",
+                        "indices": [
+                            36,
+                            43
+                        ]
+                    },
+                    {
+                        "text": "glows",
+                        "indices": [
+                            52,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "knightscope",
+                        "indices": [
+                            62,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "securityrobot",
+                        "indices": [
+                            75,
+                            89
+                        ]
+                    },
+                    {
+                        "text": "publicsafety",
+                        "indices": [
+                            90,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "lawenforcement",
+                        "indices": [
+                            104,
+                            119
+                        ]
+                    },
+                    {
+                        "text": "disruption",
+                        "indices": [
+                            120,
+                            131
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "iKnightscope",
+                        "name": "Knightscope",
+                        "id": 1478210522,
+                        "id_str": "1478210522",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Jul 13 18:37:58 +0000 2019",
+                "id": 1150112148300820481,
+                "id_str": "1150112148300820481",
+                "text": "The #future is so #bright that it #glows! \n\n#knightscope #securityrobot #publicsafety #lawenforcement #disruption\u2026 https://t.co/GLEvITU5Vs",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "future",
+                            "indices": [
+                                4,
+                                11
+                            ]
+                        },
+                        {
+                            "text": "bright",
+                            "indices": [
+                                18,
+                                25
+                            ]
+                        },
+                        {
+                            "text": "glows",
+                            "indices": [
+                                34,
+                                40
+                            ]
+                        },
+                        {
+                            "text": "knightscope",
+                            "indices": [
+                                44,
+                                56
+                            ]
+                        },
+                        {
+                            "text": "securityrobot",
+                            "indices": [
+                                57,
+                                71
+                            ]
+                        },
+                        {
+                            "text": "publicsafety",
+                            "indices": [
+                                72,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "lawenforcement",
+                            "indices": [
+                                86,
+                                101
+                            ]
+                        },
+                        {
+                            "text": "disruption",
+                            "indices": [
+                                102,
+                                113
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/GLEvITU5Vs",
+                            "expanded_url": "https://twitter.com/i/web/status/1150112148300820481",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 13,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C4543D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1062679961809629184/dTt5HHdl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062679961809629184/dTt5HHdl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20571672/1514689597",
+        "profile_link_color": "C4543D",
+        "profile_sidebar_border_color": "6E231A",
+        "profile_sidebar_fill_color": "6E231A",
+        "profile_text_color": "FCF9FC",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "438422892": {
+        "id": 438422892,
+        "id_str": "438422892",
+        "name": "Julia Elvidge",
+        "screen_name": "Julia_Elvidge",
+        "location": "Ottawa, Canada",
+        "description": "Technology business follower, past President of Chipworks, still learning how to be retired.  Educated in Engineering, Mentor, Advocate for more women in STEM.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 276,
+        "friends_count": 232,
+        "listed_count": 7,
+        "created_at": "Fri Dec 16 15:32:16 +0000 2011",
+        "favourites_count": 155,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 389,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Jun 11 22:00:54 +0000 2019",
+            "id": 1138566803028938752,
+            "id_str": "1138566803028938752",
+            "text": "Congratulations Joe and all of the Cybernetiq team. @CLAWCybernetIQ https://t.co/3XzdpIypZG",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CLAWCybernetIQ",
+                        "name": "CybernetIQ",
+                        "id": 747767960077500416,
+                        "id_str": "747767960077500416",
+                        "indices": [
+                            52,
+                            67
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3XzdpIypZG",
+                        "expanded_url": "https://twitter.com/techopiaOTT/status/1138565731585409024",
+                        "display_url": "twitter.com/techopiaOTT/st\u2026",
+                        "indices": [
+                            68,
+                            91
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1138565731585409024,
+            "quoted_status_id_str": "1138565731585409024",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1937543748/Juliachipworkslogo_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1937543748/Juliachipworkslogo_normal.gif",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "104628777": {
+        "id": 104628777,
+        "id_str": "104628777",
+        "name": "MentorNet, a division of Great Minds in STEM",
+        "screen_name": "MentorNetTweet",
+        "location": "Los Angeles, CA",
+        "description": "Through mentoring, we support students pursuing STEM, especially women, under-represented minorities, & first-gen to college. A division of @GreatMindsSTEM.",
+        "url": "https://t.co/EUU8ToCoFV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/EUU8ToCoFV",
+                        "expanded_url": "http://www.mentornet.org/",
+                        "display_url": "mentornet.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2145,
+        "friends_count": 919,
+        "listed_count": 163,
+        "created_at": "Wed Jan 13 22:36:22 +0000 2010",
+        "favourites_count": 1769,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3023,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Feb 04 18:55:04 +0000 2019",
+            "id": 1092496780909035520,
+            "id_str": "1092496780909035520",
+            "text": "RT @ghc: Scholarship applications are open for the 2019 Lesbians Who Tech Summit (@lesbiantech). Join 6,000 queer women, trans, nonbinary,\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ghc",
+                        "name": "Grace Hopper (GHC)",
+                        "id": 6820932,
+                        "id_str": "6820932",
+                        "indices": [
+                            3,
+                            7
+                        ]
+                    },
+                    {
+                        "screen_name": "lesbiantech",
+                        "name": "Lesbians Who Tech & Allies",
+                        "id": 994705358,
+                        "id_str": "994705358",
+                        "indices": [
+                            82,
+                            94
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Feb 04 17:24:01 +0000 2019",
+                "id": 1092473864079200256,
+                "id_str": "1092473864079200256",
+                "text": "Scholarship applications are open for the 2019 Lesbians Who Tech Summit (@lesbiantech). Join 6,000 queer women, tra\u2026 https://t.co/d3auMCmACH",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "lesbiantech",
+                            "name": "Lesbians Who Tech & Allies",
+                            "id": 994705358,
+                            "id_str": "994705358",
+                            "indices": [
+                                73,
+                                85
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/d3auMCmACH",
+                            "expanded_url": "https://twitter.com/i/web/status/1092473864079200256",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 13,
+                "favorite_count": 18,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/420704021200924672/qJcBruot_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/420704021200924672/qJcBruot_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104628777/1546462364",
+        "profile_link_color": "D90D80",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "152E94",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    }
+}

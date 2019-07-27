@@ -5,7 +5,25 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.5.1/vue-resource.min.js"></script>
     <script src="https://unpkg.com/vuex"></script>
     <script src="https://unpkg.com/vue-router"></script>
-    <script src="{{ url_for('static', filename='js/script1.js') }}">
+    <script src="{{ url_for('static', filename='js/script4.js') }}">
+    </script>
+    <script>
+    window.onload = function() {
+    console.log(document.getElementById('pref').value);
+          if (document.getElementById('pref').value !== "In Person"){
+             document.getElementById('locationDiv').style.display = 'none';
+          }
+    };
+
+    function FetchLocation(val){
+        var element=document.getElementById('locationDiv');
+        // console.log(element);
+        if(val=='In Person')
+         // console.log(val)
+            element.style.display='block';
+        else
+            element.style.display='none';
+    };
     </script>
 {% endblock script %}
 
@@ -64,13 +82,14 @@
                             {% endfor %}
                         </div>
                     {% else %}
-                        {{ form.preference(class="form-control") }}
+                        {{ form.preference(class="form-control", id='pref', **{"onchange":"FetchLocation(this.value);"}) }}
                     {% endif %}
                     </div>
                 </div>
+                <div id="locationDiv">
                 <div class="form-group row">
                     <label class="control-label col-sm-5">{{ form.location.label(class="form-control-label") }} </label>
-                    <div class="col-sm-7" v-model="selected">
+                    <div class="col-sm-7">
                     {% if form.location.errors %}
                         {{ form.location(class="form-control is-invalid") }}
                         <div class="invalid-feedback">
@@ -82,6 +101,7 @@
                         {{ form.location(class="form-control") }}
                     {% endif %}
                     </div>
+                </div>
                 </div>
             </fieldset>
             <div class="form-group text-center">

@@ -1,0 +1,159 @@
+.navbar {
+  background-color: #2372D0;
+  opacity: 0.9;
+ }
+
+{
+font-family: 'Lato', sans-serif;
+}
+
+.content-section {
+  background-color: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper {
+  min-height: 80%;
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+}
+#show-mentors{
+    max-width: 800px;
+    margin: 0px auto;
+}
+.single-mentor{
+    padding: 20px;
+    margin: 20px 0;
+    box-sizing: border-box;
+    background: #eee;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+.article-img {
+  height: 95px;
+  width: 95px;
+  margin-right: 16px;
+}
+
+.article-title {
+  color: #444444;
+}
+
+a.article-title:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.pagination-page-info {
+    padding: .6em;
+    padding-left: 0;
+    width: 40em;
+    margin: .5em;
+    margin-left: 0;
+    font-size: 12px;
+}
+.pagination-page-info b {
+    color: black;
+    background: #6aa6ed;
+    padding-left: 2px;
+    padding: .1em .25em;
+    font-size: 150%;
+}
+.tweet-btn:before{
+   font-family: FontAwesome;
+   display: inline-block;
+   padding-right: 6px;
+   vertical-align: middle;
+}
+
+.tweet-btn:before {
+   content: "\f099";
+}
+
+#loading {
+width: 100%;height: 100%;top: 0px;left: 0px;position: fixed;display: block; z-index: 99
+}
+
+#loading-image {
+position: absolute;top: 40%;left: 45%;z-index: 100
+}
+
+#ready {
+display: none;
+}
+
+#nodata {
+display: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+a.custom-card {
+  color: inherit;
+  text-decoration: none;
+  }
+
+a.custom-card:hover {
+ text-decoration: none;
+ }
+
+.card-div {
+  color: inherit;
+  text-decoration: none;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.card-div:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  text-decoration: none;
+  background-color: #ffd5b5;
+  opacity: 0.9;
+}
+
+.card-img-top {
+border-radius: 5px 5px 0 0;
+}

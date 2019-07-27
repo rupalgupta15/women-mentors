@@ -2,26 +2,30 @@
 
 {% block content %}
 <div class="container-fluid">
-<h2> Your Recommended Mentors:</h2>
+    <h2> Your Recommended Mentors:</h2>
     <br>
-{% for item in all_matched_mentors %}
-    <article class="media content-section">
-        <img class="rounded-circle article-img" src="{{ item['profile_pic_url'] }}">
-        <div class="media-body">
-            <div class="article-metadata">
-                <h2><a class="article-title" target='_blank' href="{{ item['twitter_profile_url'] }}">{{ item['name'] }}</a></h2>
+        {% for mentor in pagination_users %}
+        <article class="media content-section">
+            <img class="rounded-circle article-img" src="{{ mentor['profile_pic_url'] }}" onerror="this.onerror=null;this.src='/static/img/default_profile_pic.png';">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <h2><a class="article-title" target='_blank' href="{{ mentor['twitter_profile_url'] }}">{{ mentor['name'] }}</a></h2>
+                </div>
+                <p class="mr-2">{{ mentor['location']}}</p>
+                <p class="article-content"> {{ mentor['description'] }}</p>
+                {% if mentor['replies_flag'] == 'Y' %}
+                    <i>
+                    <div class="container">
+                    <p class="article-content">{{ mentor['additonal_replies'] }}
+                    <a class="article-content" target="_blank" href="{{ mentor['additonal_replies_link'] }}"> Read More </a>
+                    </p>
+                    </div>
+                    </i>
+                {% endif %}
             </div>
-            <p class="mr-2">Location: {{ item['location']}}</p>
-            <p class="article-content">Description: {{ item['description'] }}</p>
-        </div>
-    </article>
-
-
-{% endfor %}
+        </article>
+        {% endfor %}
+        {{ pagination.links }}
 
 {% endblock content%}
     </div>
-</div>
-
-<!--</body>-->
-</html>

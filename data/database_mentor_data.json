@@ -1,0 +1,1198 @@
+{
+    "537432061": {
+        "id": 537432061,
+        "id_str": "537432061",
+        "name": "Rie Irish",
+        "screen_name": "IrishSQL",
+        "location": "Atlanta, Ga",
+        "description": "Mom, Mentor, SQL Server DBA,\nFeminist Liberal, Bama Fan, Southern girl, Co-Leader PASS Women in Tech Virtual Group, Microsoft MVP",
+        "url": "https://t.co/lPzIX0OWcH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lPzIX0OWcH",
+                        "expanded_url": "http://www.riepedia.net/",
+                        "display_url": "riepedia.net",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3213,
+        "friends_count": 607,
+        "listed_count": 120,
+        "created_at": "Mon Mar 26 18:09:42 +0000 2012",
+        "favourites_count": 6656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19240,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 21:00:57 +0000 2019",
+            "id": 1151960070923673613,
+            "id_str": "1151960070923673613",
+            "text": "@NoelleLaCharite The 3rd one is not pictured. At your earliest convenience, I'll need a picture of him and their names, please.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "NoelleLaCharite",
+                        "name": "Noelle \ud83d\udc95",
+                        "id": 708155383148204032,
+                        "id_str": "708155383148204032",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151959686637244417,
+            "in_reply_to_status_id_str": "1151959686637244417",
+            "in_reply_to_user_id": 708155383148204032,
+            "in_reply_to_user_id_str": "708155383148204032",
+            "in_reply_to_screen_name": "NoelleLaCharite",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128486420723712000/rqsNL0Ag_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128486420723712000/rqsNL0Ag_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/537432061/1510061205",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "10960752": {
+        "id": 10960752,
+        "id_str": "10960752",
+        "name": "Arup Nanda",
+        "screen_name": "arupnanda",
+        "location": "Danbury, CT (USA)",
+        "description": "Award winning Oracle Database Technologist and Architect, Author, Speaker, Trainer, Mentor and Blogger (http://t.co/XLQA79RxdR) Lives in Danbury, CT (USA).",
+        "url": "http://t.co/6yC91E2XPo",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/6yC91E2XPo",
+                        "expanded_url": "http://arup.blogspot.com",
+                        "display_url": "arup.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "http://t.co/XLQA79RxdR",
+                        "expanded_url": "http://arup.blogspot.com",
+                        "display_url": "arup.blogspot.com",
+                        "indices": [
+                            104,
+                            126
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 5695,
+        "friends_count": 158,
+        "listed_count": 196,
+        "created_at": "Sat Dec 08 04:04:49 +0000 2007",
+        "favourites_count": 313,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2138,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 16:54:09 +0000 2019",
+            "id": 1151897960067862528,
+            "id_str": "1151897960067862528",
+            "text": "/cc @oraclemagazine https://t.co/iHlhLkUvWw",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "oraclemagazine",
+                        "name": "Oracle Magazine",
+                        "id": 42763598,
+                        "id_str": "42763598",
+                        "indices": [
+                            4,
+                            19
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/iHlhLkUvWw",
+                        "expanded_url": "https://twitter.com/mathewbutler/status/1149914148995850241",
+                        "display_url": "twitter.com/mathewbutler/s\u2026",
+                        "indices": [
+                            20,
+                            43
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1149914148995850241,
+            "quoted_status_id_str": "1149914148995850241",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703238202111496193/YwwRmSsR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703238202111496193/YwwRmSsR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "87691941": {
+        "id": 87691941,
+        "id_str": "87691941",
+        "name": "Gianluca Hotz",
+        "screen_name": "glhotz",
+        "location": "Italy",
+        "description": "SQL Server Mentor and Speaker, Microsoft Data Platform MVP, Vice-President https://t.co/IHYB7ySISi, Database Geek, Dad, Photography and Fitness enthusiast.",
+        "url": "http://t.co/jhtgN6fJfd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/jhtgN6fJfd",
+                        "expanded_url": "http://www.ghotz.com",
+                        "display_url": "ghotz.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IHYB7ySISi",
+                        "expanded_url": "http://ugiss.org",
+                        "display_url": "ugiss.org",
+                        "indices": [
+                            75,
+                            98
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1567,
+        "friends_count": 1229,
+        "listed_count": 110,
+        "created_at": "Thu Nov 05 13:53:28 +0000 2009",
+        "favourites_count": 4858,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2321,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Jul 15 20:47:26 +0000 2019",
+            "id": 1150869504903266305,
+            "id_str": "1150869504903266305",
+            "text": "RT @radtravis: We are hiring a ton of new engineers and maybe a PM or two for a new strategic Azure Data project we are starting.  Any leve\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "radtravis",
+                        "name": "Travis Wright",
+                        "id": 18512264,
+                        "id_str": "18512264",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Jul 15 17:48:27 +0000 2019",
+                "id": 1150824462817714176,
+                "id_str": "1150824462817714176",
+                "text": "We are hiring a ton of new engineers and maybe a PM or two for a new strategic Azure Data project we are starting.\u2026 https://t.co/aHO5lldEwJ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/aHO5lldEwJ",
+                            "expanded_url": "https://twitter.com/i/web/status/1150824462817714176",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 35,
+                "favorite_count": 40,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 35,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687336880040505344/EpR_80ao_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687336880040505344/EpR_80ao_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87691941/1544656065",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "17142440": {
+        "id": 17142440,
+        "id_str": "17142440",
+        "name": "Jim Czuprynski",
+        "screen_name": "JimTheWhyGuy",
+        "location": "Bartlett, IL",
+        "description": "Oracle ACE Director, mentor, consultant, and public speaker about all things Oracle Database, Exadata, and Cloud",
+        "url": "https://t.co/fwZ5bwFHdE",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/fwZ5bwFHdE",
+                        "expanded_url": "http://jimczuprynski.wordpress.com",
+                        "display_url": "jimczuprynski.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1454,
+        "friends_count": 334,
+        "listed_count": 60,
+        "created_at": "Mon Nov 03 22:26:18 +0000 2008",
+        "favourites_count": 2649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3595,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 22:33:34 +0000 2019",
+            "id": 1151983377131683842,
+            "id_str": "1151983377131683842",
+            "text": "She is that. And she's all ours too! Hands off, competition. \ud83e\udd23 https://t.co/2J5asfgzaV",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2J5asfgzaV",
+                        "expanded_url": "https://twitter.com/HeyAlfredoDBA/status/1151976396224454656",
+                        "display_url": "twitter.com/HeyAlfredoDBA/\u2026",
+                        "indices": [
+                            63,
+                            86
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1151976396224454656,
+            "quoted_status_id_str": "1151976396224454656",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAB81E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1056653489902768128/RmhNaADv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056653489902768128/RmhNaADv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17142440/1515085853",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "24739367": {
+        "id": 24739367,
+        "id_str": "24739367",
+        "name": "Denis Reznik",
+        "screen_name": "DenisReznik",
+        "location": "Ukraine",
+        "description": "Ukrainian Database geek and SQL community enthusiast. \nMicrosoft Data Platform MVP.\nPASS Regional Mentor, CEE.",
+        "url": "http://t.co/HC8mg8edWE",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/HC8mg8edWE",
+                        "expanded_url": "http://reznik.uneta.com.ua",
+                        "display_url": "reznik.uneta.com.ua",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 981,
+        "friends_count": 331,
+        "listed_count": 65,
+        "created_at": "Mon Mar 16 18:16:25 +0000 2009",
+        "favourites_count": 5715,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6379,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Jul 15 16:02:28 +0000 2019",
+            "id": 1150797789347143681,
+            "id_str": "1150797789347143681",
+            "text": "RT @AaronBertrand: Excited to announce the first preview of SentryOne Plan Explorer extension for Azure Data Studio!\n\nhttps://t.co/NlVHhV3j\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AaronBertrand",
+                        "name": "Aaron Bertrand",
+                        "id": 16486462,
+                        "id_str": "16486462",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jul 11 18:02:33 +0000 2019",
+                "id": 1149378458033819649,
+                "id_str": "1149378458033819649",
+                "text": "Excited to announce the first preview of SentryOne Plan Explorer extension for Azure Data Studio!\n\nhttps://t.co/NlVHhV3jtr",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/NlVHhV3jtr",
+                            "expanded_url": "https://sqlperformance.com/2019/07/sentryone/plan-explorer-extension-azure-data-studio",
+                            "display_url": "sqlperformance.com/2019/07/sentry\u2026",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 29,
+                "favorite_count": 57,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 29,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938051292433395712/mpzV4kGn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938051292433395712/mpzV4kGn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24739367/1512484042",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "15781767": {
+        "id": 15781767,
+        "id_str": "15781767",
+        "name": "Sydney Cole",
+        "screen_name": "sydneypaige",
+        "location": "Bellingham, WA",
+        "description": "web and database developer, robotics mentor, supporter of girls in STEM, farmer, gardener, mom and wife. passionate about life. working on my eccentricity.",
+        "url": "https://t.co/hVjuTGlgRN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hVjuTGlgRN",
+                        "expanded_url": "https://www.linkedin.com/in/sydneycole/",
+                        "display_url": "linkedin.com/in/sydneycole/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 587,
+        "friends_count": 587,
+        "listed_count": 27,
+        "created_at": "Fri Aug 08 19:21:45 +0000 2008",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1874,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Oct 31 15:32:27 +0000 2017",
+            "id": 925384984839385088,
+            "id_str": "925384984839385088",
+            "text": "@SpotifyCares I'm a podcast lover w/ a suggestion: if I'm using bluetooth &amp; get a phone notification can you pause so I don't miss anything?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SpotifyCares",
+                        "name": "SpotifyCares",
+                        "id": 497340309,
+                        "id_str": "497340309",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 497340309,
+            "in_reply_to_user_id_str": "497340309",
+            "in_reply_to_screen_name": "SpotifyCares",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C8EDFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421757143394418688/IIbYngeR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421757143394418688/IIbYngeR_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15781767/1369771144",
+        "profile_link_color": "1C3F2E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "46161888": {
+        "id": 46161888,
+        "id_str": "46161888",
+        "name": "TheCareerProject",
+        "screen_name": "CareerProject",
+        "location": "",
+        "description": "http://t.co/gVIOgIfn is an interactive mentor database designed to help job seekers and students on their career journeys!",
+        "url": "http://t.co/jfghAkGrvH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/jfghAkGrvH",
+                        "expanded_url": "http://TheCareerProject.org",
+                        "display_url": "TheCareerProject.org",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "http://t.co/gVIOgIfn",
+                        "expanded_url": "http://TheCareerProject.org",
+                        "display_url": "TheCareerProject.org",
+                        "indices": [
+                            0,
+                            20
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 4098,
+        "friends_count": 1537,
+        "listed_count": 104,
+        "created_at": "Wed Jun 10 17:03:16 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 217,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Dec 01 18:22:35 +0000 2014",
+            "id": 539484722918076416,
+            "id_str": "539484722918076416",
+            "text": "Is the \"college is for everybody\" mindset hurting young adults and our economy in general?  http://t.co/USHmJQ0OsP",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/USHmJQ0OsP",
+                        "expanded_url": "http://www.forbes.com/sites/tomlindsay/2014/11/28/unintended-consequences-how-the-college-for-everybody-agenda-harms-both-students-and-the-economy/",
+                        "display_url": "forbes.com/sites/tomlinds\u2026",
+                        "indices": [
+                            92,
+                            114
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833704762/careertwitter_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833704762/careertwitter_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "44033449": {
+        "id": 44033449,
+        "id_str": "44033449",
+        "name": "Marcus V Bittencourt",
+        "screen_name": "mvbitt",
+        "location": "",
+        "description": "PASS Regional Mentor | MVP Data Platform | PASS Chapter Leader SQL Server RS | Board Member Virtual PASS PT | Database Consultant at Grupo Botic\u00e1rio",
+        "url": "https://t.co/AB9L7hQTIz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/AB9L7hQTIz",
+                        "expanded_url": "http://isqlserver.wordpress.com",
+                        "display_url": "isqlserver.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 784,
+        "friends_count": 600,
+        "listed_count": 38,
+        "created_at": "Tue Jun 02 02:04:15 +0000 2009",
+        "favourites_count": 80,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2237,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jun 19 12:51:08 +0000 2019",
+            "id": 1141327553132548096,
+            "id_str": "1141327553132548096",
+            "text": "Honrado por estar em casa novamente!\nVenham comigo pra mais um SQL Saturday #CaxiasDoSul #mvpbuzz #mvpbr #sqlserver\u2026 https://t.co/zx6p8cn7VL",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CaxiasDoSul",
+                        "indices": [
+                            76,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "mvpbuzz",
+                        "indices": [
+                            89,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "mvpbr",
+                        "indices": [
+                            98,
+                            104
+                        ]
+                    },
+                    {
+                        "text": "sqlserver",
+                        "indices": [
+                            105,
+                            115
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zx6p8cn7VL",
+                        "expanded_url": "https://twitter.com/i/web/status/1141327553132548096",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "424242",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112736378876583936/8Vk_88gY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112736378876583936/8Vk_88gY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44033449/1554132002",
+        "profile_link_color": "00539C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "1239944022": {
+        "id": 1239944022,
+        "id_str": "1239944022",
+        "name": "Marti Baker",
+        "screen_name": "mbakerEdCC",
+        "location": "EdCC, Lynnwood, WA",
+        "description": "PACE-IT Web App Dev Mentor, CIS Instructor Web Development, Database Development, Web Technologies. Mentor for PACE-IT Grant.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 280,
+        "friends_count": 385,
+        "listed_count": 19,
+        "created_at": "Sun Mar 03 22:14:53 +0000 2013",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 197,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Nov 07 00:16:35 +0000 2017",
+            "id": 927691211405631488,
+            "id_str": "927691211405631488",
+            "text": "@Sophiajuedcc #IRS for you to see what might happen",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "IRS",
+                        "indices": [
+                            14,
+                            18
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SophiaJuEdcc",
+                        "name": "Sophia Ju",
+                        "id": 927689407024455680,
+                        "id_str": "927689407024455680",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 927689407024455680,
+            "in_reply_to_user_id_str": "927689407024455680",
+            "in_reply_to_screen_name": "SophiaJuEdcc",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3335217484/a6b790a2907f6425a02a015dbdd76843_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3335217484/a6b790a2907f6425a02a015dbdd76843_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239944022/1362351346",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "10311592": {
+        "id": 10311592,
+        "id_str": "10311592",
+        "name": "Eddie Wuerch",
+        "screen_name": "EddieW",
+        "location": "Indianapolis, IN",
+        "description": "SQL Server DBA, speaker, mentor, friend, and Microsoft Certified Master. Database principal at Salesforce",
+        "url": "https://t.co/UIE6YwyjFJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UIE6YwyjFJ",
+                        "expanded_url": "http://IndyDBA.com",
+                        "display_url": "IndyDBA.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 673,
+        "friends_count": 186,
+        "listed_count": 55,
+        "created_at": "Fri Nov 16 18:26:20 +0000 2007",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 926,
+        "lang": null,
+        "status": {
+            "created_at": "Fri May 11 19:55:57 +0000 2018",
+            "id": 995029766074982400,
+            "id_str": "995029766074982400",
+            "text": "@landrews5807 @sqlpass @TheIACP Congratulations! It\u2019s always awesome to hear about people jumping into conference speaking and killing it :)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "landrews5807",
+                        "name": "Leslie Andrews",
+                        "id": 18737220,
+                        "id_str": "18737220",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "sqlpass",
+                        "name": "PASS",
+                        "id": 14639667,
+                        "id_str": "14639667",
+                        "indices": [
+                            14,
+                            22
+                        ]
+                    },
+                    {
+                        "screen_name": "TheIACP",
+                        "name": "The IACP",
+                        "id": 44917831,
+                        "id_str": "44917831",
+                        "indices": [
+                            23,
+                            31
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 994756842319372288,
+            "in_reply_to_status_id_str": "994756842319372288",
+            "in_reply_to_user_id": 18737220,
+            "in_reply_to_user_id_str": "18737220",
+            "in_reply_to_screen_name": "landrews5807",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1629425145/28216b9d-7f6a-4505-badb-5259899fbce1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1629425145/28216b9d-7f6a-4505-badb-5259899fbce1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    }
+}

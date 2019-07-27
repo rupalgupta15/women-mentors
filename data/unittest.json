@@ -1,0 +1,395 @@
+{
+"2240": {
+        "id": 2240,
+        "id_str": "2240",
+        "name": "New User 1",
+        "screen_name": "newuser1",
+        "location": "Australia",
+        "profile_location": null,
+        "description": "developer polyglot @software",
+        "url": "https://t.co/Yt1Ab71Z5C",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Yt1Ab71Z5C",
+                        "expanded_url": "http://bjango.com",
+                        "display_url": "bjango.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 19872,
+        "friends_count": 1053,
+        "listed_count": 900,
+        "created_at": "Sun Jan 11 12:34:23 +0000 2009",
+        "favourites_count": 10151,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 54533,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 20:55:13 +0000 2019",
+            "id": 1151596236807401472,
+            "id_str": "1151596236807401472",
+            "text": "@CoreyDotCom Pixel preview? Nope.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CoreyDotCom",
+                        "name": "\u1455\u3007\u1587\u156e\u15bb \u14aa\u144c\u1455I\u156e\u1587",
+                        "id": 3555991,
+                        "id_str": "3555991",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+            "in_reply_to_status_id": 1151485520033267712,
+            "in_reply_to_status_id_str": "1151485520033267712",
+            "in_reply_to_user_id": 3555991,
+            "in_reply_to_user_id_str": "3555991",
+            "in_reply_to_screen_name": "CoreyDotCom",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060115552021098496/pVI98tPR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060115552021098496/pVI98tPR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18865450/1347975335",
+        "profile_link_color": "2D1C73",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FDFDFD",
+        "profile_text_color": "324346",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "Y",
+        "additonal_replies": "Always happy to help with design related questions. ",
+        "additonal_replies_link": "https://t.co/QZouiFZan9",
+        "gender_val": "female"
+    },
+
+    "18317432": {
+        "id": 18317432,
+        "id_str": "18317432",
+        "name": "Scott Vinkle",
+        "screen_name": "svinkle",
+        "location": "Toronto, Ontario",
+        "profile_location": null,
+        "description": "python; mentor",
+        "url": "https://t.co/gvtoNaEG7h",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gvtoNaEG7h",
+                        "expanded_url": "https://svinkle.me",
+                        "display_url": "svinkle.me",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2165,
+        "friends_count": 296,
+        "listed_count": 163,
+        "created_at": "Mon Dec 22 21:18:11 +0000 2008",
+        "favourites_count": 8739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10658,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 21:06:19 +0000 2019",
+            "id": 1151599029790433280,
+            "id_str": "1151599029790433280",
+            "text": "@heydonworks @ericwbailey @hputzek @alastc I tell my daughter to always wipe, but eventually we get old enough to m\u2026 https://t.co/HHfLBQhrMY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "heydonworks",
+                        "name": "@heydon@mastodon.social",
+                        "id": 329059137,
+                        "id_str": "329059137",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "ericwbailey",
+                        "name": "Eric Bailey",
+                        "id": 59969976,
+                        "id_str": "59969976",
+                        "indices": [
+                            13,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "hputzek",
+                        "name": "Hendrik Putzek",
+                        "id": 76316035,
+                        "id_str": "76316035",
+                        "indices": [
+                            26,
+                            34
+                        ]
+                    },
+                    {
+                        "screen_name": "alastc",
+                        "name": "Alastair Campbell",
+                        "id": 14147987,
+                        "id_str": "14147987",
+                        "indices": [
+                            35,
+                            42
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/HHfLBQhrMY",
+                        "expanded_url": "https://twitter.com/i/web/status/1151599029790433280",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151586479673659392,
+            "in_reply_to_status_id_str": "1151586479673659392",
+            "in_reply_to_user_id": 329059137,
+            "in_reply_to_user_id_str": "329059137",
+            "in_reply_to_screen_name": "heydonworks",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132498744916807681/u7tfFZoM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132498744916807681/u7tfFZoM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18317432/1558843438",
+        "profile_link_color": "1875D1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "Y",
+        "additonal_replies": "Always happy to help with front end or #a11y Q\u2019s! DMs open if more comfortable that way. \ud83d\ude42\ud83d\udc4b ",
+        "additonal_replies_link": "https://t.co/PpQ0w0nFX5",
+        "gender_val": "male"
+    },
+
+    "15667722": {
+        "id": 15667722,
+        "id_str": "15667722",
+        "name": "Dominic McPhee",
+        "screen_name": "dfmcphee",
+        "location": "Ottawa",
+        "profile_location": null,
+        "description": "polyglot",
+        "url": "https://t.co/bHnOaGIvim",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/bHnOaGIvim",
+                        "expanded_url": "http://dfmcphee.com",
+                        "display_url": "dfmcphee.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 818,
+        "friends_count": 890,
+        "listed_count": 46,
+        "created_at": "Wed Jul 30 23:15:12 +0000 2008",
+        "favourites_count": 1276,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1488,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jun 20 20:17:16 +0000 2019",
+            "id": 1141802217210548230,
+            "id_str": "1141802217210548230",
+            "text": "@MarcoSuarez Ours was recycled and made into scarves for each of the employees as a little gift.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MarcoSuarez",
+                        "name": "Marco Suarez",
+                        "id": 16725234,
+                        "id_str": "16725234",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+            "in_reply_to_status_id": 1141798359470104576,
+            "in_reply_to_status_id_str": "1141798359470104576",
+            "in_reply_to_user_id": 16725234,
+            "in_reply_to_user_id_str": "16725234",
+            "in_reply_to_screen_name": "MarcoSuarez",
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "38d5974e82ed1a6c",
+                "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+                "place_type": "city",
+                "name": "Ottawa",
+                "full_name": "Ottawa, Ontario",
+                "country_code": "CA",
+                "country": "Canada",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -76.353876,
+                                44.961937
+                            ],
+                            [
+                                -75.246407,
+                                44.961937
+                            ],
+                            [
+                                -75.246407,
+                                45.5356446
+                            ],
+                            [
+                                -76.353876,
+                                45.5356446
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699339552725446656/lhEVGiqF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699339552725446656/lhEVGiqF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15667722/1455570558",
+        "profile_link_color": "5C6AC4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "Y",
+        "additonal_replies": "\ud83d\udc4b I\u2019m always happy to answer questions about front-end development or design systems. ",
+        "additonal_replies_link": "https://t.co/oraSsn4QR6",
+        "gender_val": "female"
+    }
+}

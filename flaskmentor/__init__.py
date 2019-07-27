@@ -10,6 +10,7 @@ import sys
 
 
 app = Flask(__name__)
+app.app_context().push()  # Added only for unit test
 
 # next 2 lines added for logging error to heroku logs
 app.logger.addHandler(logging.StreamHandler(sys.stdout))

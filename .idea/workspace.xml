@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f729aafe-2bcf-43f6-88a1-444be02a9624" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flaskmentor/create_firebase_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskmentor/static/js/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskmentor/unit_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_jsons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/final_mentors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/frontend_mentor_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/frontend_mentor_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/replies_mentor_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test_replies_mentor_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_replies_mentor_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskmentor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/clean_user_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/clean_user_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/db_no_use.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/match_mentors.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/match_mentors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/new_oauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/unittest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/static/css/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/static/css/style4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/static/js/script1.js" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/static/js/script_json.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/search_mentors.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/search_mentors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/templates/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/templates/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskmentor/twitter_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskmentor/twitter_api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskmentor/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+            <state relative-caret-position="-1167">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -28,19 +55,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskmentor/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+            <state relative-caret-position="150">
+              <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
               <folding>
                 <element signature="e#0#81#0" expanded="true" />
               </folding>
@@ -48,14 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flaskmentor/__init__.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskmentor/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#46#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -63,16 +78,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskmentor/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="86" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
               <folding>
-                <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,37 +93,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flaskmentor/templates/search_mentors.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskmentor/templates/settings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+            <state relative-caret-position="105">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+              <folding>
+                <element signature="n#div#0;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
+                <element signature="n#div#1;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flaskmentor/static/js/script1.js">
+        <entry file="file://$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskmentor/match_mentors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flaskmentor/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flaskmentor/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -122,10 +139,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskmentor/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+            <state relative-caret-position="243">
+              <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flaskmentor/templates/search_mentors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,42 +166,42 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dateuti</find>
-      <find>app.register</find>
-      <find>login_manager</find>
-      <find>blueprint</find>
-      <find>sqlal</find>
-      <find>login_mana</find>
-      <find>user5</find>
-      <find>token</find>
-      <find>test6</find>
-      <find>Test5</find>
-      <find>User5</find>
-      <find>additonal_replies</find>
-      <find>user6</find>
-      <find>additonal_replies_link</find>
-      <find>replies</find>
-      <find>match_ment</find>
-      <find>simple_get</find>
-      <find>confidence</find>
-      <find>gender</find>
-      <find>login_user</find>
-      <find>database</find>
-      <find>user_loader</find>
-      <find>DOES TWITTER CALL THIS?</find>
-      <find>reques</find>
-      <find>flash</find>
-      <find>db.sess</find>
-      <find>lookin</find>
-      <find>flas</find>
-      <find>script</find>
+      <find>TheMathMentor</find>
+      <find>STEMVlyMentor</find>
+      <find>MentorGlobal3</find>
+      <find>MgFunk</find>
+      <find>Tiredemployee</find>
+      <find>EchoPhantom</find>
+      <find>KB_math</find>
+      <find>hover</find>
+      <find>MobilMathMentor</find>
+      <find>https://pbs.twimg.com/profile_images/1146327873478774784/tAvxCSx6</find>
+      <find>this.$route.query.query</find>
+      <find>this.sear</find>
+      <find>&quot;gender_val&quot;: &quot;female&quot;</find>
+      <find>item</find>
+      <find>content</find>
+      <find>page</find>
+      <find>onerror</find>
+      <find>test_replies_mentor_data</find>
+      <find>skills_list</find>
+      <find>797782152091996161</find>
+      <find>women_mentors</find>
+      <find>earli</find>
+      <find>final_matched_mentors</find>
+      <find>women</find>
+      <find>whenNoData</find>
+      <find>User6</find>
+      <find>Test6</find>
+      <find>No mentors found, try searching another skill</find>
+      <find>style3</find>
       <find>script1</find>
     </findStrings>
     <replaceStrings>
@@ -185,64 +215,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/layout.html" />
-        <option value="$PROJECT_DIR$/forms.py" />
-        <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/flaskmentor/app.py" />
-        <option value="$PROJECT_DIR$/flaskmentor/static/style.css" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/new_home_page.html" />
-        <option value="$PROJECT_DIR$/config.js" />
-        <option value="$PROJECT_DIR$/import.js" />
-        <option value="$PROJECT_DIR$/flaskmentor/import.js" />
-        <option value="$PROJECT_DIR$/flaskmentor/users.json" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/ho.html" />
-        <option value="$PROJECT_DIR$/data/twiiter_replies" />
-        <option value="$PROJECT_DIR$/flaskmentor/scarper_api_tweet_replies.py" />
         <option value="$PROJECT_DIR$/flaskmentor/backups/Procfile" />
         <option value="$PROJECT_DIR$/flaskmentor/Procfile" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/nltk.txt" />
         <option value="$PROJECT_DIR$/flaskmentor/static/css/style.css" />
-        <option value="$PROJECT_DIR$/flaskmentor/clean_user_input.py" />
         <option value="$PROJECT_DIR$/flaskmentor/static/js/script.js" />
         <option value="$PROJECT_DIR$/flaskmentor/templates/description.html" />
         <option value="$PROJECT_DIR$/flaskmentor/templates/about.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/search_mentors.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/result.html" />
         <option value="$PROJECT_DIR$/flaskmentor/static/css/style1.css" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/home.html" />
         <option value="$PROJECT_DIR$/data/replies_mentor_data.json" />
         <option value="$PROJECT_DIR$/flaskmentor/static/css/style2.css" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/index.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html" />
         <option value="$PROJECT_DIR$/flaskmentor/oauth.py" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/login.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/models.py" />
         <option value="$PROJECT_DIR$/flaskmentor/Fetching_Tweet_Replies.py" />
         <option value="$PROJECT_DIR$/flaskmentor/fetch_twitter_img_url.py" />
         <option value="$PROJECT_DIR$/flaskmentor/prepare_data.py" />
         <option value="$PROJECT_DIR$/flaskmentor/face_detect.py" />
-        <option value="$PROJECT_DIR$/flaskmentor/match_mentors.py" />
         <option value="$PROJECT_DIR$/flaskmentor/Web_Scraping.py" />
         <option value="$PROJECT_DIR$/flaskmentor/new_oauth.py" />
         <option value="$PROJECT_DIR$/flaskmentor/templates/signup.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/details.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/forms.py" />
+        <option value="$PROJECT_DIR$/data/frontend_mentor_data.json" />
         <option value="$PROJECT_DIR$/flaskmentor/twitter_api.py" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/layout.html" />
-        <option value="$PROJECT_DIR$/flaskmentor/routes.py" />
+        <option value="$PROJECT_DIR$/data/test_replies_mentor_data.json" />
+        <option value="$PROJECT_DIR$/unit_tests.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/details.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/db.py" />
+        <option value="$PROJECT_DIR$/data/unittest.json" />
+        <option value="$PROJECT_DIR$/flaskmentor/db_tests.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/unit_tests.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/demo.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/login.html" />
+        <option value="$PROJECT_DIR$/data/final_mentors.json" />
+        <option value="$PROJECT_DIR$/data/firebase_mentors_data.json" />
+        <option value="$PROJECT_DIR$/merge_jsons.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/static/css/style3.css" />
+        <option value="$PROJECT_DIR$/flaskmentor/clean_user_input.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/create_firebase_data.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/static/js/script_json.js" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/result.html" />
         <option value="$PROJECT_DIR$/flaskmentor/static/js/script1.js" />
-        <option value="$PROJECT_DIR$/flaskmentor/templates/settings.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/match_mentors.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/routes.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/home.html" />
         <option value="$PROJECT_DIR$/flaskmentor/__init__.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/forms.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/models.py" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/index.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/layout.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/settings.html" />
+        <option value="$PROJECT_DIR$/flaskmentor/templates/search_mentors.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -261,11 +292,6 @@
             <path>
               <item name="Mentoring App" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mentoring App" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mentoring App" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mentoring App" type="462c0819:PsiDirectoryNode" />
               <item name="flaskmentor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,6 +299,13 @@
               <item name="Mentoring App" type="462c0819:PsiDirectoryNode" />
               <item name="flaskmentor" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mentoring App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mentoring App" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskmentor" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mentoring App" type="b2602c69:ProjectViewProjectNode" />
@@ -296,21 +329,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/flaskmentor/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flaskmentor/static/js" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flaskmentor" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/flaskmentor/backups" />
+      <recent name="$PROJECT_DIR$/flaskmentor/static/css" />
+      <recent name="$PROJECT_DIR$/backups" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flaskmentor/static/js" />
       <recent name="$PROJECT_DIR$/flaskmentor/static/img" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/data" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/flaskmentor/backups" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/flaskmentor" />
-      <recent name="$PROJECT_DIR$/flaskmentor/static/css" />
-      <recent name="$PROJECT_DIR$/backups" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,8 +359,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="Web_Scraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.create_firebase_data">
+    <configuration name="create_firebase_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mentoring App" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +372,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskmentor/Web_Scraping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskmentor/create_firebase_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,7 +381,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="face_detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merge_jsons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mentoring App" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,32 +389,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flaskmentor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskmentor/face_detect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oauth" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Mentoring App" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flaskmentor" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskmentor/oauth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_jsons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,13 +444,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in unit_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Mentoring App" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flaskmentor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/flaskmentor/unit_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.create_firebase_data" />
+        <item itemvalue="Python tests.Unittests in unit_tests.py" />
+        <item itemvalue="Python.merge_jsons" />
         <item itemvalue="Python.twitter_api" />
-        <item itemvalue="Python.Web_Scraping" />
-        <item itemvalue="Python.face_detect" />
-        <item itemvalue="Python.oauth" />
       </list>
     </recent_temporary>
   </component>
@@ -454,6 +481,11 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unit_tests_py - 2019.07.24 at 21h 01m 14s.xml">
+      <configuration name="Unittests in unit_tests.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -464,23 +496,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.21353066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.22538178" />
       <window_info id="Structure" order="1" sideWeight="0.50190115" side_tool="true" weight="0.21353066" />
       <window_info id="Favorites" order="2" sideWeight="0.50190115" side_tool="true" weight="0.21353066" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997367" weight="0.2955414" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32738853" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997367" visible="true" weight="0.3388601" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49763033" visible="true" weight="0.3656051" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49763033" weight="0.24455959" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50236964" side_tool="true" weight="0.35025907" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,236 +542,131 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/data/electrical_mentor_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/dateutil/parser.py" />
-    <entry file="file://$PROJECT_DIR$/flaskmentor/backups/bkp_prepare_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/3.7.1/envs/edtech/lib/python3.7/site-packages/sqlalchemy/orm/relationships.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="2245" selection-start-line="2245" selection-end-line="2245" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/flask_login/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/UIUX_mentor_data.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/replies_mentor_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="6853" column="27" lean-forward="true" selection-start-line="6853" selection-start-column="27" selection-end-line="6853" selection-end-column="27" />
+        <state relative-caret-position="188">
+          <caret line="34826" column="29" lean-forward="true" selection-start-line="34826" selection-start-column="29" selection-end-line="34826" selection-end-column="29" />
           <folding>
             <element signature="e#48061#54007#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/Fetching_Tweet_Replies.py">
+    <entry file="file://$PROJECT_DIR$/data/python_mentor_data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/twitter_keys">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/FaceQuickStart.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/clean_user_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="n#!!block;n#2955712581#0;n#!!top" />
+            <element signature="n#!!block;n#15673207#0;n#!!top" />
+            <element signature="n#!!block;n#837689817777520641#0;n#!!top" />
+            <element signature="n#!!block;n#1251125814#0;n#!!top" />
+            <element signature="n#!!block;n#34903401#0;n#!!top" />
+            <element signature="n#!!block;n#271589132#0;n#!!top" />
+            <element signature="n#!!block;n#778012656313610240#0;n#!!top" />
+            <element signature="n#!!block;n#31400846#0;n#!!top" />
+            <element signature="n#!!block;n#361319984#0;n#!!top" />
+            <element signature="n#!!block;n#24155859#0;n#!!top" />
+            <element signature="n#!!block;n#14685435#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/twitter_data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/fetch_twitter_img_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/final_mentors.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="24226" column="95" selection-start-line="24226" selection-start-column="89" selection-end-line="24226" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/twitter_table.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_replies_mentor_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/Web_Scraping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        <state relative-caret-position="607">
+          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/aerospace_mentor_data.json">
+    <entry file="file://$PROJECT_DIR$/data/women_STEM_advisor_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="941" column="91" lean-forward="true" selection-start-line="941" selection-start-column="91" selection-end-line="941" selection-end-column="91" />
+        <state relative-caret-position="-1117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_science_mentor_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1646" column="130" selection-start-line="1646" selection-start-column="130" selection-end-line="1646" selection-end-column="130" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/biology_mentor_data.json">
+    <entry file="file://$PROJECT_DIR$/data/test_replies_mentor_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="199" column="28" lean-forward="true" selection-start-line="199" selection-start-column="28" selection-end-line="199" selection-end-column="28" />
+        <state relative-caret-position="15">
+          <caret line="28800" selection-start-line="28800" selection-end-line="28801" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/chemical_mentor_data.json">
+    <entry file="file://$PROJECT_DIR$/data/database_mentor_data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="210">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/match_mentors.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-680042474/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="505">
+          <caret line="5274" column="8" selection-start-line="5274" selection-start-column="8" selection-end-line="5274" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/face_detect.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/flask/helpers.py">
+    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/flask_wtf/form.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="215" column="4" selection-start-line="215" selection-start-column="4" selection-end-line="215" selection-end-column="4" />
+        <state relative-caret-position="182">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/new_oauth.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mech_mentor_data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/physics_mentor_data.json">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/db_no_use.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37447" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/description.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/angular_mentor_data.json" />
-    <entry file="file://$PROJECT_DIR$/data/java_mentor_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27519" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/python_mentor_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27547" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/static/css/style3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="28" lean-forward="true" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/statistics_mentor_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/wtforms/validators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="645">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/unittest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="113" column="18" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!block;n#2240#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -753,76 +680,244 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/wtforms_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/db_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/unit_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/fetch_twitter_img_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/twitter_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+        <state relative-caret-position="522">
+          <caret line="55" selection-start-line="55" selection-end-line="56" selection-end-column="42" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/merge_jsons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/frontend_mentor_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="150" column="28" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/firebase_mentors_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/create_firebase_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#157#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/flask_paginate/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="161" column="32" selection-start-line="161" selection-start-column="18" selection-end-line="161" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/templates/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        <state relative-caret-position="273">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.pyenv/versions/edtech/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/static/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1374">
-          <caret line="843" column="97" selection-start-line="843" selection-start-column="97" selection-end-line="843" selection-end-column="97" />
+        <state relative-caret-position="287">
+          <caret line="147" column="1" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/description.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/static/js/script_json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/clean_user_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/final_mentors.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="95708" column="23" selection-start-line="95708" selection-start-column="5" selection-end-line="95708" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/static/js/script4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#46#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        <state relative-caret-position="243">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/match_mentors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="584">
+          <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        <state relative-caret-position="-1167">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" column="86" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
           <folding>
-            <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -832,50 +927,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/static/js/script1.js">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/backups/new_home_page_bkp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/search_mentors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="203">
+          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskmentor/templates/settings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
           <folding>
-            <element signature="e#0#81#0" expanded="true" />
+            <element signature="n#div#0;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#fieldset#0;n#div#0;n#form#0;n#div#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flaskmentor/__init__.py">
+    <entry file="file://$PROJECT_DIR$/flaskmentor/templates/search_mentors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="352">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="e#46#69#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -8,6 +8,7 @@
     }
 {% endblock bgstyle %}
 
+
 {% block margin %}
     <!--Margin between nav bar and search box-->
 <div class="row mt-5"></div>
@@ -18,6 +19,7 @@
 <div class="row mt-5"></div>
 {% endblock margin %}
 
+
 {% block searchbox %}
 <!--Search Box-->
 <div class="container mt-5">
@@ -26,7 +28,7 @@
     <form class="form-horizontal" method="GET" action='/search'>
     <div class="form-group">
         <div class="input-group">
-            <input class="form-control py-3 border-right-0 border h3" name="query" placeholder="Find Mentor by Searching for Skills, Location or Name" >
+            <input class="form-control py-3 border-right-0 border h3" name="query" placeholder="Find Mentor by Searching for Skills or Location or Name" >
             <span class="input-group-append">
                 <button class="btn border-left-0 border" type="submit">
                     <i class="fa fa-search fa-lg"></i>
@@ -50,34 +52,29 @@
 <div class="row pb-5"></div>
 {% endblock marginboxlanding %}
 
-
 {% block content %}
+
 <div class="container nobg">
     <h4 class="pb-4"><b> Meet The Top Mentors </b></h4>
-<!--    <a href="/isbn?isbn=0143125087">-->
-<!--    <img src="https://pbs.twimg.com/profile_images/684344075332546560/LRXHXM08.jpg"  height="280" width="200"/> </a>-->
-<!--    <br>-->
-<!--    <br>-->
-<!--    <br>-->
-<!--    <div class="border border-dark mb-5"></div>-->
-<!--    <a class="" href="/isbn?isbn=1491962291">-->
-<!--    <img src="https://pbs.twimg.com/profile_images/684344075332546560/LRXHXM08.jpg"  height="280" width="200"/> </a>-->
-<!--    <br>-->
-<!--    <br>-->
-<!--    <br>-->
-<!--    <div class="border border-dark mb-5"></div>-->
-<!--    <a class="" href="/isbn?isbn=1616895322">-->
-<!--    <img src="https://pbs.twimg.com/profile_images/684344075332546560/LRXHXM08.jpg"  height="280" width="200"/> </a>-->
-
     {% for mentor in pagination_users %}
         <article class="media content-section">
-            <img class="rounded-circle article-img" src="{{ mentor['profile_pic_url'] }}">
+            <img class="rounded-circle article-img" src="{{ mentor['profile_pic_url'] }}" onerror="this.onerror=null;this.src='/static/img/default_profile_pic.png';">
             <div class="media-body">
                 <div class="article-metadata">
                     <h2><a class="article-title" target="_blank" href="{{ mentor['twitter_profile_url'] }}">{{ mentor['name'] }}</a></h2>
                 </div>
                 <p class="mr-2">{{ mentor['location']}}</p>
                 <p class="article-content">{{ mentor['description'] }}</p>
+<!--                <p class="article-content">{{ mentor['additonal_replies'] }}</p>-->
+                {% if mentor['replies_flag'] == 'Y' %}
+                    <i>
+                    <div class="container">
+                    <p class="article-content">{{ mentor['additonal_replies'] }}
+                    <a class="article-content" target="_blank" href="{{ mentor['additonal_replies_link'] }}"> Read More </a>
+                    </p>
+                    </div>
+                    </i>
+                {% endif %}
             </div>
         </article>
     {% endfor %}

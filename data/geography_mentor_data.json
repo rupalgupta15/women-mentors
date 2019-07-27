@@ -1,0 +1,1350 @@
+{
+    "1083718622": {
+        "id": 1083718622,
+        "id_str": "1083718622",
+        "name": "small geographer",
+        "screen_name": "smallh82",
+        "location": "",
+        "description": "Just finished geography teaching after 36 years - Head of Geography, PGCE mentor and PGCE link teacher. Still involved in ITT.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1063,
+        "friends_count": 496,
+        "listed_count": 12,
+        "created_at": "Sat Jan 12 18:11:56 +0000 2013",
+        "favourites_count": 475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 386,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 10 16:16:26 +0000 2019",
+            "id": 1148989363604377600,
+            "id_str": "1148989363604377600",
+            "text": "@InternetGeog I'm such a sad geographer \u2026 I just saw evidence of soil creep and maybe a first-order stream \ud83d\ude33\ud83d\ude07",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "InternetGeog",
+                        "name": "internetgeography.net \ud83c\udf0d",
+                        "id": 114778893,
+                        "id_str": "114778893",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1148983297567068161,
+            "in_reply_to_status_id_str": "1148983297567068161",
+            "in_reply_to_user_id": 114778893,
+            "in_reply_to_user_id_str": "114778893",
+            "in_reply_to_screen_name": "InternetGeog",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3776924008/2ae508ba9143939c7038634b9304610e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3776924008/2ae508ba9143939c7038634b9304610e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083718622/1424288522",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "523445472": {
+        "id": 523445472,
+        "id_str": "523445472",
+        "name": "Lauren Elizabeth \u2661",
+        "screen_name": "LozzaDay03",
+        "location": "North West, England",
+        "description": "Former @IrishRugby player\u2618\u2022 Geography HOD \u2022 @AMPSCITT Geography Expert Practitioner & ITT Mentor \u2022 Edexcel Examiner / Moderator \u2022  #geographyteacher \ud83c\udf0d\ud83d\uddfa\u270c\ud83c\udffd",
+        "url": "https://t.co/Q17iMhT2Bx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Q17iMhT2Bx",
+                        "expanded_url": "http://amp-scitt.lydiatelearningtrust.co.uk/",
+                        "display_url": "amp-scitt.lydiatelearningtrust.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1200,
+        "friends_count": 2203,
+        "listed_count": 16,
+        "created_at": "Tue Mar 13 16:56:12 +0000 2012",
+        "favourites_count": 5092,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5135,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 10:44:51 +0000 2019",
+            "id": 1151805021849341955,
+            "id_str": "1151805021849341955",
+            "text": "@ploguey @EnserMark @LizBPattison @Geo_Dougie @_jopayne @kate_stockings @m_chiles I can send you my resources pal. Drop me a DM #teamwork",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "teamwork",
+                        "indices": [
+                            128,
+                            137
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ploguey",
+                        "name": "Paul \ud83c\udf0e",
+                        "id": 3741463043,
+                        "id_str": "3741463043",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "screen_name": "EnserMark",
+                        "name": "Mark Enser \ud83c\udf0d",
+                        "id": 3402637731,
+                        "id_str": "3402637731",
+                        "indices": [
+                            9,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "LizBPattison",
+                        "name": "Liz Pattison",
+                        "id": 2752381135,
+                        "id_str": "2752381135",
+                        "indices": [
+                            20,
+                            33
+                        ]
+                    },
+                    {
+                        "screen_name": "Geo_Dougie",
+                        "name": "Joseph Milton",
+                        "id": 1611429540,
+                        "id_str": "1611429540",
+                        "indices": [
+                            34,
+                            45
+                        ]
+                    },
+                    {
+                        "screen_name": "_jopayne",
+                        "name": "Jo Payne \ud83c\udf0e",
+                        "id": 362505216,
+                        "id_str": "362505216",
+                        "indices": [
+                            46,
+                            55
+                        ]
+                    },
+                    {
+                        "screen_name": "kate_stockings",
+                        "name": "Kate Stockings",
+                        "id": 2789705282,
+                        "id_str": "2789705282",
+                        "indices": [
+                            56,
+                            71
+                        ]
+                    },
+                    {
+                        "screen_name": "m_chiles",
+                        "name": "Michael Chiles \ud83c\udf0e",
+                        "id": 2760673772,
+                        "id_str": "2760673772",
+                        "indices": [
+                            72,
+                            81
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1151804259421294592,
+            "in_reply_to_status_id_str": "1151804259421294592",
+            "in_reply_to_user_id": 3741463043,
+            "in_reply_to_user_id_str": "3741463043",
+            "in_reply_to_screen_name": "ploguey",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1146879374995722241/l4cnKAPv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146879374995722241/l4cnKAPv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523445472/1519321716",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "158349681": {
+        "id": 158349681,
+        "id_str": "158349681",
+        "name": "Shikha Malaviya",
+        "screen_name": "ShikhaMalaviya",
+        "location": "SF Bay Area",
+        "description": "Poet, Writer, Publisher & Mentor; Author of Geography of Tongues.",
+        "url": "http://t.co/47JBHvuVt4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/47JBHvuVt4",
+                        "expanded_url": "http://www.shikhamalaviya.com",
+                        "display_url": "shikhamalaviya.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 516,
+        "friends_count": 846,
+        "listed_count": 14,
+        "created_at": "Tue Jun 22 12:10:30 +0000 2010",
+        "favourites_count": 395,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 520,
+        "lang": null,
+        "status": {
+            "created_at": "Wed Jul 17 22:13:56 +0000 2019",
+            "id": 1151616046937231360,
+            "id_str": "1151616046937231360",
+            "text": "Another awesome poetry event at BPF19! Go, my dear friends in Uru! https://t.co/9fkYULepMU",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/9fkYULepMU",
+                        "expanded_url": "https://twitter.com/adongray/status/1151074485530873856",
+                        "display_url": "twitter.com/adongray/statu\u2026",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1151074485530873856,
+            "quoted_status_id_str": "1151074485530873856",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443776138028937216/oykC-zsP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443776138028937216/oykC-zsP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158349681/1394639510",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "784511460": {
+        "id": 784511460,
+        "id_str": "784511460",
+        "name": "Mrs Hawke (Norman) \ud83c\udf0d",
+        "screen_name": "Geog_enquirer",
+        "location": "",
+        "description": "HOD. QFT member. Trainee mentor. Champion of chains of reasoning and KFC. Teaching Geography article, Spr 2014. #geographyteacher https://t.co/7fmOEND3Rl",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7fmOEND3Rl",
+                        "expanded_url": "http://geogenquirer.wordpress.com",
+                        "display_url": "geogenquirer.wordpress.com",
+                        "indices": [
+                            130,
+                            153
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1372,
+        "friends_count": 518,
+        "listed_count": 38,
+        "created_at": "Mon Aug 27 12:06:36 +0000 2012",
+        "favourites_count": 751,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2016,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 15:34:33 +0000 2019",
+            "id": 1151877926452957184,
+            "id_str": "1151877926452957184",
+            "text": "BBC News - Vast sand scheme to protect Norfolk coast https://t.co/QK14ZBZ2nv",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/QK14ZBZ2nv",
+                        "expanded_url": "https://www.bbc.co.uk/news/science-environment-48965715",
+                        "display_url": "bbc.co.uk/news/science-e\u2026",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010818550955675652/oqouK7_i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010818550955675652/oqouK7_i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/784511460/1555610021",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "801066487": {
+        "id": 801066487,
+        "id_str": "801066487",
+        "name": "Kavita Dattani",
+        "screen_name": "KavitaDattani",
+        "location": "London, England",
+        "description": "Geography PhD student @QMUL researching digital tech and sexuality in Indian cities | Mentor @OmprakashOrg | @DARG Postgrad Rep | Hungry person",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 334,
+        "friends_count": 907,
+        "listed_count": 2,
+        "created_at": "Mon Sep 03 19:32:22 +0000 2012",
+        "favourites_count": 842,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 302,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Jun 29 08:56:55 +0000 2019",
+            "id": 1144892491080044544,
+            "id_str": "1144892491080044544",
+            "text": "RT @GKBhambra: \"India is facing the worst water crisis in its history. A govt report estimates that 21 cities will run out of groundwater b\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "GKBhambra",
+                        "name": "Gurminder K Bhambra",
+                        "id": 856330826,
+                        "id_str": "856330826",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Jun 28 10:09:29 +0000 2019",
+                "id": 1144548363238551552,
+                "id_str": "1144548363238551552",
+                "text": "\"India is facing the worst water crisis in its history. A govt report estimates that 21 cities will run out of grou\u2026 https://t.co/TwQjqVxiCJ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TwQjqVxiCJ",
+                            "expanded_url": "https://twitter.com/i/web/status/1144548363238551552",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 97,
+                "favorite_count": 97,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 97,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115635517666856960/hy93XWhL_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115635517666856960/hy93XWhL_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/801066487/1550661397",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "3115783223": {
+        "id": 3115783223,
+        "id_str": "3115783223",
+        "name": "Eric",
+        "screen_name": "eric_falls",
+        "location": "Olathe, KS",
+        "description": "Dad, 7th grade social studies teacher, coach, mentor, husband to a social worker. Relationships are the foundation. Geography and U.S. history. @olatheschools",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 608,
+        "friends_count": 927,
+        "listed_count": 13,
+        "created_at": "Wed Mar 25 20:11:18 +0000 2015",
+        "favourites_count": 9159,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4559,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 18 23:43:02 +0000 2019",
+            "id": 1152000860282425346,
+            "id_str": "1152000860282425346",
+            "text": "The latest The Project-based learning Daily! https://t.co/haZ7bd34RC Thanks to @yunitta_96 @dkreiness @USCRaceEquity #edchat #education",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "edchat",
+                        "indices": [
+                            117,
+                            124
+                        ]
+                    },
+                    {
+                        "text": "education",
+                        "indices": [
+                            125,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yunitta_96",
+                        "name": "PERSONA",
+                        "id": 1073329041225207808,
+                        "id_str": "1073329041225207808",
+                        "indices": [
+                            79,
+                            90
+                        ]
+                    },
+                    {
+                        "screen_name": "dkreiness",
+                        "name": "Dan Kreiness",
+                        "id": 27233790,
+                        "id_str": "27233790",
+                        "indices": [
+                            91,
+                            101
+                        ]
+                    },
+                    {
+                        "screen_name": "USCRaceEquity",
+                        "name": "USC Race and Equity",
+                        "id": 478761260,
+                        "id_str": "478761260",
+                        "indices": [
+                            102,
+                            116
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/haZ7bd34RC",
+                        "expanded_url": "https://paper.li/eric_falls/1508283561?edition_id=c71ea5c0-a9b5-11e9-a176-0cc47a0d15fd",
+                        "display_url": "paper.li/eric_falls/150\u2026",
+                        "indices": [
+                            45,
+                            68
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034980866492129280/UvVUE2Gl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034980866492129280/UvVUE2Gl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "246436153": {
+        "id": 246436153,
+        "id_str": "246436153",
+        "name": "Mrs. Kirsch",
+        "screen_name": "KirschHistory",
+        "location": "Fredericksburg, VA",
+        "description": "Civics, Geography & World History Teacher, NEA Foundation Global Learning Fellow Alumni & Mentor, VEA/NEA Award for Teaching Excellence, and Sully's mom.",
+        "url": "https://t.co/Rz1bNXYRb8",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Rz1bNXYRb8",
+                        "expanded_url": "http://kirschworldhistory.blogspot.com/",
+                        "display_url": "kirschworldhistory.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 415,
+        "friends_count": 528,
+        "listed_count": 17,
+        "created_at": "Wed Feb 02 19:51:16 +0000 2011",
+        "favourites_count": 2183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3036,
+        "lang": null,
+        "status": {
+            "created_at": "Fri Jul 12 03:00:06 +0000 2019",
+            "id": 1149513738673770498,
+            "id_str": "1149513738673770498",
+            "text": "@MrsStevensonSS So proud of my old high school. The principal Mr. Riolo was an incredible teacher when I was there.\u2026 https://t.co/saJS62osYZ",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MrsStevensonSS",
+                        "name": "Erin Stevenson",
+                        "id": 1686586170,
+                        "id_str": "1686586170",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/saJS62osYZ",
+                        "expanded_url": "https://twitter.com/i/web/status/1149513738673770498",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1149512356575059969,
+            "in_reply_to_status_id_str": "1149512356575059969",
+            "in_reply_to_user_id": 1686586170,
+            "in_reply_to_user_id_str": "1686586170",
+            "in_reply_to_screen_name": "MrsStevensonSS",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260853761/camel1_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260853761/camel1_normal.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246436153/1439569868",
+        "profile_link_color": "72B9BF",
+        "profile_sidebar_border_color": "A0EEF5",
+        "profile_sidebar_fill_color": "1A3F57",
+        "profile_text_color": "9DDD95",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "227035964": {
+        "id": 227035964,
+        "id_str": "227035964",
+        "name": "Jason VanHorn",
+        "screen_name": "Dr_VanHorn",
+        "location": "Michigan, USA",
+        "description": "MG/YA writer | Professor of Geography | Author @ https://t.co/IArFMO1XXh | Global #Minecraft Mentor 2018| #scbwi | \u2020 | #LitQOTD | Author of #alabasterdangermond",
+        "url": "https://t.co/fqBIB4Eks0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/fqBIB4Eks0",
+                        "expanded_url": "https://alabasterdangermond.com/",
+                        "display_url": "alabasterdangermond.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IArFMO1XXh",
+                        "expanded_url": "http://Lynda.com",
+                        "display_url": "Lynda.com",
+                        "indices": [
+                            49,
+                            72
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 3312,
+        "friends_count": 2670,
+        "listed_count": 72,
+        "created_at": "Wed Dec 15 18:58:18 +0000 2010",
+        "favourites_count": 32431,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8738,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jul 14 14:24:54 +0000 2019",
+            "id": 1150410846310412289,
+            "id_str": "1150410846310412289",
+            "text": "@Shadewing @ElusiveStory @jdcadmon @MsOcampoWrites @AnnieSoulFire @HopesNook @Sarcasmancer @Amberfyre\u2026 https://t.co/Q5ozgDxgcH",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Shadewing",
+                        "name": "Steve Sellers",
+                        "id": 44698860,
+                        "id_str": "44698860",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "ElusiveStory",
+                        "name": "\u2728Meghan is on holidays\u2728",
+                        "id": 832031373695315969,
+                        "id_str": "832031373695315969",
+                        "indices": [
+                            11,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "jdcadmon",
+                        "name": "JD Cadmon",
+                        "id": 864199949336104960,
+                        "id_str": "864199949336104960",
+                        "indices": [
+                            25,
+                            34
+                        ]
+                    },
+                    {
+                        "screen_name": "MsOcampoWrites",
+                        "name": "M.S. Ocampo Writes",
+                        "id": 171321131,
+                        "id_str": "171321131",
+                        "indices": [
+                            35,
+                            50
+                        ]
+                    },
+                    {
+                        "screen_name": "AnnieSoulFire",
+                        "name": "Annie (writer, future author)",
+                        "id": 27646774,
+                        "id_str": "27646774",
+                        "indices": [
+                            51,
+                            65
+                        ]
+                    },
+                    {
+                        "screen_name": "HopesNook",
+                        "name": "Hope McPherson\ud83d\udd8a\ud83d\udcd6",
+                        "id": 874422649933320193,
+                        "id_str": "874422649933320193",
+                        "indices": [
+                            66,
+                            76
+                        ]
+                    },
+                    {
+                        "screen_name": "Sarcasmancer",
+                        "name": "Hank Whitson",
+                        "id": 25584371,
+                        "id_str": "25584371",
+                        "indices": [
+                            77,
+                            90
+                        ]
+                    },
+                    {
+                        "screen_name": "Amberfyre",
+                        "name": "Rhiannon -Outline 2/8 complete ...",
+                        "id": 34781560,
+                        "id_str": "34781560",
+                        "indices": [
+                            91,
+                            101
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Q5ozgDxgcH",
+                        "expanded_url": "https://twitter.com/i/web/status/1150410846310412289",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1149819137683853312,
+            "in_reply_to_status_id_str": "1149819137683853312",
+            "in_reply_to_user_id": 44698860,
+            "in_reply_to_user_id_str": "44698860",
+            "in_reply_to_screen_name": "Shadewing",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 9,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/826553338007285761/c4txlG2g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/826553338007285761/c4txlG2g_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227035964/1548707793",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "194848302": {
+        "id": 194848302,
+        "id_str": "194848302",
+        "name": "Maulana yusuf",
+        "screen_name": "ysufmaulana",
+        "location": "Ciledug-bekasi ",
+        "description": "Fino alla fine Forza Juventus!!! | geography mentor |  seperti siklus hidrologi, membawa air kembali ke samudra. Tempat terakhir",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 716,
+        "friends_count": 756,
+        "listed_count": 1,
+        "created_at": "Sat Sep 25 03:48:26 +0000 2010",
+        "favourites_count": 125,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 44668,
+        "lang": null,
+        "status": {
+            "created_at": "Sun Jan 24 16:20:02 +0000 2016",
+            "id": 691294398844313600,
+            "id_str": "691294398844313600",
+            "text": "RT @asriprahesti: Lawan Carpi dikira mudah...?\nAllegri aja sampe berubah jadi Hulk.\n\nInter dikasih Lasagna.\n\nJadi laper.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "asriprahesti",
+                        "name": "Asri Prahesti",
+                        "id": 79134803,
+                        "id_str": "79134803",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Jan 24 15:58:13 +0000 2016",
+                "id": 691288908332605441,
+                "id_str": "691288908332605441",
+                "text": "Lawan Carpi dikira mudah...?\nAllegri aja sampe berubah jadi Hulk.\n\nInter dikasih Lasagna.\n\nJadi laper.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 5,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "in"
+            },
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499911105590730752/g66PucM6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499911105590730752/g66PucM6_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194848302/1404713552",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "1001786274653573125": {
+        "id": 1001786274653573125,
+        "id_str": "1001786274653573125",
+        "name": "Geography Teacher Mentoring",
+        "screen_name": "GeogMentor",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 84,
+        "friends_count": 64,
+        "listed_count": 0,
+        "created_at": "Wed May 30 11:23:54 +0000 2018",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13,
+        "lang": null,
+        "status": {
+            "created_at": "Tue Apr 23 20:09:24 +0000 2019",
+            "id": 1120781737611681792,
+            "id_str": "1120781737611681792",
+            "text": "The Geography Mentor survey will be closing on 30th April. Make sure you don't miss the chance to have your voice h\u2026 https://t.co/UmGymBu2ue",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/UmGymBu2ue",
+                        "expanded_url": "https://twitter.com/i/web/status/1120781737611681792",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088572503101001729/orQLJYEu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088572503101001729/orQLJYEu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001786274653573125/1547146250",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    },
+    "765108990216986626": {
+        "id": 765108990216986626,
+        "id_str": "765108990216986626",
+        "name": "Teaching Ted",
+        "screen_name": "TeachingTed",
+        "location": "United Kingdom",
+        "description": "PE Teacher, Director of T&L, Leadership Team, NQT/ITT Mentor! Non Specialist Geography Teacher! Btec L2/L3, Work to live! https://t.co/0h6DKxZiIk",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/0h6DKxZiIk",
+                        "expanded_url": "https://teachingtedblog.wordpress.com",
+                        "display_url": "teachingtedblog.wordpress.com",
+                        "indices": [
+                            122,
+                            145
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 660,
+        "friends_count": 481,
+        "listed_count": 21,
+        "created_at": "Mon Aug 15 08:52:53 +0000 2016",
+        "favourites_count": 1145,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1516,
+        "lang": null,
+        "status": {
+            "created_at": "Fri May 31 18:32:25 +0000 2019",
+            "id": 1134528070692610049,
+            "id_str": "1134528070692610049",
+            "text": "I love this. \ud83d\ude0e\ud83d\ude0e https://t.co/xlamyKYRQ4",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/xlamyKYRQ4",
+                        "expanded_url": "https://twitter.com/LucozadeSport/status/1133341279235072000",
+                        "display_url": "twitter.com/LucozadeSport/\u2026",
+                        "indices": [
+                            16,
+                            39
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1133341279235072000,
+            "quoted_status_id_str": "1133341279235072000",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765115993421217792/6LlQbQk6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765115993421217792/6LlQbQk6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765108990216986626/1471253071",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    }
+}

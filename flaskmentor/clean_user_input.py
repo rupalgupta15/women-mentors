@@ -15,11 +15,13 @@ def preprocess(string):
     """ Remove punctuations from a string, remove excess whitespace
     Returns: clean string
     """
-    cleaned = regex.sub("", string)
+    cleaned = regex.sub(" ", string)
+    # cleaned = regex.sub('\s+', ' ', string).strip()
     return cleaned.lower()
 
 
 def main(user_query=""):
+    #  ALSO REFER TO CODE IN MATCH MENTORS.py and other places where the above two functions aare used direectly
     user_query_list = []
 
     if user_query:

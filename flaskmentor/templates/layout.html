@@ -10,10 +10,11 @@
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style3.css') }}">
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style4.css') }}">
     <!-- Custom styles for this template -->
 
 </head>
+
 {% block style %}
 <style>
     .nobg {
@@ -27,6 +28,7 @@
 {% endblock style %}
 
 <body class="">
+<div class="wrapper">
     {% block navigation %}
     <div class="bg pb-5 mb-5">
         <!--Navigation Bar-->
@@ -93,7 +95,8 @@
     </main>
     <br />
     <br />
-
+<div class="push"></div>
+</div>
     <!-- Component: Footer -->
     <!--<footer class='page-footer footer-classic context-dark black'>-->
     <footer class="page-footer pt-4 bg-dark">
@@ -108,9 +111,9 @@
                  <h4 style="color:white;"> Quick Links</h4>
                  <ul class='list-unstyled'>  <!-- unstyled removes the bullets from list -->
                    <!-- another list class: list-inline -> shows elements horizontally rather than vertically -->
-                   <li><a href='#'>Home</a></li>
-                   <li><a href='#'>Find Mentors</a></li>
-                   <li><a href='#'>Recommend Mentors</a></li>
+                   <li><a href='/home'>Home</a></li>
+                   <li><a href='/search'>Find Mentors</a></li>
+                   <li><a href='/description'>Recommend Mentors</a></li>
                  </ul>
                </div>
 
@@ -119,9 +122,8 @@
               <div class='col-sm-4 ml-5 col-md-3 col-xs-6'>
                 <h4 style="color:white;">Contact Us</h4>
                 <ul class='list-unstyled'>
-                    <li><a href='#'>Email</a></li>
-                    <li><a href='#'>Tweet</a></li>
-                    <li><a href='#'>Facebook</a></li>
+                    <li><a href='https://twitter.com/WomenmentorsC' target="_blank">Tweet</a></li>
+                    <li><a href='https://www.facebook.com/womenmentor.co/' target="_blank">Facebook</a></li>
                 </ul>
 
               </div>

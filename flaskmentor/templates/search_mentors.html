@@ -1,3 +1,4 @@
+
 {% extends "layout.html" %}
 
 {% block script %}
@@ -5,12 +6,39 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.5.1/vue-resource.min.js"></script>
     <script src="https://unpkg.com/vuex"></script>
     <script src="https://unpkg.com/vue-router"></script>
-    <script src="{{ url_for('static', filename='js/script1.js') }}">
+    <script src="{{ url_for('static', filename='js/script4.js') }}">
+    </script>
+    <script>
+        window.onload = function(){
+            document.getElementById("ready").style.display = "block"
+            document.getElementById("loading").style.display = "none"
+            setTimeout(whenNoData, 3000);
+        }
+        function whenNoData() {
+        if(document.getElementById('nodata')) {
+            document.getElementById('nodata').style.display= "block";
+            }
+        }
+        function validate() {
+        if(document.getElementById('nodata')) {
+            document.getElementById('nodata').style.display= "block";
+            }
+        }
+
+        function enterPressed(e)
+        {
+            var keycode;
+            if (window.event) keycode = window.event.keyCode;
+            if (window.event.keyCode == 13 ) return false;
+        }
+
     </script>
 {% endblock script %}
 
 {% block content %}
-    <h2> Search Mentors </h2>
+
+    <h2 class="mb-3"> Search Mentors </h2>
+    <p class="mb-3"><em> Dynamically search for mentors by keying in name, location or skill.</em></p>
     <div id="vue-app">
     <!-- this div is controlled by Vue JS-->
 <!--        <p> what is the search [[ search ]]</p>-->
@@ -18,7 +46,7 @@
 <!--        <h1>All Mentors </h1>-->
     <form>
         <div class="input-group input-group-sm">
-          <input type="text" v-model="search" class="form-control" placeholder="Search for Mentors" value = "java">
+          <input type="text" id="searchbox" v-model="search" class="form-control" placeholder="Search for Mentors" onchange='validate()' onkeydown="return enterPressed(this)" value = "java">
           <div class="input-group-btn">
             <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
           </div>
@@ -27,13 +55,36 @@
 
 <!--    <input type="text" v-model="search" class = "search_box py-3 border-right-0 border col-xs-8" placeholder="Search for Mentors (Name, Location or Skills)" />-->
     <!--  v-model is used to fetch what is typed in the search box and save it in vue search variable-->
-    <div v-for="mentor in filteredMentors" class="single-mentor">
-        <h2> [[ mentor.name ]] </h2>
-        <article> [[ mentor.location ]] </article>
-        <p> [[ mentor.description ]] </p>
+    <div id="loading">
+        <img id="loading-image" src="/static/img/tenor.gif" alt="Loading..." />
     </div>
+    <div id="ready">
+        <template v-if="filteredMentors">
+            <div class="card-deck">
+            <div v-for="mentor in filteredMentors" >
+
+            <a :href="mentor.link_to_profile" target="_blank" class="custom-card">
+                <div class="card mt-5 card-div" style="width:235px; height:570px;">
+                    <img class="card-img-top" :src="mentor.original_profile_pic" alt="Card image" onerror="this.onerror=null;this.src='/static/img/default_profile_pic.png';" style="width100%">
+                    <div class="card-body">
+                        <h4 class="card-title">[[ mentor.name ]]</h4>
+                        <p class="card-subtitle mb-2 text-muted">[[ mentor.location ]]</p>
+                        <p class="card-text">[[ mentor.description ]]</p>
+                    </div>
+                </div>
+            </a>
+            </div>
+                </div>
+        </template>
     </div>
+    <div class="row mt-2"></div>
+    <div id='nodata' v-if="!filteredMentors.length" class="alert alert-secondary" role="alert">
+        Sorry, could not find what you're looking for! Please retry with another keyword.
+    </div>
+
+</div>
     </div>
 
 {% endblock content %}
+
 

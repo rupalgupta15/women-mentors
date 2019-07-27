@@ -1,0 +1,501 @@
+{
+    "817367089396609024": {
+        "id": 817367089396609024,
+        "id_str": "817367089396609024",
+        "name": "Amaan Iqbal",
+        "screen_name": "amaan_iqbal9",
+        "location": "",
+        "description": "Full Stack Web Developer | Machine Learning & Open Source Enthusiast | Deep Learning @mozilla | Google Code-in mentor @sugar_labs | @gsoc student @cdli_news",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1385,
+        "friends_count": 1664,
+        "listed_count": 11,
+        "created_at": "Fri Jan 06 13:47:54 +0000 2017",
+        "favourites_count": 63,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22,
+        "lang": null,
+        "status": {
+            "created_at": "Mon Jul 08 17:42:14 +0000 2019",
+            "id": 1148286182142275584,
+            "id_str": "1148286182142275584",
+            "text": "RT @MikeQuindazzi: Violence-detecting #drones leverage #AI to help keep the peace &gt;&gt;&gt; @Seeker via @MikeQuindazzi &gt;&gt;&gt; #IoT #ComputerVision #\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "drones",
+                        "indices": [
+                            38,
+                            45
+                        ]
+                    },
+                    {
+                        "text": "AI",
+                        "indices": [
+                            55,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "IoT",
+                        "indices": [
+                            135,
+                            139
+                        ]
+                    },
+                    {
+                        "text": "ComputerVision",
+                        "indices": [
+                            140,
+                            155
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MikeQuindazzi",
+                        "name": "Mike Quindazzi \u2728",
+                        "id": 2344530218,
+                        "id_str": "2344530218",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "Seeker",
+                        "name": "Seeker",
+                        "id": 16438248,
+                        "id_str": "16438248",
+                        "indices": [
+                            95,
+                            102
+                        ]
+                    },
+                    {
+                        "screen_name": "MikeQuindazzi",
+                        "name": "Mike Quindazzi \u2728",
+                        "id": 2344530218,
+                        "id_str": "2344530218",
+                        "indices": [
+                            107,
+                            121
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Jul 08 17:03:34 +0000 2019",
+                "id": 1148276450103050241,
+                "id_str": "1148276450103050241",
+                "text": "Violence-detecting #drones leverage #AI to help keep the peace &gt;&gt;&gt; @Seeker via @MikeQuindazzi &gt;&gt;&gt; #IoT\u2026 https://t.co/RHtqsVdWA0",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "drones",
+                            "indices": [
+                                19,
+                                26
+                            ]
+                        },
+                        {
+                            "text": "AI",
+                            "indices": [
+                                36,
+                                39
+                            ]
+                        },
+                        {
+                            "text": "IoT",
+                            "indices": [
+                                116,
+                                120
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Seeker",
+                            "name": "Seeker",
+                            "id": 16438248,
+                            "id_str": "16438248",
+                            "indices": [
+                                76,
+                                83
+                            ]
+                        },
+                        {
+                            "screen_name": "MikeQuindazzi",
+                            "name": "Mike Quindazzi \u2728",
+                            "id": 2344530218,
+                            "id_str": "2344530218",
+                            "indices": [
+                                88,
+                                102
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/RHtqsVdWA0",
+                            "expanded_url": "https://twitter.com/i/web/status/1148276450103050241",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                122,
+                                145
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 135,
+                "favorite_count": 153,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 135,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022823985157832704/RLTQET_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022823985157832704/RLTQET_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/817367089396609024/1534349561",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "male"
+    },
+    "3271999675": {
+        "id": 3271999675,
+        "id_str": "3271999675",
+        "name": "Rupali Rodgers",
+        "screen_name": "rodgers_rupali",
+        "location": "",
+        "description": "KG Makerspace Teacher @ Fraser Mustard ELA | TDSB DLL Mentor | STEAM POR | #TinkeringThursdays | Leveraging Tech in the Early Years through Deep Learning",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1055,
+        "friends_count": 367,
+        "listed_count": 40,
+        "created_at": "Wed Jul 08 14:21:54 +0000 2015",
+        "favourites_count": 3983,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1810,
+        "lang": null,
+        "status": {
+            "created_at": "Thu Jul 04 15:11:08 +0000 2019",
+            "id": 1146798606676107265,
+            "id_str": "1146798606676107265",
+            "text": "RT @MrsGeekChic: First summer PD! \ud83d\ude4c\ud83c\udffc Pumped to learn, network and get #FabLab #makerspace ideas for the @LL_TDSB LLC today at MakerEdTO! #M\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FabLab",
+                        "indices": [
+                            70,
+                            77
+                        ]
+                    },
+                    {
+                        "text": "makerspace",
+                        "indices": [
+                            78,
+                            89
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MrsGeekChic",
+                        "name": "Larissa Aradj, OCT",
+                        "id": 3037921451,
+                        "id_str": "3037921451",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "LL_TDSB",
+                        "name": "Lord Lansdowne PS",
+                        "id": 3258239406,
+                        "id_str": "3258239406",
+                        "indices": [
+                            104,
+                            112
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Jul 04 11:15:38 +0000 2019",
+                "id": 1146739338694320128,
+                "id_str": "1146739338694320128",
+                "text": "First summer PD! \ud83d\ude4c\ud83c\udffc Pumped to learn, network and get #FabLab #makerspace ideas for the @LL_TDSB LLC today at MakerE\u2026 https://t.co/F3rOw6pPGR",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "FabLab",
+                            "indices": [
+                                53,
+                                60
+                            ]
+                        },
+                        {
+                            "text": "makerspace",
+                            "indices": [
+                                61,
+                                72
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "LL_TDSB",
+                            "name": "Lord Lansdowne PS",
+                            "id": 3258239406,
+                            "id_str": "3258239406",
+                            "indices": [
+                                87,
+                                95
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/F3rOw6pPGR",
+                            "expanded_url": "https://twitter.com/i/web/status/1146739338694320128",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "3797791ff9c0e4c6",
+                    "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+                    "place_type": "city",
+                    "name": "Toronto",
+                    "full_name": "Toronto, Ontario",
+                    "country_code": "CA",
+                    "country": "Canada",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -79.639319,
+                                    43.403221
+                                ],
+                                [
+                                    -78.90582,
+                                    43.403221
+                                ],
+                                [
+                                    -78.90582,
+                                    43.855401
+                                ],
+                                [
+                                    -79.639319,
+                                    43.855401
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 28,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054122005631512576/GyF7I8sN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054122005631512576/GyF7I8sN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3271999675/1556396403",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "female"
+    },
+    "1335348374": {
+        "id": 1335348374,
+        "id_str": "1335348374",
+        "name": "MoneyMentor",
+        "screen_name": "heymoneymentor",
+        "location": "New York, NY",
+        "description": "The financial partner for Gen Z. Using deep learning to scale personalized financial advice over text message.",
+        "url": "https://t.co/a8oUrF5a7J",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/a8oUrF5a7J",
+                        "expanded_url": "http://www.money-mentor.com",
+                        "display_url": "money-mentor.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": true,
+        "followers_count": 1049,
+        "friends_count": 1259,
+        "listed_count": 49,
+        "created_at": "Sun Apr 07 23:50:50 +0000 2013",
+        "favourites_count": 1764,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1402,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102674296625717248/_MUSdIsI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102674296625717248/_MUSdIsI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335348374/1552524034",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "replies_flag": "N",
+        "gender_val": "unknown"
+    }
+}
