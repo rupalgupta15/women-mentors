@@ -38,8 +38,7 @@ class Test6(db.Model, UserMixin):
     preference = db.Column(db.String(100), nullable=False)
     user_id = db.Column(db.Integer, db.ForeignKey('user6.id'), nullable=False)
 
-    # Id of user
-    # In user model, Posts is started with capital letter because we are using the actual Post class.
+    # In user model, Test is started with capital letter because we are using the actual Test class.
     # But here we use 'user.id' with small u because it is actual table in db, and actual column
     # table and column name are simply lowercase by default
 
@@ -51,7 +50,6 @@ class Test6(db.Model, UserMixin):
 class OAuth(OAuthConsumerMixin, db.Model):
     # __table_args__ = (db.UniqueConstraint("provider", "provider_user_id"),)
     provider_user_id = db.Column(db.String(256), nullable=False, unique=True)
-    # provider_user_login = db.Column(db.String(256), nullable=False)
     user_id = db.Column(db.Integer, db.ForeignKey(User6.id), nullable=False)
     user = db.relationship(
         User6

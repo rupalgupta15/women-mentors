@@ -127,7 +127,6 @@ def main(skills_query=None, loc_query=None, filename="final_mentors.json"):
     #  give preference to matching ids first and then non matching ids
 
     print('len filtered_ids', len(filtered_ids))
-    print('filtered_ids', filtered_ids)
     if len(filtered_ids) == 0:
         if loc_query and len(loc_query) > 0:
             return [], []

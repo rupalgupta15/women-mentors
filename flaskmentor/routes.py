@@ -312,13 +312,13 @@ def login():
 def settings():
     form = SettingsForm()
     if form.validate_on_submit():
-        current_user.username = form.username.data
+        # current_user.username = form.username.data
         user_id = current_user.id
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
         sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()
         print('details when first time', details)
         print('Gett all details of the user in database')
-        print('sec deetails', sec_details)
+        print('sec details', sec_details)
         details.mentorskills = form.mentorskills.data
         details.location = form.location.data
         details.preference = form.preference.data
@@ -329,7 +329,7 @@ def settings():
     # redirecting causes get request so we wont get that dialog box
     elif request.method == 'GET':
         # Let's us already populate current username data
-        form.username.data = current_user.username
+        # form.username.data = current_user.username
         user_id = current_user.id
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
         sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()

@@ -60,7 +60,6 @@ class LoginForm(FlaskForm):
 
 
 class SettingsForm(FlaskForm):
-    username = StringField('Username', validators=[DataRequired(), Length(min=2, max=20)])
     mentorskills = StringField('Mentor Skills Required', validators=[DataRequired()],
                               render_kw={"placeholder": "Mentor Skills Required (e.g. Python, Java)*"})
     preference = SelectField('Preferred Method of Mentorship',
@@ -70,11 +69,11 @@ class SettingsForm(FlaskForm):
     location = StringField('Location', validators=[], render_kw={"placeholder": "Your Location"})
     submit = SubmitField('Update')
 
-    def validate_username(self, username):
-        if username.data != current_user.username:
-            user = User6.query.filter_by(username=username.data).first()
-            if user:
-                raise ValidationError('The username already exists. Please choose a different one.')
+    # def validate_username(self, username):
+    #     if username.data != current_user.username:
+    #         user = User6.query.filter_by(username=username.data).first()
+    #         if user:
+    #             raise ValidationError('The username already exists. Please choose a different one.')
 
     # def validate_email(self, email):
     #     if email.data != current_user.email:
