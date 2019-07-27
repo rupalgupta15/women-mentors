@@ -318,7 +318,6 @@ def settings():
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
         sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()
         print('details when first time', details)
-        print('should it be details[0]', details[0])
         print('sec deetails', sec_details)
         details.mentorskills = form.mentorskills.data
         details.location = form.location.data
