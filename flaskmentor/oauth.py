@@ -21,5 +21,5 @@ def index():
     return "You are @{screen_name} on Twitter".format(screen_name=resp.json()["screen_name"])
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
