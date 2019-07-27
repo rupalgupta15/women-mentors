@@ -44,7 +44,7 @@ class Test6(db.Model, UserMixin):
     # table and column name are simply lowercase by default
 
     def __repr__(self):
-        return f"T1('{self.id}, {self.mentorskills}, {self.location}, {self.preference}, {self.user_id}')"
+        return f"Test6('{self.id}, {self.mentorskills}, {self.location}, {self.preference}, {self.user_id}')"
 
 
 # https://github.com/singingwolfboy/flask-dance-multi-provider/blob/master/app/models.py
