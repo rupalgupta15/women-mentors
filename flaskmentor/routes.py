@@ -235,7 +235,6 @@ def description():
     # final_top_mentors = match_mentors.main(skills_list, loc_list)
     if loc_list and len(loc_list) > 0:
         loc_list, not_loc_list = match_mentors.main(skills_list, loc_list)
-        print('loc_list, not_loc_list', loc_list, not_loc_list)
         final_top_mentors = prioritize_women_mentors(loc_list=loc_list, no_loc_list=not_loc_list)
     else:
         all_matched_mentors = match_mentors.main(skills_list, loc_list)
@@ -333,7 +332,6 @@ def settings():
         user_id = current_user.id
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
         sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()
-        print()
         print('details when GET', details)
         print('sec_details when GET', sec_details)
         if details is None:
