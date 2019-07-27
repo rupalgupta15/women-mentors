@@ -316,6 +316,10 @@ def settings():
         current_user.username = form.username.data
         user_id = current_user.id
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
+        sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()
+        print('details when first time', details)
+        print('should it be details[0]', details[0])
+        print('sec deetails', sec_details)
         details.mentorskills = form.mentorskills.data
         details.location = form.location.data
         details.preference = form.preference.data
@@ -329,6 +333,10 @@ def settings():
         form.username.data = current_user.username
         user_id = current_user.id
         details = Test6.query.join(User6).filter(User6.id == user_id).first()
+        sec_details = Test6.query.join(User6).filter(User6.id == user_id).all()
+        print()
+        print('details when GET', details)
+        print('sec_details when GET', sec_details)
         if details is None:
             return redirect(url_for('user_details'))
         #     This means user has not updated his/her settings, take them back to the page to ask for description
