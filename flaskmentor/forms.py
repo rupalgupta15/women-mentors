@@ -1,7 +1,7 @@
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, SubmitField, BooleanField, TextAreaField, SelectField, RadioField
 from wtforms.validators import DataRequired, Length, Email, EqualTo, ValidationError, Optional
-from flaskmentor.models import U1
+from flaskmentor.models import User6
 from flask_login import current_user
 
 
@@ -41,12 +41,12 @@ class SignUpForm(FlaskForm):
     submit = SubmitField('Sign Up')
 
     def validate_username(self, username):
-        user = U1.query.filter_by(username=username.data).first()
+        user = User6.query.filter_by(username=username.data).first()
         if user:
             raise ValidationError('The username already exists. Please choose a different one.')
 
     def validate_email(self, email):
-        user = U1.query.filter_by(email=email.data).first()
+        user = User6.query.filter_by(email=email.data).first()
         if user:
             raise ValidationError('The email already exists. Please choose a different one.')
 
@@ -72,7 +72,7 @@ class SettingsForm(FlaskForm):
 
     def validate_username(self, username):
         if username.data != current_user.username:
-            user = U1.query.filter_by(username=username.data).first()
+            user = User6.query.filter_by(username=username.data).first()
             if user:
                 raise ValidationError('The username already exists. Please choose a different one.')
 

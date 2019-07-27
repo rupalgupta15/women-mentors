@@ -8,11 +8,11 @@ from sqlalchemy.orm.collections import attribute_mapped_collection
 # decorate the function
 @login_manager.user_loader
 def load_user(user_id):
-    return U1.query.get(int(user_id))
+    return User6.query.get(int(user_id))
 
 
 # Class for users
-class U1(db.Model, UserMixin):
+class User6(db.Model, UserMixin):
     # columns
     # __tablename__ = "users"  # to get old users
     id = db.Column(db.Integer, primary_key=True)
@@ -23,20 +23,20 @@ class U1(db.Model, UserMixin):
     # After adding twitter Oauth making password and email nullable = True
     # hashing algorithm will make this string as 60 char long
     # description = db.Column(db.String(250))
-    owner = db.relationship('T1', backref='owner', lazy=True)
+    owner = db.relationship('Test6', backref='owner', lazy=True)
     # backref is similar to adding another column to Details model - details will be added as description
 
     # Magic Method: How object is printed when we print it (also __scr__)
     def __repr__(self):
-        return f"U1('{self.id}, {self.username}, {self.email}, {self.owner}')"
+        return f"User6('{self.id}, {self.username}, {self.email}, {self.owner}')"
 
 
-class T1(db.Model, UserMixin):
+class Test6(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True)
     mentorskills = db.Column(db.String(200), nullable=False)
     location = db.Column(db.Text, nullable=True)
     preference = db.Column(db.String(100), nullable=False)
-    user_id = db.Column(db.Integer, db.ForeignKey('u1.id'), nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey('user6.id'), nullable=False)
 
     # Id of user
     # In user model, Posts is started with capital letter because we are using the actual Post class.
@@ -52,9 +52,9 @@ class OAuth(OAuthConsumerMixin, db.Model):
     # __table_args__ = (db.UniqueConstraint("provider", "provider_user_id"),)
     provider_user_id = db.Column(db.String(256), nullable=False, unique=True)
     # provider_user_login = db.Column(db.String(256), nullable=False)
-    user_id = db.Column(db.Integer, db.ForeignKey(U1.id), nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey(User6.id), nullable=False)
     user = db.relationship(
-        U1
+        User6
         # This `backref` thing sets up an `oauth` property on the User model,
         # which is a dictionary of OAuth models associated with that user,
         # where the dictionary key is the OAuth provider name.
@@ -77,7 +77,7 @@ class OAuth(OAuthConsumerMixin, db.Model):
 # heroku python
 # from flaskmentor import db
 # db.create_all()
-#
+
 
 
 #  Current database in Heroku is by the names of User6 and Test6.

@@ -4,7 +4,7 @@ from flask import jsonify, render_template, send_from_directory, request, url_fo
 from flaskmentor.forms import SignUpForm, LoginForm, DetailsForm, SettingsForm
 from flaskmentor import app, bcrypt, db
 from flaskmentor import match_mentors, clean_user_input
-from flaskmentor.models import U1, T1, OAuth
+from flaskmentor.models import User6, Test6, OAuth
 from flask_paginate import Pagination, get_page_args
 from flask_login import login_user, current_user, logout_user, login_required
 from flask_dance.contrib.twitter import make_twitter_blueprint, twitter
@@ -120,13 +120,13 @@ def twitter_logged_in(blueprint, token):
         # Need to check if corresponding entry present in test table - for settings
         user_id = current_user.id
         # print('user_id', user_id)
-        details = T1.query.join(U1).filter(U1.id == user_id).all()
+        details = Test6.query.join(User6).filter(User6.id == user_id).all()
         # print('details', details)
         if len(details) == 0:
             return redirect(url_for('user_details'))
     else:
         # Create a new local user account for this user
-        user = U1(
+        user = User6(
             # Remember that `email` can be None, if the user declines to publish their email address on GitHub!
             username=twitter_info["screen_name"]
         )
@@ -140,7 +140,7 @@ def twitter_logged_in(blueprint, token):
         flash("Successfully signed in with Twitter.", 'success')
         user_id = current_user.id
         # print('user_id', user_id)
-        details = T1.query.join(U1).filter(U1.id == user_id).all()
+        details = Test6.query.join(User6).filter(User6.id == user_id).all()
         # print('details', details)
         if len(details) == 0:
             return redirect(url_for('user_details'))
@@ -216,7 +216,7 @@ def about():
 @app.route("/description")
 def description():
     user_id = current_user.id
-    details = T1.query.join(U1).filter(U1.id == user_id).all()
+    details = Test6.query.join(User6).filter(User6.id == user_id).all()
     if details:
         skills = details[0].mentorskills
         preference = details[0].preference
@@ -259,7 +259,7 @@ def signup():
     if form.validate_on_submit():
         # first hash the password
         hashed_pw = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
-        user = U1(username=form.username.data, email=form.email.data, password=hashed_pw)
+        user = User6(username=form.username.data, email=form.email.data, password=hashed_pw)
         #  password should be hashed version of text, not the text itself
         db.session.add(user)
         db.session.commit()
@@ -275,7 +275,7 @@ def user_details():
     form = DetailsForm()
     if form.validate_on_submit():
         # print('current_user', current_user)
-        details = T1(mentorskills=form.looking_for.data, location=form.location.data, preference=form.preference.data, owner=current_user)
+        details = Test6(mentorskills=form.looking_for.data, location=form.location.data, preference=form.preference.data, owner=current_user)
         #  password should be hashed version of text, not the text itself
         db.session.add(details)
         db.session.commit()
@@ -291,7 +291,7 @@ def login():
     form = LoginForm()
     if form.validate_on_submit():
         page, per_page, offset = get_page_args(page_parameter='page', per_page_parameter='per_page')
-        user = U1.query.filter_by(email=form.email.data).first()
+        user = User6.query.filter_by(email=form.email.data).first()
         if user and bcrypt.check_password_hash(user.password, form.password.data):
             # we want to log this user in
             login_user(user, remember=form.remember.data)
@@ -314,7 +314,7 @@ def settings():
     if form.validate_on_submit():
         current_user.username = form.username.data
         user_id = current_user.id
-        details = T1.query.join(U1).filter(U1.id == user_id).first()
+        details = Test6.query.join(User6).filter(User6.id == user_id).first()
         details.mentorskills = form.mentorskills.data
         details.location = form.location.data
         details.preference = form.preference.data
@@ -327,7 +327,7 @@ def settings():
         # Let's us already populate current username data
         form.username.data = current_user.username
         user_id = current_user.id
-        details = T1.query.join(U1).filter(U1.id == user_id).first()
+        details = Test6.query.join(User6).filter(User6.id == user_id).first()
         if details is None:
             return redirect(url_for('user_details'))
         #     This means user has not updated his/her settings, take them back to the page to ask for description

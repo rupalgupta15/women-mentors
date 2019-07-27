@@ -4,7 +4,7 @@ from flask_login import current_user
 from flaskmentor import forms, clean_user_input, match_mentors, app, db, bcrypt
 import os
 from wtforms_test import FormTestCase
-from flaskmentor.models import U1, T1
+from flaskmentor.models import User6, Test6
 # import flaskmentor
 
 # mentors_test = {
