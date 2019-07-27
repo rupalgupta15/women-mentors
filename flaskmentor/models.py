@@ -71,10 +71,10 @@ class OAuth(OAuthConsumerMixin, db.Model):
 # from flaskmentor import db
 # db.create_all()
 # from flaskmentor.models import User, Details
-# User.query.all()
+# User6.query.all()
 # Test6.query.join(U1).filter(U1.id==1).all()
 # On heroku:
-# heroku python
+# heroku run python
 # from flaskmentor import db
 # db.create_all()
 
@@ -82,6 +82,9 @@ class OAuth(OAuthConsumerMixin, db.Model):
 
 #  Current database in Heroku is by the names of User6 and Test6.
 #  26 July database in Heroku is by the names of U1 and T1.
+# Heroku only works with User6 and Test6 databases, failed miserably when U1 and T1 used.
+# But now database has issue in heroku - sign up does not work at all
+
 
 
 # POSTGRESQL, commands:

@@ -31,7 +31,6 @@ def prioritize_women_mentors(loc_list, no_loc_list):
         final_top_mentors.extend(sorted_other)
         return final_top_mentors
     else:
-        print('BETTER GO HERE')
         loc_match_women = []
         loc_match_other = []
         no_loc_match_women = []
@@ -261,8 +260,10 @@ def signup():
         hashed_pw = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
         user = User6(username=form.username.data, email=form.email.data, password=hashed_pw)
         #  password should be hashed version of text, not the text itself
+        print('user', user)
         db.session.add(user)
         db.session.commit()
+        print('should be commited now')
         flash('Your account has been created! You can now log in.', 'success')
         # 2nd argument is category = "success" if for bootstrap class
         return redirect(url_for('user_details'))
