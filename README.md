@@ -19,7 +19,8 @@ For testing and running it locally, follow these steps:
 4) Type `$psql` and then create database using`create database unittest` and then type `exit`
 5) You would need to change line 102 in match_mentors.py with : `path = '../data/' + filename`
 6) Make sure that before running the unit_tests.py filem you are inside the parent directory : `Mentoring App/flaskmentor`
-7) Run `nosetests unit_tests.py` - it will run unit tests locally 
+7) Before running the tests, please make sure that unittest.json file is present inside the /data/ directory.
+8) Run `nosetests unit_tests.py` - it will run unit tests locally 
 
 ## Running Locally
 To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
