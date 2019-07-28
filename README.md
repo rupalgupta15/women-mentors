@@ -8,4 +8,5 @@ Flask Tutorial: https://coreyms.com/development/python/python-flask-tutorials-fu
 
 Vue JS Tutorial: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
 
-Bootstrap: W3Schools and PluralSight
+Bootstrap: W3Schools https://www.w3schools.com/bootstrap4/default.asp
+           PluralSight https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap
