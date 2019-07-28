@@ -16,7 +16,7 @@ For testing and running it locally, follow these steps:
 1) Create virtual environment (using say `pyenv` ) and run it
 2) Run `pip install -r requirements.txt` - this will install requirements 
 3) Install PostgreSQL 11 (I used it with v2.2.4) from https://postgresapp.com
-4) Type `$psql` and then create database using`create database test` and then type `exit`
+4) Type `$psql` and then create database using`create database unittest` and then type `exit`
 5) You would need to change line 102 in match_mentors.py with : `path = '../data/' + filename`
 6) Make sure that before running the unit_tests.py filem you are inside the parent directory : `Mentoring App/flaskmentor`
 7) Run `nosetests unit_tests.py` - it will run unit tests locally 
