@@ -19,7 +19,7 @@ If you just want to use it as a product, just go to womenmentors.co. For testing
 5) Run `nosetests unit_tests.py` - it will run unit tests locally 
 
 ## Running Locally
-To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
+To run locally run`python run.py` and go to [http://127.0.0.1:5000](127.0.0.1:5000)
 
 Hope you can find a mentor of your own!
 
