@@ -1,7 +1,6 @@
-# women-mentors
+# Instructions to use and test womenmentors.co
 Hi! Welcome to womenmentors.co! The mission of this website is to enable women in STEM fields to grow and develop. This will enable more diversity and more representation of women in tech.  
 
-# Instructions to use and test womenmentors.co
 The tech stack of womenmentors.co is : 
 1) Vue.js, JavaScript, Bootstrap 4, HTML and CSS for front-end
 2) Python with libraries Flask, Jinja, tweepy, nltk at the back-end
@@ -20,13 +19,11 @@ If you just want to use it as a product, just go to womenmentors.co. For testing
 5) Run `nosetests unit_tests.py` - it will run unit tests locally 
 
 ## Running Locally
-6) To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
+To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
 
 Hope you can find a mentor of your own!
 
-
-
-Credits:
+### Credits:
 A lot of the work done here was possible through amazing tutorials available online:
 
 Flask Tutorial: https://coreyms.com/development/python/python-flask-tutorials-full-series
