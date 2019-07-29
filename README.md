@@ -25,7 +25,15 @@ For testing and running it locally, follow these steps:
 ## Running Locally
 To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
 
+## Web App Screenshots
+
+1. Home Page
+[alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
+
 Hope you can find a mentor of your own!
+
 
 ### Credits:
 A lot of the work done here was possible through amazing tutorials available online:

@@ -1,5 +1,5 @@
 # DO NOT RUN THIS CODE AGAIN - AS FINAL MENTORS FILE HAS CHANGED
-# import json
+import json
 # import os
 #
 # # read all files from data folder, create new dict,
@@ -53,3 +53,20 @@
 # #             print('k', k)
 #
 #
+
+f_mentors = []
+other_mentors = []
+
+with open('./data/final_mentors.json', 'rb') as fname:
+    big_file = json.load(fname)
+    print('length',len(big_file))
+
+    for k, v in big_file.items():
+        if v["gender_val"]=="female":
+            f_mentors.append(k)
+        else:
+            other_mentors.append(k)
+
+print('f_mentors', len(f_mentors))
+print('other_mentors', len(other_mentors))
+print('ratio', len(f_mentors)/len(other_mentors))

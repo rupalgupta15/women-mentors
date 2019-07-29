@@ -90,6 +90,12 @@ class OAuth(OAuthConsumerMixin, db.Model):
 # \dt - to see all the tables created so far
 #
 
+# On heroku:
+# to run postgres on heroku: heroku pg:psql
+# \c d9qs9tcc53cjtv (to find database name use "heroku config")
+
+
+
 # For testing I used the same test db named as unittest - https://stackoverflow.com/a/876565/7862857
 # using commands:
 # CREATE DATABASE newdb WITH TEMPLATE test;

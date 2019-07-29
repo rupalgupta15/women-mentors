@@ -60,7 +60,6 @@ def user_query_processing(user_query_list, mentors_dict):
         return matched_ids
     for key in sorted_match_count_dict:
         if key == 0 or len(matched_ids) >= 10:
-            print('returned on home?')
             return matched_ids[:30]
         matched_ids.extend(match_counts_dict[key])
     return matched_ids[:30]
@@ -99,7 +98,7 @@ def get_data(final_filtered_ids, mentors_dict):
 def main(skills_query=None, loc_query=None, filename="final_mentors.json"):
     # both queries will come in the form of a list - mostly containing only 1 element
     # Fetching data from mentors json file to a dictionary
-    path = './data/' + filename
+    path = '../data/' + filename
     # for unit test to work,  might need to change it to ../data
 
     with open(path, 'r') as f:

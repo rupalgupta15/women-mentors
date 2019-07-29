@@ -262,7 +262,7 @@ def signup():
         print('user', user)
         db.session.add(user)
         db.session.commit()
-        print('should be commited now')
+        # print('should be commited now')
         flash('Your account has been created! You can now log in.', 'success')
         # 2nd argument is category = "success" if for bootstrap class
         return redirect(url_for('user_details'))
