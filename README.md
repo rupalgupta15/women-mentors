@@ -1,5 +1,5 @@
-# Instructions to use and test womenmentors.co
-Hi! Welcome to womenmentors.co! The mission of this website is to enable women in STEM fields to grow and develop. This will enable more diversity and more representation of women in tech.  
+# Instructions to use and test https://www.womenmentors.co
+Hi! Welcome to https://www.womenmentors.co! The mission of this website is to enable women in STEM fields to grow and develop. This will enable more diversity and more representation of women in tech.  
 
 The tech stack of womenmentors.co is : 
 1) Vue.js, JavaScript, Bootstrap 4, HTML and CSS for front-end
