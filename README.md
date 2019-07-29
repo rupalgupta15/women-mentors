@@ -27,14 +27,14 @@ To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
 
 ## Web App Screenshots
 
-[alt text](flaskmentor/static/img/screenshots/Homepage.png?raw=true "HomePage")
-[alt text](flaskmentor/static/img/screenshots/Topmentors.png?raw=true "Topmentors")
-[alt text](flaskmentor/static/img/screenshots/recommendedmentors.png?raw=true "recommendedmentors")
-[alt text](flaskmentor/static/img/screenshots/searchmentors.png?raw=true "searchmentors")
-[alt text](flaskmentor/static/img/screenshots/settings.png?raw=true "settings")
-[alt text](flaskmentor/static/img/screenshots/Login.png?raw=true "Login")
-[alt text](flaskmentor/static/img/screenshots/signup.png?raw=true "signup")
-[alt text](flaskmentor/static/img/screenshots/twitterauth.png?raw=true "twitterauth")
+![alt text](flaskmentor/static/img/screenshots/Homepage.png?raw=true "HomePage")
+![alt text](flaskmentor/static/img/screenshots/Topmentors.png?raw=true "Topmentors")
+![alt text](flaskmentor/static/img/screenshots/recommendedmentors.png?raw=true "recommendedmentors")
+![alt text](flaskmentor/static/img/screenshots/searchmentors.png?raw=true "searchmentors")
+![alt text](flaskmentor/static/img/screenshots/settings.png?raw=true "settings")
+![alt text](flaskmentor/static/img/screenshots/Login.png?raw=true "Login")
+![alt text](flaskmentor/static/img/screenshots/signup.png?raw=true "signup")
+![alt text](flaskmentor/static/img/screenshots/twitterauth.png?raw=true "twitterauth")
 
 
 Hope you can find a mentor of your own!
