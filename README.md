@@ -27,13 +27,28 @@ To run locally run`python run.py` and go to [127.0.0.1:5000](127.0.0.1:5000)
 
 ## Web App Screenshots
 
+1. Home Page 
 ![alt text](flaskmentor/static/img/screenshots/Homepage.png?raw=true "HomePage")
+
+2. Top Mentors
 ![alt text](flaskmentor/static/img/screenshots/Topmentors.png?raw=true "Topmentors")
-![alt text](flaskmentor/static/img/screenshots/recommendedmentors.png?raw=true "recommendedmentors")
-![alt text](flaskmentor/static/img/screenshots/searchmentors.png?raw=true "searchmentors")
+
+3. Preferences after signing-up
 ![alt text](flaskmentor/static/img/screenshots/settings.png?raw=true "settings")
+
+4. Recommended Mentors Upon Signing Up and choosing preferences and location
+![alt text](flaskmentor/static/img/screenshots/recommendedmentors.png?raw=true "recommendedmentors")
+
+5. Searching Mentors (client-side implementation)
+![alt text](flaskmentor/static/img/screenshots/searchmentors.png?raw=true "searchmentors")
+
+6. Login
 ![alt text](flaskmentor/static/img/screenshots/Login.png?raw=true "Login")
+
+7. Signup
 ![alt text](flaskmentor/static/img/screenshots/signup.png?raw=true "signup")
+
+8. Signup/ Login using Twitter
 ![alt text](flaskmentor/static/img/screenshots/twitterauth.png?raw=true "twitterauth")
 
 
