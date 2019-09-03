@@ -6,8 +6,8 @@ from flask_dance.contrib.twitter import make_twitter_blueprint, twitter
 app = Flask(__name__)
 app.secret_key = "supersekrit"
 blueprint = make_twitter_blueprint(
-    api_key="9jurSy2yLbPaGLPr3mBnoq61b",
-    api_secret="8Ymv6VJAGvOAXD5F8upt3iLbdsFBkj3rauToRKgFXJrOdx5jpn",
+    api_key="",  # TODO: Add api key
+    api_secret="", # TODO: Add api secret
 )
 app.register_blueprint(blueprint, url_prefix="/login")
 
