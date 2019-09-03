@@ -1,7 +1,7 @@
 import requests
 import json
 
-subscription_key = '81ccca801c964b0c8ae708f993662afc'
+subscription_key = ''  # TODO: Add subscription key
 assert subscription_key
 
 
