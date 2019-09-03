@@ -8,10 +8,6 @@
 # # access_token = os.getenv("ACCESS_KEY_TWITTER")
 # # access_token_secret = os.getenv("ACCESS_SECRET_TWITTER")
 #
-# consumer_key = "9jurSy2yLbPaGLPr3mBnoq61b"
-# consumer_secret = "8Ymv6VJAGvOAXD5F8upt3iLbdsFBkj3rauToRKgFXJrOdx5jpn"
-# access_token = "526834125-KNkrRzAiYGv7dcBnbg78VQ3eYWueGaxeXMwTOuXW"
-# access_token_secret ="ZdELv0MenDKsTXoef5sqyxd0MtZwtkCadVo9t9vUXOoZ1"
 #
 # t = Twitter(auth=OAuth(access_token, access_token_secret, consumer_key, consumer_secret))  #, retry=True
 #
@@ -50,10 +46,10 @@
 from twitter import *
 import io, json, re
 
-consumer_key = "9jurSy2yLbPaGLPr3mBnoq61b"
-consumer_secret = "8Ymv6VJAGvOAXD5F8upt3iLbdsFBkj3rauToRKgFXJrOdx5jpn"
-access_token = "526834125-KNkrRzAiYGv7dcBnbg78VQ3eYWueGaxeXMwTOuXW"
-access_token_secret ="ZdELv0MenDKsTXoef5sqyxd0MtZwtkCadVo9t9vUXOoZ1"
+consumer_key = "" # TODO: Add consumer key
+consumer_secret = "" # TODO: Add consumer secret
+access_token = "" # TODO: Add access token
+access_token_secret ="" # TODO: Add access token secret
 
 
 def escape_text_for_table(text):
