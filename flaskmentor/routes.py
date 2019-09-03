@@ -70,9 +70,9 @@ def prioritize_women_mentors(loc_list, no_loc_list):
 
 app.secret_key = "supersekrit"
 blueprint = make_twitter_blueprint(
-    api_key="9jurSy2yLbPaGLPr3mBnoq61b",
-    api_secret="8Ymv6VJAGvOAXD5F8upt3iLbdsFBkj3rauToRKgFXJrOdx5jpn"
-)
+    api_key="", # TODO: ADD API KEY HERE
+    api_secret="" # TODO: ADD API SECRET HERE
+ )
 
 app.register_blueprint(blueprint, url_prefix="/login")
 
